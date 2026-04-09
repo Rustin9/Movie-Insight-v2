@@ -2,6 +2,7 @@
 
 movie-insights-sa-key.json
 .env
+.env.local
 # dependencies
 /node_modules
 /.pnp

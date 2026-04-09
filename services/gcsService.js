@@ -1,7 +1,11 @@
 import { Storage } from "@google-cloud/storage";
 
+// const storage = new Storage({
+//   keyFilename: "movie-insights-sa-key.json", // path to your key
+// });
+
 const storage = new Storage({
-  keyFilename: "movie-insights-sa-key.json", // path to your key
+  credentials: JSON.parse(process.env.GOOGLE_API_KEY),
 });
 
 const bucketName = "ai-movie-insights-data";
