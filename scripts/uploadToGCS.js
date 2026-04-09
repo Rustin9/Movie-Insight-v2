@@ -15,4 +15,3 @@ async function upload() {
 }
 
 upload();
-e
