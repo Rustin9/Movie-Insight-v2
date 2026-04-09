@@ -1,13 +1,32 @@
-name: ETL
+name: ETL Pipeline
 
 on:
   push:
+    branches: [main]
+  workflow_dispatch:
 
 jobs:
-  run:
+  etl:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - run: npm install
-      - run: node scripts/fetchTMDB.js
-      - run: node scripts/transform.js
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run ETL
+        run: node scripts/etl.js
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Upload to GCS
+        run: node scripts/uploadToGCS.js
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
