@@ -29,4 +29,4 @@ jobs:
       - name: Upload to GCS
         run: node scripts/uploadToGCS.js
         env:
-          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}

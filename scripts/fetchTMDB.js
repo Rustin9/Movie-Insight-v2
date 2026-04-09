@@ -1,7 +1,7 @@
 // scripts/fetchTMDB.js
 const axios = require("axios");
 const fs = require("fs");
-TMDB_API_KEY = '6c3fa331aa41a71db126f36675ecdaac'
+
 const API_KEY = process.env.TMDB_API_KEY;
 
 async function fetchMovies() {
