@@ -11,7 +11,7 @@ if (!TMDB_API_KEY) {
   process.exit(1);
 }
 
-const moviesList = ["Inception", "Interstellar", "The Dark Knight"];
+const moviesList = ["Avatar: Fire and Ash", "Crime 101", "Project Hail Mary"];
 
 async function fetchMovie(title) {
   const searchRes = await fetch(
