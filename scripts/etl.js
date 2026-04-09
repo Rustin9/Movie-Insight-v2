@@ -2,8 +2,6 @@
 
 const fs = require("fs");
 
-// Node 18+ has built-in fetch 
-
 const TMDB_API_KEY = process.env.TMDB_API_KEY;
 
 if (!TMDB_API_KEY) {
@@ -11,51 +9,50 @@ if (!TMDB_API_KEY) {
   process.exit(1);
 }
 
-const moviesList = ["Avatar: Fire and Ash", "Crime 101", "Project Hail Mary"];
-
-async function fetchMovie(title) {
-  const searchRes = await fetch(
-    `https://api.themoviedb.org/3/search/movie?api_key=${TMDB_API_KEY}&query=${encodeURIComponent(title)}`
+async function fetchPopularMovies(page = 1) {
+  const res = await fetch(
+    `https://api.themoviedb.org/3/movie/popular?api_key=${TMDB_API_KEY}&page=${page}`
   );
 
-  const searchData = await searchRes.json();
+  const data = await res.json();
+  return data.results || [];
+}
 
-  if (!searchData.results || searchData.results.length === 0) {
-    console.log(`⚠️ No results for ${title}`);
-    return null;
-  }
-
-  const movie = searchData.results[0];
-
-  const detailRes = await fetch(
-    `https://api.themoviedb.org/3/movie/${movie.id}?api_key=${TMDB_API_KEY}&append_to_response=credits,external_ids`
+async function fetchMovieDetails(movieId) {
+  const res = await fetch(
+    `https://api.themoviedb.org/3/movie/${movieId}?api_key=${TMDB_API_KEY}&append_to_response=credits,external_ids`
   );
 
-  const details = await detailRes.json();
-
-  return {
-    tmdb_id: details.id,
-    title: details.title,
-    overview: details.overview,
-    release_date: details.release_date,
-    rating: details.vote_average,
-    genres: details.genres?.map((g) => g.name) || [],
-    cast: details.credits?.cast?.slice(0, 5).map((c) => c.name) || [],
-    imdb_id: details.external_ids?.imdb_id || null,
-  };
+  return await res.json();
 }
 
 async function runETL() {
-  console.log("🚀 Starting ETL...");
+  console.log("🚀 Starting TMDB ETL...");
 
   const results = [];
 
-  for (const movie of moviesList) {
-    console.log(`🎬 Fetching: ${movie}`);
-    const data = await fetchMovie(movie);
+  const PAGES_TO_FETCH = 2;
 
-    if (data) {
-      results.push(data);
+  for (let page = 1; page <= PAGES_TO_FETCH; page++) {
+    console.log(`📄 Fetching page ${page}`);
+
+    const movies = await fetchPopularMovies(page);
+
+    for (const movie of movies) {
+      console.log(`🎬 Processing: ${movie.title}`);
+
+      const details = await fetchMovieDetails(movie.id);
+
+      results.push({
+        tmdb_id: details.id,
+        title: details.title,
+        overview: details.overview,
+        release_date: details.release_date,
+        rating: details.vote_average,
+        genres: details.genres?.map((g) => g.name) || [],
+        cast: details.credits?.cast?.slice(0, 5).map((c) => c.name) || [],
+        imdb_id: details.external_ids?.imdb_id || null,
+      });
     }
   }
 
@@ -66,7 +63,7 @@ async function runETL() {
     JSON.stringify(results, null, 2)
   );
 
-  console.log("✅ ETL completed. File saved.");
+  console.log(`✅ ETL completed. Total movies: ${results.length}`);
 }
 
 runETL();
