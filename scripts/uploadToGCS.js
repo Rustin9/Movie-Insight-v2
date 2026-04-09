@@ -1,5 +1,5 @@
-import { Storage } from "@google-cloud/storage";
-import fs from "fs";
+const { Storage } = require("@google-cloud/storage");
+const fs = require("fs");
 
 const storage = new Storage({
   credentials: JSON.parse(process.env.GOOGLE_API_KEY),

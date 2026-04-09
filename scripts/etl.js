@@ -1,7 +1,7 @@
 // scripts/etl.js
 
-import fs from "fs";
-import fetch from "node-fetch";
+const fs = require("fs");
+const fetch = require("node-fetch");
 
 const TMDB_API_KEY = process.env.TMDB_API_KEY;
 
