@@ -8,7 +8,7 @@
       18
     ],
     "release_date": "2026-03-26",
-    "rating": 6.6,
+    "rating": 6.75,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -22,7 +22,7 @@
       14
     ],
     "release_date": "2025-12-17",
-    "rating": 7.4,
+    "rating": 7.371,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -38,7 +38,7 @@
       12
     ],
     "release_date": "2026-03-04",
-    "rating": 7.6,
+    "rating": 7.595,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -52,21 +52,7 @@
       53
     ],
     "release_date": "2026-01-28",
-    "rating": 6.798,
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "title": "Mike & Nick & Nick & Alice",
-    "tmdb_id": 1115544,
-    "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
-    "genres": [
-      35,
-      878,
-      80
-    ],
-    "release_date": "2026-03-14",
-    "rating": 6.863,
+    "rating": 6.789,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -95,7 +81,7 @@
       16
     ],
     "release_date": "2026-04-01",
-    "rating": 6.915,
+    "rating": 6.935,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -111,7 +97,21 @@
       16
     ],
     "release_date": "2023-04-05",
-    "rating": 7.6,
+    "rating": 7.588,
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "title": "Mike & Nick & Nick & Alice",
+    "tmdb_id": 1115544,
+    "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+    "genres": [
+      35,
+      878,
+      80
+    ],
+    "release_date": "2026-03-14",
+    "rating": 6.844,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -125,7 +125,7 @@
       10751
     ],
     "release_date": "2026-02-11",
-    "rating": 7.9,
+    "rating": 7.854,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -139,7 +139,34 @@
       878
     ],
     "release_date": "2026-01-07",
-    "rating": 6.511,
+    "rating": 6.49,
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "title": "Humint",
+    "tmdb_id": 1268127,
+    "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.",
+    "genres": [
+      53,
+      28,
+      18
+    ],
+    "release_date": "2026-02-11",
+    "rating": 7.269,
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "title": "Project Hail Mary",
+    "tmdb_id": 687163,
+    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+    "genres": [
+      878,
+      12
+    ],
+    "release_date": "2026-03-15",
+    "rating": 8.197,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -154,21 +181,7 @@
       27
     ],
     "release_date": "2026-03-13",
-    "rating": 6.878,
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "title": "Humint",
-    "tmdb_id": 1268127,
-    "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.",
-    "genres": [
-      53,
-      28,
-      18
-    ],
-    "release_date": "2026-02-11",
-    "rating": 7.2,
+    "rating": 6.87,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -187,32 +200,6 @@
     "link_confidence": "NONE"
   },
   {
-    "title": "Project Hail Mary",
-    "tmdb_id": 687163,
-    "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-    "genres": [
-      878,
-      12
-    ],
-    "release_date": "2026-03-15",
-    "rating": 8.199,
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "title": "Starbright",
-    "tmdb_id": 662707,
-    "overview": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
-    "genres": [
-      12,
-      28
-    ],
-    "release_date": "2026-02-27",
-    "rating": 7.3,
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "title": "The Bride!",
     "tmdb_id": 1159831,
     "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
@@ -222,7 +209,7 @@
       14
     ],
     "release_date": "2026-03-04",
-    "rating": 6.293,
+    "rating": 6.287,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -237,6 +224,19 @@
     ],
     "release_date": "2026-02-25",
     "rating": 6.03,
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "title": "Starbright",
+    "tmdb_id": 662707,
+    "overview": "A young woman becomes the guardian of a fallen star, which she must protect from dangerous forces with the help of a brave stranger.",
+    "genres": [
+      12,
+      28
+    ],
+    "release_date": "2026-02-27",
+    "rating": 7.3,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -261,24 +261,24 @@
       10751,
       9648,
       12,
-      35
+      35,
+      28
     ],
     "release_date": "2025-11-26",
-    "rating": 7.605,
+    "rating": 7.6,
     "facts": [],
     "link_confidence": "NONE"
   },
   {
-    "title": "Lola's Secret",
-    "tmdb_id": 329505,
-    "overview": "Young man has his dreams come true when the sexy new maid seduces him. But she also has a secret that leads to trouble.",
+    "title": "The Mortuary Assistant",
+    "tmdb_id": 1470130,
+    "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
     "genres": [
-      18,
-      35,
-      27
+      27,
+      9648
     ],
-    "release_date": "1984-05-04",
-    "rating": 6.9,
+    "release_date": "2026-02-13",
+    "rating": 5.512,
     "facts": [],
     "link_confidence": "NONE"
   }

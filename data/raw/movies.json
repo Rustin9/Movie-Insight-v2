@@ -17,8 +17,8 @@
       "release_date": "2026-03-26",
       "title": "Your Heart Will Be Broken",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 51
+      "vote_average": 6.75,
+      "vote_count": 54
     },
     {
       "adult": false,
@@ -37,8 +37,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar: Fire and Ash",
       "video": false,
-      "vote_average": 7.4,
-      "vote_count": 2453
+      "vote_average": 7.371,
+      "vote_count": 2458
     },
     {
       "adult": false,
@@ -59,8 +59,8 @@
       "release_date": "2026-03-04",
       "title": "Hoppers",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 419
+      "vote_average": 7.595,
+      "vote_count": 422
     },
     {
       "adult": false,
@@ -79,28 +79,8 @@
       "release_date": "2026-01-28",
       "title": "Shelter",
       "video": false,
-      "vote_average": 6.798,
-      "vote_count": 501
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
-      "genre_ids": [
-        35,
-        878,
-        80
-      ],
-      "id": 1115544,
-      "original_language": "en",
-      "original_title": "Mike & Nick & Nick & Alice",
-      "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
-      "popularity": 254.1633,
-      "poster_path": "/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
-      "release_date": "2026-03-14",
-      "title": "Mike & Nick & Nick & Alice",
-      "video": false,
-      "vote_average": 6.863,
-      "vote_count": 193
+      "vote_average": 6.789,
+      "vote_count": 504
     },
     {
       "adult": false,
@@ -119,7 +99,7 @@
       "title": "Crime 101",
       "video": false,
       "vote_average": 7,
-      "vote_count": 560
+      "vote_count": 573
     },
     {
       "adult": false,
@@ -140,8 +120,8 @@
       "release_date": "2026-04-01",
       "title": "The Super Mario Galaxy Movie",
       "video": false,
-      "vote_average": 6.915,
-      "vote_count": 323
+      "vote_average": 6.935,
+      "vote_count": 329
     },
     {
       "adult": false,
@@ -162,8 +142,28 @@
       "release_date": "2023-04-05",
       "title": "The Super Mario Bros. Movie",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 10453
+      "vote_average": 7.588,
+      "vote_count": 10454
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+      "genre_ids": [
+        35,
+        878,
+        80
+      ],
+      "id": 1115544,
+      "original_language": "en",
+      "original_title": "Mike & Nick & Nick & Alice",
+      "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
+      "popularity": 254.1633,
+      "poster_path": "/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+      "release_date": "2026-03-14",
+      "title": "Mike & Nick & Nick & Alice",
+      "video": false,
+      "vote_average": 6.844,
+      "vote_count": 195
     },
     {
       "adult": false,
@@ -182,8 +182,8 @@
       "release_date": "2026-02-11",
       "title": "GOAT",
       "video": false,
-      "vote_average": 7.9,
-      "vote_count": 345
+      "vote_average": 7.854,
+      "vote_count": 349
     },
     {
       "adult": false,
@@ -202,8 +202,47 @@
       "release_date": "2026-01-07",
       "title": "Greenland 2: Migration",
       "video": false,
-      "vote_average": 6.511,
-      "vote_count": 828
+      "vote_average": 6.49,
+      "vote_count": 834
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+      "genre_ids": [
+        53,
+        28,
+        18
+      ],
+      "id": 1268127,
+      "original_language": "ko",
+      "original_title": "휴민트",
+      "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.",
+      "popularity": 211.0277,
+      "poster_path": "/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
+      "release_date": "2026-02-11",
+      "title": "Humint",
+      "video": false,
+      "vote_average": 7.269,
+      "vote_count": 67
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 687163,
+      "original_language": "en",
+      "original_title": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "popularity": 205.3806,
+      "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "release_date": "2026-03-15",
+      "title": "Project Hail Mary",
+      "video": false,
+      "vote_average": 8.197,
+      "vote_count": 1181
     },
     {
       "adult": false,
@@ -223,28 +262,8 @@
       "release_date": "2026-03-13",
       "title": "Pretty Lethal",
       "video": false,
-      "vote_average": 6.878,
-      "vote_count": 234
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
-      "genre_ids": [
-        53,
-        28,
-        18
-      ],
-      "id": 1268127,
-      "original_language": "ko",
-      "original_title": "휴민트",
-      "overview": "A South Korean agent hunts a drug ring in Russia and goes head-to-head with a North Korean operative — pulling both into peril and tangled secrets.",
-      "popularity": 211.0277,
-      "poster_path": "/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg",
-      "release_date": "2026-02-11",
-      "title": "Humint",
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 66
+      "vote_average": 6.87,
+      "vote_count": 235
     },
     {
       "adult": false,
@@ -264,26 +283,47 @@
       "title": "War Machine",
       "video": false,
       "vote_average": 7.243,
-      "vote_count": 1370
+      "vote_count": 1374
     },
     {
       "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
       "genre_ids": [
         878,
-        12
+        27,
+        14
       ],
-      "id": 687163,
+      "id": 1159831,
       "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-      "popularity": 205.3806,
-      "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "release_date": "2026-03-15",
-      "title": "Project Hail Mary",
+      "original_title": "The Bride!",
+      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+      "popularity": 192.7732,
+      "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "release_date": "2026-03-04",
+      "title": "The Bride!",
       "video": false,
-      "vote_average": 8.199,
-      "vote_count": 1167
+      "vote_average": 6.287,
+      "vote_count": 244
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        80
+      ],
+      "id": 1159559,
+      "original_language": "en",
+      "original_title": "Scream 7",
+      "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+      "popularity": 176.2805,
+      "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+      "release_date": "2026-02-25",
+      "title": "Scream 7",
+      "video": false,
+      "vote_average": 6.03,
+      "vote_count": 697
     },
     {
       "adult": false,
@@ -306,46 +346,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
-      "genre_ids": [
-        878,
-        27,
-        14
-      ],
-      "id": 1159831,
-      "original_language": "en",
-      "original_title": "The Bride!",
-      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-      "popularity": 192.7732,
-      "poster_path": "/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "release_date": "2026-03-04",
-      "title": "The Bride!",
-      "video": false,
-      "vote_average": 6.293,
-      "vote_count": 242
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        80
-      ],
-      "id": 1159559,
-      "original_language": "en",
-      "original_title": "Scream 7",
-      "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
-      "popularity": 176.2805,
-      "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-      "release_date": "2026-02-25",
-      "title": "Scream 7",
-      "video": false,
-      "vote_average": 6.03,
-      "vote_count": 695
-    },
-    {
-      "adult": false,
       "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
       "genre_ids": [
         18
@@ -360,7 +360,7 @@
       "title": "The Passion of the Christ",
       "video": false,
       "vote_average": 7.538,
-      "vote_count": 5136
+      "vote_count": 5137
     },
     {
       "adult": false,
@@ -370,7 +370,8 @@
         10751,
         9648,
         12,
-        35
+        35,
+        28
       ],
       "id": 1084242,
       "original_language": "en",
@@ -381,30 +382,29 @@
       "release_date": "2025-11-26",
       "title": "Zootopia 2",
       "video": false,
-      "vote_average": 7.605,
-      "vote_count": 2502
+      "vote_average": 7.6,
+      "vote_count": 2505
     },
     {
       "adult": false,
-      "backdrop_path": "/tId87yE7JnQsQsqOpnGXjz9PoEe.jpg",
+      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
       "genre_ids": [
-        18,
-        35,
-        27
+        27,
+        9648
       ],
-      "id": 329505,
-      "original_language": "it",
-      "original_title": "Il peccato di Lola",
-      "overview": "Young man has his dreams come true when the sexy new maid seduces him. But she also has a secret that leads to trouble.",
-      "popularity": 112.83,
-      "poster_path": "/qaJ4iQngrLbyz9OgaQkJLppDN6m.jpg",
-      "release_date": "1984-05-04",
-      "title": "Lola's Secret",
+      "id": 1470130,
+      "original_language": "en",
+      "original_title": "The Mortuary Assistant",
+      "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
+      "popularity": 137.4141,
+      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+      "release_date": "2026-02-13",
+      "title": "The Mortuary Assistant",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 68
+      "vote_average": 5.512,
+      "vote_count": 43
     }
   ],
-  "total_pages": 56063,
-  "total_results": 1121258
+  "total_pages": 56068,
+  "total_results": 1121348
 }
