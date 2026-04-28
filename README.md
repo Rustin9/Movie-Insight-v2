@@ -41,35 +41,6 @@ The ETL runs **every 12 hours** via a scheduled GitHub Actions workflow, keeping
 | Testing | Playwright |
 
 ---
-
-## Getting Started
-
-**Prerequisites:** Node.js 18+, an OpenAI API key, a TMDB API key.
-
-**1. Clone and install**
-```bash
-git clone https://github.com/Rustin9/Movie-Insight-v2.git
-cd Movie-Insight-v2
-npm install
-```
-
-**2. Set up environment variables**
-
-Create a `.env` file in the project root:
-```env
-OPENAI_API_KEY=your_openai_key
-TMDB_API_KEY=your_tmdb_key
-GOOGLE_CREDENTIALS_JSON={"type":"service_account",...}   # optional, for GCS
-```
-
-**3. Run the app**
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000).
-
----
-
 ## Available Scripts
 
 | Command | Description |
@@ -93,25 +64,6 @@ Open [http://localhost:3000](http://localhost:3000).
 The ETL workflow commits the gold file back to the repo on every run, so the app always has a local fallback even when GCS is unavailable.
 
 ---
-
-## Evaluation
-
-The evaluation harness is in `scripts/evaluate.js`. It tests:
-
-- **5 representative cases** — scored on hook quality, theme count, trivia count
-- **2 failure cases** — partial title match, completely unknown title
-- **1 baseline comparison** — prompt-only (no stored context) vs. the full pipeline
-
-Results are saved to `data/evaluation_results.json`.
-
-```bash
-npm run evaluate
-```
-
-Latest results: **Average score 5.00 / 5** across all representative cases.
-
----
-
 ## Project Structure
 
 ```
@@ -155,6 +107,3 @@ Partial title matching is supported — typing `"Hail Mary"` resolves to `"Proje
 
 ---
 
-## License
-
-MIT
