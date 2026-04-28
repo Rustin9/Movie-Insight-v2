@@ -16,13 +16,13 @@ const GOLD_DIR = path.join(__dirname, "../data/raw/gold");
 // ─────────────────────────────────────────────────────────────────────────────
 // INIT
 // ─────────────────────────────────────────────────────────────────────────────
-if (!process.env.GOOGLE_CREDENTIALS_JSON) {
+if (!process.env.GOOGLE_API_KEY) {
   console.error("❌ GOOGLE_CREDENTIALS_JSON is missing.");
   process.exit(1);
 }
 
 const storage = new Storage({
-  credentials: JSON.parse(process.env.GOOGLE_CREDENTIALS_JSON),
+  credentials: JSON.parse(process.env.GOOGLE_API_KEY),
 });
 
 // ─────────────────────────────────────────────────────────────────────────────
