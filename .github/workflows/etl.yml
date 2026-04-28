@@ -15,7 +15,8 @@ on:
       - "scripts/etl.js"
       - "scripts/uploadToGCS.js"
       - ".github/workflows/etl.yml"
-
+permissions:
+  contents: write
 jobs:
   etl:
     name: Fetch → Transform → Upload
