@@ -1,0 +1,191 @@
+{
+  "run_at": "2026-04-27T22:57:07.559Z",
+  "model": "gpt-4o-mini",
+  "catalog_size": 60,
+  "representative_cases": [
+    {
+      "title": "Project Hail Mary",
+      "status": "success",
+      "score": 5,
+      "maxScore": 5,
+      "reasons": [
+        "hook: present and non-trivial",
+        "themes: 3 items",
+        "trivia: 5 items"
+      ],
+      "hook": "A science teacher awakens on a spaceship with no memory, tasked with saving Earth from extinction through science and an unexpected friendship.",
+      "themes": [
+        "Friendship",
+        "Survival",
+        "Scientific discovery"
+      ],
+      "trivia": [
+        "The film is based on the novel by Andy Weir.",
+        "Ryan Gosling's character utilizes unique scientific methods to solve problems.",
+        "The story explores themes of isolation and collaboration.",
+        "The film is directed by Phil Lord, known for his work in animated features.",
+        "The release date is set for March 15, 2026."
+      ]
+    },
+    {
+      "title": "Scream 7",
+      "status": "success",
+      "score": 5,
+      "maxScore": 5,
+      "reasons": [
+        "hook: present and non-trivial",
+        "themes: 3 items",
+        "trivia: 5 items"
+      ],
+      "hook": "Sidney Prescott confronts her past when a new Ghostface killer targets her family in a quiet town.",
+      "themes": [
+        "Family",
+        "Fear",
+        "Confrontation"
+      ],
+      "trivia": [
+        "This is the seventh installment in the Scream franchise.",
+        "Neve Campbell returns as Sidney Prescott after previously stepping back from the role.",
+        "The film explores the impact of trauma on family dynamics.",
+        "Kevin Williamson, known for his work on the original Scream films, returns as director.",
+        "The film features a mix of both legacy characters and new faces in the cast."
+      ]
+    },
+    {
+      "title": "Zootopia 2",
+      "status": "success",
+      "score": 5,
+      "maxScore": 5,
+      "reasons": [
+        "hook: present and non-trivial",
+        "themes: 3 items",
+        "trivia: 5 items"
+      ],
+      "hook": "Rookie cops Judy Hopps and Nick Wilde go undercover in Zootopia to solve a new mystery that tests their partnership.",
+      "themes": [
+        "friendship",
+        "identity",
+        "courage"
+      ],
+      "trivia": [
+        "The film is a sequel to the highly successful Zootopia released in 2016.",
+        "Ginnifer Goodwin and Jason Bateman reprise their roles as Judy Hopps and Nick Wilde.",
+        "New characters are introduced, including the villain Gary De'Snake.",
+        "The film explores new parts of Zootopia, expanding the world-building of the original.",
+        "Jared Bush returns as director, continuing the vision from the first film."
+      ]
+    },
+    {
+      "title": "Avatar: Fire and Ash",
+      "status": "success",
+      "score": 5,
+      "maxScore": 5,
+      "reasons": [
+        "hook: present and non-trivial",
+        "themes: 3 items",
+        "trivia: 5 items"
+      ],
+      "hook": "In the wake of the devastating war against the RDA, Jake Sully and Neytiri must confront a new threat from the Ash People, a powerful Na'vi tribe.",
+      "themes": [
+        "Survival",
+        "Family",
+        "Conflict"
+      ],
+      "trivia": [
+        "This film is a sequel to 'Avatar: The Way of Water'.",
+        "James Cameron continues to expand the Avatar universe with this installment.",
+        "The film explores deeper themes of community and environmentalism.",
+        "New technology was developed for the underwater filming scenes.",
+        "The Ash People tribe introduces a new culture within the Na'vi."
+      ]
+    },
+    {
+      "title": "The Super Mario Bros. Movie",
+      "status": "success",
+      "score": 5,
+      "maxScore": 5,
+      "reasons": [
+        "hook: present and non-trivial",
+        "themes: 3 items",
+        "trivia: 5 items"
+      ],
+      "hook": "Join Mario on an epic adventure through a magical world to rescue his brother Luigi in 'The Super Mario Bros. Movie'.",
+      "themes": [
+        "Brotherhood",
+        "Adventure",
+        "Courage"
+      ],
+      "trivia": [
+        "The film features a blend of CGI and traditional animation styles.",
+        "Chris Pratt voices Mario, while Anya Taylor-Joy plays Princess Peach.",
+        "Jack Black takes on the role of Bowser, the main antagonist.",
+        "The movie is inspired by the popular video game franchise.",
+        "It was released in theaters on April 5, 2023."
+      ]
+    }
+  ],
+  "failure_cases": [
+    {
+      "query": "Hail Mary",
+      "note": "Partial title — should still resolve via fuzzy match",
+      "status": "fuzzy_match_resolved",
+      "matched_title": "Project Hail Mary"
+    },
+    {
+      "query": "Nonexistent Film 9999",
+      "note": "Completely unknown title — should return 404 gracefully",
+      "status": "graceful_404",
+      "matched_title": null
+    }
+  ],
+  "baseline_comparison": {
+    "movie": "Project Hail Mary",
+    "current_system": {
+      "score": 5,
+      "maxScore": 5,
+      "output": {
+        "hook": "A science teacher awakens on a spaceship with no memory, tasked with saving Earth from extinction while forming an unexpected friendship.",
+        "themes": [
+          "Survival",
+          "Friendship",
+          "Science and Exploration"
+        ],
+        "trivia": [
+          "Based on the bestselling novel by Andy Weir.",
+          "Ryan Gosling stars in a leading role, marking another collaboration with director Phil Lord.",
+          "The film explores complex scientific concepts in an accessible way.",
+          "The release date is set for March 15, 2026.",
+          "The movie combines elements of adventure with deep emotional themes."
+        ]
+      }
+    },
+    "baseline": {
+      "score": 5,
+      "maxScore": 5,
+      "output": {
+        "hook": "Astronaut Ryland Grace wakes up alone on a spaceship with no memory of how he got there, only to discover he must save humanity from an extinction-level threat caused by a mysterious alien microorganism.",
+        "themes": [
+          "Isolation and Loneliness",
+          "The Power of Collaboration",
+          "Survival and Sacrifice"
+        ],
+        "trivia": [
+          "The novel was written by Andy Weir, who is also known for his debut novel 'The Martian'.",
+          "Project Hail Mary features a unique friendship between Ryland Grace and an alien species, showcasing themes of understanding and cooperation.",
+          "The title 'Hail Mary' refers to a last-ditch effort or a desperate attempt to achieve a goal, often used in sports and religion.",
+          "The book was praised for its scientific accuracy, with many concepts based on real physics and biology.",
+          "The story explores complex themes of communication and trust between different species and cultures."
+        ]
+      }
+    },
+    "verdict": "Current system ≥ baseline (expected)"
+  },
+  "summary": {
+    "total_representative": 5,
+    "succeeded": 5,
+    "avg_score": "5.00",
+    "failure_cases_tested": 2,
+    "graceful_404s": 1,
+    "fuzzy_matches": 1
+  }
+}

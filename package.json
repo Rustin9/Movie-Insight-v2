@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "jest"
+    "test": "jest",
+    "etl": "node scripts/etl.js",
+    "evaluate": "node scripts/evaluate.js"
   },
   "dependencies": {
     "@google-cloud/storage": "^7.19.0",

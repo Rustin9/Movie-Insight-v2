@@ -1,32 +1,63 @@
 name: ETL Pipeline
 
 on:
+  # ── Scheduled: every 12 hours ──────────────────────────────────────────────
+  schedule:
+    - cron: "0 */12 * * *"   # 00:00 and 12:00 UTC daily
+
+  # ── Manual trigger from GitHub UI ──────────────────────────────────────────
+  workflow_dispatch:
+
+  # ── On every push to main (useful during development) ──────────────────────
   push:
     branches: [main]
-  workflow_dispatch:
+    paths:
+      - "scripts/etl.js"
+      - "scripts/uploadToGCS.js"
+      - ".github/workflows/etl.yml"
 
 jobs:
   etl:
+    name: Fetch → Transform → Upload
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
+      # 1. Check out repo
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      # 2. Set up Node.js
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
+          cache: "npm"
 
+      # 3. Install dependencies (CI mode — no lockfile mutations)
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
+      # 4. Run unified ETL (fetch TMDB → transform → write gold file to disk)
       - name: Run ETL
         run: node scripts/etl.js
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
 
+      # 5. Upload gold file + metadata to GCS
       - name: Upload to GCS
         run: node scripts/uploadToGCS.js
         env:
-           GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
+          GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
+
+      # 6. Commit the gold file back to the repo so it's always visible
+      #    (fallback when GCS is unavailable or for local dev)
+      - name: Commit gold data to repo
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add data/raw/gold/movies.json data/raw/gold/etl_meta.json || true
+          git diff --staged --quiet || git commit -m "chore(etl): refresh gold data [skip ci]"
+          git push || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
