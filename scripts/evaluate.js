@@ -1,15 +1,3 @@
-// scripts/evaluate.js
-// ─────────────────────────────────────────────────────────────────────────────
-// Evaluation harness for AI Movie Insights
-//
-// Runs:
-//   • 5 representative cases  (expected to succeed)
-//   • 2 failure cases         (expected to fail / degrade gracefully)
-//   • 1 lightweight baseline  (naive prompt-only, no stored movie context)
-//
-// Outputs results to: data/evaluation_results.json
-// ─────────────────────────────────────────────────────────────────────────────
-
 require("dotenv").config();
 
 const fs   = require("fs");
