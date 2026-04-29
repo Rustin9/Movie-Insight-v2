@@ -50,7 +50,7 @@ jobs:
         run: node scripts/uploadToGCS.js
         env:
           GOOGLE_CREDENTIALS_JSON: ${{ secrets.GOOGLE_CREDENTIALS_JSON }}
-
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       # 6. Commit the gold file back to the repo so it's always visible
       #    (fallback when GCS is unavailable or for local dev)
       - name: Commit gold data to repo
