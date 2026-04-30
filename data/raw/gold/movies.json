@@ -4,7 +4,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.52,
+    "rating": 6.494,
     "genres": [
       "Action",
       "Thriller"
@@ -18,7 +18,7 @@
     ],
     "director": "Baltasar Kormákur",
     "imdb_id": "tt16431404",
-    "poster_path": "/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+    "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
     "backdrop_path": "/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
     "facts": [],
     "link_confidence": "NONE"
@@ -79,7 +79,7 @@
     "title": "Send Help",
     "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
     "release_date": "2026-01-22",
-    "rating": 7.034,
+    "rating": 7.035,
     "genres": [
       "Horror",
       "Thriller",
@@ -104,7 +104,7 @@
     "title": "Michael",
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "release_date": "2026-04-22",
-    "rating": 7.614,
+    "rating": 7.6,
     "genres": [
       "Music",
       "Drama"
@@ -179,7 +179,7 @@
     "title": "Avatar: Fire and Ash",
     "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
     "release_date": "2025-12-17",
-    "rating": 7.379,
+    "rating": 7.372,
     "genres": [
       "Science Fiction",
       "Adventure",
@@ -204,7 +204,7 @@
     "title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "release_date": "2026-03-04",
-    "rating": 7.654,
+    "rating": 7.67,
     "genres": [
       "Adventure",
       "Animation",
@@ -255,7 +255,7 @@
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.208,
+    "rating": 8.209,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -350,7 +350,7 @@
     "title": "GOAT",
     "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
     "release_date": "2026-02-11",
-    "rating": 7.913,
+    "rating": 7.911,
     "genres": [
       "Animation",
       "Comedy",
@@ -496,7 +496,7 @@
     "title": "Sniper: No Nation",
     "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
     "release_date": "2026-04-07",
-    "rating": 6.4,
+    "rating": 6.365,
     "genres": [
       "Action",
       "Thriller"
@@ -520,7 +520,7 @@
     "title": "Zootopia 2",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "release_date": "2025-11-26",
-    "rating": 7.609,
+    "rating": 7.61,
     "genres": [
       "Adventure",
       "Animation",
@@ -569,30 +569,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1304313,
-    "title": "Lee Cronin's The Mummy",
-    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-    "release_date": "2026-04-15",
-    "rating": 6.8,
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "cast": [
-      "Jack Reynor",
-      "Laia Costa",
-      "May Calamawy",
-      "Natalie Grace",
-      "Shylo Molina"
-    ],
-    "director": "Lee Cronin",
-    "imdb_id": "tt32612507",
-    "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-    "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1290417,
     "title": "Thrash",
     "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
@@ -621,7 +597,7 @@
     "title": "Balls Up",
     "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
     "release_date": "2026-04-15",
-    "rating": 5.715,
+    "rating": 5.706,
     "genres": [
       "Comedy",
       "Action",
@@ -744,7 +720,7 @@
     "title": "Scream 7",
     "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
     "release_date": "2026-02-25",
-    "rating": 6.1,
+    "rating": 6.056,
     "genres": [
       "Horror",
       "Mystery",
@@ -761,6 +737,30 @@
     "imdb_id": "tt27047903",
     "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
     "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1304313,
+    "title": "Lee Cronin's The Mummy",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "release_date": "2026-04-15",
+    "rating": 6.8,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "cast": [
+      "Jack Reynor",
+      "Laia Costa",
+      "May Calamawy",
+      "Natalie Grace",
+      "Shylo Molina"
+    ],
+    "director": "Lee Cronin",
+    "imdb_id": "tt32612507",
+    "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+    "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -889,7 +889,7 @@
     "title": "Tu Yaa Main",
     "overview": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
     "release_date": "2026-02-11",
-    "rating": 6,
+    "rating": 6.1,
     "genres": [
       "Thriller",
       "Romance"
@@ -964,7 +964,7 @@
     "title": "Anaconda",
     "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
     "release_date": "2025-12-24",
-    "rating": 5.883,
+    "rating": 5.9,
     "genres": [
       "Adventure",
       "Comedy",
@@ -1111,7 +1111,7 @@
     "title": "Greenland 2: Migration",
     "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
     "release_date": "2026-01-07",
-    "rating": 6.4,
+    "rating": 6.435,
     "genres": [
       "Adventure",
       "Thriller",
@@ -1212,7 +1212,7 @@
     "title": "Whistle",
     "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
     "release_date": "2026-01-20",
-    "rating": 6.125,
+    "rating": 6.1,
     "genres": [
       "Horror",
       "Mystery"
@@ -1310,7 +1310,7 @@
     "title": "Mike & Nick & Nick & Alice",
     "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
     "release_date": "2026-03-14",
-    "rating": 6.774,
+    "rating": 6.785,
     "genres": [
       "Comedy",
       "Science Fiction",
@@ -1331,36 +1331,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 634649,
-    "title": "Spider-Man: No Way Home",
-    "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
-    "release_date": "2021-12-15",
-    "rating": 7.933,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Tom Holland",
-      "Zendaya",
-      "Benedict Cumberbatch",
-      "Jacob Batalon",
-      "Jon Favreau"
-    ],
-    "director": "Jon Watts",
-    "imdb_id": "tt10872600",
-    "poster_path": "/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
-    "backdrop_path": "/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1367642,
     "title": "Reminders of Him",
     "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
     "release_date": "2026-03-11",
-    "rating": 7.2,
+    "rating": 7.208,
     "genres": [
       "Romance",
       "Drama"
@@ -1475,6 +1450,28 @@
     "imdb_id": "tt40891145",
     "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
     "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 979571,
+    "title": "The Chumps",
+    "overview": "When the story begins, a newly married couple (Franklin Pangborn and Marjorie Beebe) board a train for their honeymoon. Soon they make friends with what they THINK is a nice couple...not realizing they are card sharps. They crooks are spotted on the train and are warned NOT to take advantage of other passengers...so they invite the couple to their home in order to fleece them. Does the plan go as the crooks planned?",
+    "release_date": "1930-07-16",
+    "rating": 3.667,
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Marjorie Beebe",
+      "Franklin Pangborn",
+      "Andy Clyde",
+      "Bud Jamison"
+    ],
+    "director": "Mack Sennett",
+    "imdb_id": "tt0020765",
+    "poster_path": null,
+    "backdrop_path": null,
     "facts": [],
     "link_confidence": "NONE"
   }
