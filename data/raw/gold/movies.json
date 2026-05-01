@@ -4,7 +4,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.516,
+    "rating": 6.509,
     "genres": [
       "Action",
       "Thriller"
@@ -28,7 +28,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 6.7,
+    "rating": 6.725,
     "genres": [
       "Family",
       "Comedy",
@@ -75,11 +75,35 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 936075,
+    "title": "Michael",
+    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+    "release_date": "2026-04-22",
+    "rating": 7.6,
+    "genres": [
+      "Music",
+      "Drama"
+    ],
+    "cast": [
+      "Jaafar Jackson",
+      "Colman Domingo",
+      "Nia Long",
+      "Juliano Krue Valdi",
+      "KeiLyn Durrel Jones"
+    ],
+    "director": "Antoine Fuqua",
+    "imdb_id": "tt11378946",
+    "poster_path": "/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+    "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1198994,
     "title": "Send Help",
     "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
     "release_date": "2026-01-22",
-    "rating": 7.032,
+    "rating": 7.023,
     "genres": [
       "Horror",
       "Thriller",
@@ -100,26 +124,27 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 936075,
-    "title": "Michael",
-    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-    "release_date": "2026-04-22",
-    "rating": 7.597,
+    "tmdb_id": 1292695,
+    "title": "They Will Kill You",
+    "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "release_date": "2026-03-25",
+    "rating": 6.565,
     "genres": [
-      "Music",
-      "Drama"
+      "Action",
+      "Comedy",
+      "Horror"
     ],
     "cast": [
-      "Jaafar Jackson",
-      "Colman Domingo",
-      "Nia Long",
-      "Juliano Krue Valdi",
-      "KeiLyn Durrel Jones"
+      "Zazie Beetz",
+      "Patricia Arquette",
+      "Myha'la",
+      "Paterson Joseph",
+      "Tom Felton"
     ],
-    "director": "Antoine Fuqua",
-    "imdb_id": "tt11378946",
-    "poster_path": "/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
-    "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+    "director": "Kirill Sokolov",
+    "imdb_id": "tt31728330",
+    "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+    "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -150,27 +175,29 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1292695,
-    "title": "They Will Kill You",
-    "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-    "release_date": "2026-03-25",
-    "rating": 6.513,
+    "tmdb_id": 1327819,
+    "title": "Hoppers",
+    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "release_date": "2026-03-04",
+    "rating": 7.693,
     "genres": [
-      "Action",
+      "Adventure",
+      "Animation",
       "Comedy",
-      "Horror"
+      "Family",
+      "Science Fiction"
     ],
     "cast": [
-      "Zazie Beetz",
-      "Patricia Arquette",
-      "Myha'la",
-      "Paterson Joseph",
-      "Tom Felton"
+      "Piper Curda",
+      "Bobby Moynihan",
+      "Jon Hamm",
+      "Kathy Najimy",
+      "Dave Franco"
     ],
-    "director": "Kirill Sokolov",
-    "imdb_id": "tt31728330",
-    "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-    "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+    "director": "Daniel Chong",
+    "imdb_id": "tt26443616",
+    "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -200,38 +227,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1327819,
-    "title": "Hoppers",
-    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-    "release_date": "2026-03-04",
-    "rating": 7.7,
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Comedy",
-      "Family",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Piper Curda",
-      "Bobby Moynihan",
-      "Jon Hamm",
-      "Kathy Najimy",
-      "Dave Franco"
-    ],
-    "director": "Daniel Chong",
-    "imdb_id": "tt26443616",
-    "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-    "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1613798,
     "title": "Vengeance",
     "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
     "release_date": "2026-02-26",
-    "rating": 7,
+    "rating": 7.085,
     "genres": [
       "Action",
       "Thriller"
@@ -251,11 +251,34 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 10867,
+    "title": "Malena",
+    "overview": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
+    "release_date": "2000-10-27",
+    "rating": 7.429,
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Monica Bellucci",
+      "Giuseppe Sulfaro",
+      "Luciano Federico",
+      "Matilde Piana",
+      "Pietro Notarianni"
+    ],
+    "director": "Giuseppe Tornatore",
+    "imdb_id": "tt0213847",
+    "poster_path": "/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
+    "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 687163,
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.209,
+    "rating": 8.207,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -302,7 +325,7 @@
     "title": "Shelter",
     "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
     "release_date": "2026-01-28",
-    "rating": 6.789,
+    "rating": 6.793,
     "genres": [
       "Action",
       "Crime",
@@ -323,25 +346,26 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 10867,
-    "title": "Malena",
-    "overview": "12-year-old Renato experiences three significant events on the same day: the beginning of the Second World War, getting a bike, and witnessing the arrival of the gorgeous Malèna. Through his eyes, we see the curse of beauty and loneliness of Malena, whose husband is presumed dead, and, through his soul, we see his love for her.",
-    "release_date": "2000-10-27",
-    "rating": 7.427,
+    "tmdb_id": 350,
+    "title": "The Devil Wears Prada",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "release_date": "2006-06-29",
+    "rating": 7.389,
     "genres": [
-      "Drama"
+      "Drama",
+      "Comedy"
     ],
     "cast": [
-      "Monica Bellucci",
-      "Giuseppe Sulfaro",
-      "Luciano Federico",
-      "Matilde Piana",
-      "Pietro Notarianni"
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Simon Baker"
     ],
-    "director": "Giuseppe Tornatore",
-    "imdb_id": "tt0213847",
-    "poster_path": "/3OyQTl0IGkbnjDxd3MhztfPE34g.jpg",
-    "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+    "director": "David Frankel",
+    "imdb_id": "tt0458352",
+    "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -350,7 +374,7 @@
     "title": "GOAT",
     "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
     "release_date": "2026-02-11",
-    "rating": 7.911,
+    "rating": 7.9,
     "genres": [
       "Animation",
       "Comedy",
@@ -375,7 +399,7 @@
     "title": "Crime 101",
     "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
     "release_date": "2026-02-11",
-    "rating": 6.936,
+    "rating": 6.935,
     "genres": [
       "Crime",
       "Thriller"
@@ -420,54 +444,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 350,
-    "title": "The Devil Wears Prada",
-    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
-    "release_date": "2006-06-29",
-    "rating": 7.389,
-    "genres": [
-      "Drama",
-      "Comedy"
-    ],
-    "cast": [
-      "Meryl Streep",
-      "Anne Hathaway",
-      "Emily Blunt",
-      "Stanley Tucci",
-      "Simon Baker"
-    ],
-    "director": "David Frankel",
-    "imdb_id": "tt0458352",
-    "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
-    "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1601797,
-    "title": "¿Quieres ser mi novia?",
-    "overview": "Javi and Lu's relationship faces dangerous territory as old and new temptations emerge: a young woman reigniting Javi's chemistry and a mature man pursuing Lu. Through humor, entanglements, and surprises, their love is tested.",
-    "release_date": "2026-02-12",
-    "rating": 8.482,
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "cast": [
-      "Ludwika Paleta",
-      "Juanpa Zurita",
-      "Harold Azuara",
-      "Yuriria del Valle",
-      "Moisés Arizmendi"
-    ],
-    "director": "Ihtzi Hurtado",
-    "imdb_id": "tt35979013",
-    "poster_path": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
-    "backdrop_path": "/1ZruuRXztqC3QQybbgbVxVrdNjv.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1470130,
     "title": "The Mortuary Assistant",
     "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
@@ -492,35 +468,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1641319,
-    "title": "Sniper: No Nation",
-    "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
-    "release_date": "2026-04-07",
-    "rating": 6.365,
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "cast": [
-      "Chad Michael Collins",
-      "Ryan Robbins",
-      "Manuel Rodriguez-Saenz",
-      "Josh Brener",
-      "Tom Berenger"
-    ],
-    "director": "Trevor Calverley",
-    "imdb_id": "tt39538786",
-    "poster_path": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
-    "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1084242,
     "title": "Zootopia 2",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "release_date": "2025-11-26",
-    "rating": 7.609,
+    "rating": 7.608,
     "genres": [
       "Adventure",
       "Animation",
@@ -569,51 +521,50 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1290417,
-    "title": "Thrash",
-    "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
-    "release_date": "2026-04-10",
-    "rating": 6,
+    "tmdb_id": 1601797,
+    "title": "¿Quieres ser mi novia?",
+    "overview": "Javi and Lu's relationship faces dangerous territory as old and new temptations emerge: a young woman reigniting Javi's chemistry and a mature man pursuing Lu. Through humor, entanglements, and surprises, their love is tested.",
+    "release_date": "2026-02-12",
+    "rating": 8.438,
     "genres": [
-      "Horror",
-      "Thriller"
+      "Comedy",
+      "Romance"
     ],
     "cast": [
-      "Phoebe Dynevor",
-      "Whitney Peak",
-      "Djimon Hounsou",
-      "Alyla Browne",
-      "Stacy Clausen"
+      "Ludwika Paleta",
+      "Juanpa Zurita",
+      "Harold Azuara",
+      "Yuriria del Valle",
+      "Moisés Arizmendi"
     ],
-    "director": "Tommy Wirkola",
-    "imdb_id": "tt32362890",
-    "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
-    "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+    "director": "Ihtzi Hurtado",
+    "imdb_id": "tt35979013",
+    "poster_path": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
+    "backdrop_path": "/1ZruuRXztqC3QQybbgbVxVrdNjv.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1084577,
-    "title": "Balls Up",
-    "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
-    "release_date": "2026-04-15",
-    "rating": 5.703,
+    "tmdb_id": 1641319,
+    "title": "Sniper: No Nation",
+    "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
+    "release_date": "2026-04-07",
+    "rating": 6.4,
     "genres": [
-      "Comedy",
       "Action",
-      "Adventure"
+      "Thriller"
     ],
     "cast": [
-      "Mark Wahlberg",
-      "Paul Walter Hauser",
-      "Sacha Baron Cohen",
-      "Benjamin Bratt",
-      "Luciano Szafir"
+      "Chad Michael Collins",
+      "Ryan Robbins",
+      "Manuel Rodriguez-Saenz",
+      "Josh Brener",
+      "Tom Berenger"
     ],
-    "director": "Peter Farrelly",
-    "imdb_id": "tt26735622",
-    "poster_path": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
-    "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+    "director": "Trevor Calverley",
+    "imdb_id": "tt39538786",
+    "poster_path": "/tUmARo0TZEK1EaSuS6dU35FhDyU.jpg",
+    "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -622,7 +573,7 @@
     "title": "Predator: Badlands",
     "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
     "release_date": "2025-11-05",
-    "rating": 7.689,
+    "rating": 7.688,
     "genres": [
       "Action",
       "Science Fiction",
@@ -645,9 +596,9 @@
   {
     "tmdb_id": 1314481,
     "title": "The Devil Wears Prada 2",
-    "overview": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton.",
+    "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
     "release_date": "2026-04-29",
-    "rating": 6.7,
+    "rating": 6.326,
     "genres": [
       "Comedy",
       "Drama"
@@ -662,7 +613,53 @@
     "director": "David Frankel",
     "imdb_id": "tt33612209",
     "poster_path": "/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
-    "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+    "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 412201,
+    "title": "The Fixer",
+    "overview": "Romanian-born Radu Patru is a trainee at a prestigious French news network. Serving as a translator and general problem solver, or \"fixer,\" for the headlining journalists during his trial period, he's looking to make his big break. He sees his opportunity when two underage Romanian prostitutes are repatriated from France, creating an international scandal. Taking advantage of his language skills and local connections, Radu is prepared to do whatever it takes to interview one of the young girls. But as he ventures into tricky moral ground, he must stop to ask himself if, as an aspiring journalist, he can live with the consequences of his actions, and if, as a father, he's setting a good example for his son.",
+    "release_date": "2017-03-22",
+    "rating": 6.5,
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Tudor Aaron Istodor",
+      "Mehdi Nebbou",
+      "Nicolas Wanczycki",
+      "Adrian Titieni",
+      "Diana Spatarescu"
+    ],
+    "director": "Adrian Sitaru",
+    "imdb_id": "tt4950192",
+    "poster_path": "/aCTDG1kKROuCt3jnTkiFKmY3BHq.jpg",
+    "backdrop_path": "/240ZADOdI5WjD0eBFyiNh3KQl4m.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 440249,
+    "title": "After Porn Ends 2",
+    "overview": "After Porn Ends 2 picks up where its predecessor left off and not only turns back the clock to meet the oldest living stars in adult film's history, but goes in depth with some of Its most current retirees and juxtaposes their experiences in a life after porn. Delving deeper into society's ongoing stigmas of race, misogyny, and the reality of decreasing opportunities for these former VHS box cover stars. For some, their careers in adult entertainment is accepted proudly and without regret. In fact, it seems to have proven to be the pathway to their current happiness and inner peace. For others, however, a career in porn has proven to be a conduit to certain despair as they struggle to find a way to bury their past and emerge with a new career or calling.",
+    "release_date": "2017-03-28",
+    "rating": 5.335,
+    "genres": [
+      "Documentary"
+    ],
+    "cast": [
+      "Ginger Lynn",
+      "Lisa Ann",
+      "Janine Lindemulder",
+      "Chasey Lain",
+      "Tabitha Stevens"
+    ],
+    "director": "Bryce Wagoner",
+    "imdb_id": "tt5168832",
+    "poster_path": "/rfItXrtDGILwsCdmgVxX79phFuI.jpg",
+    "backdrop_path": "/3Sq9c1Lxh75neQ2BC9thaTO74FZ.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -693,11 +690,86 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 387592,
+    "title": "Early Man",
+    "overview": "Dug, along with his sidekick Hognob, unite a cavemen tribe to save their hidden valley from being spoiled and, all together as a team, to face the menace of a mysterious and mighty enemy, on the turf of an ancient and sacred sport.",
+    "release_date": "2018-01-26",
+    "rating": 6.139,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Animation",
+      "Adventure"
+    ],
+    "cast": [
+      "Eddie Redmayne",
+      "Tom Hiddleston",
+      "Maisie Williams",
+      "Timothy Spall",
+      "Miriam Margolyes"
+    ],
+    "director": "Nick Park",
+    "imdb_id": "tt4701724",
+    "poster_path": "/5iW2rntwLZoGlFCYYy8TjHyblbw.jpg",
+    "backdrop_path": "/o3XZUwX37gqhpoQcBpqturGTF3Z.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1290417,
+    "title": "Thrash",
+    "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
+    "release_date": "2026-04-10",
+    "rating": 5.925,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Phoebe Dynevor",
+      "Whitney Peak",
+      "Djimon Hounsou",
+      "Alyla Browne",
+      "Stacy Clausen"
+    ],
+    "director": "Tommy Wirkola",
+    "imdb_id": "tt32362890",
+    "poster_path": "/adk8weka3O5648g3de4z3y4aE7G.jpg",
+    "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1084577,
+    "title": "Balls Up",
+    "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
+    "release_date": "2026-04-15",
+    "rating": 5.7,
+    "genres": [
+      "Comedy",
+      "Action",
+      "Adventure"
+    ],
+    "cast": [
+      "Mark Wahlberg",
+      "Paul Walter Hauser",
+      "Sacha Baron Cohen",
+      "Benjamin Bratt",
+      "Luciano Szafir"
+    ],
+    "director": "Peter Farrelly",
+    "imdb_id": "tt26735622",
+    "poster_path": "/xwvJ3WzdJ1OCuDoY8LAxBUlQyig.jpg",
+    "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1368166,
     "title": "The Housemaid",
     "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
     "release_date": "2025-12-18",
-    "rating": 7.229,
+    "rating": 7.227,
     "genres": [
       "Mystery",
       "Thriller"
@@ -717,34 +789,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 440249,
-    "title": "After Porn Ends 2",
-    "overview": "After Porn Ends 2 picks up where its predecessor left off and not only turns back the clock to meet the oldest living stars in adult film's history, but goes in depth with some of Its most current retirees and juxtaposes their experiences in a life after porn. Delving deeper into society's ongoing stigmas of race, misogyny, and the reality of decreasing opportunities for these former VHS box cover stars. For some, their careers in adult entertainment is accepted proudly and without regret. In fact, it seems to have proven to be the pathway to their current happiness and inner peace. For others, however, a career in porn has proven to be a conduit to certain despair as they struggle to find a way to bury their past and emerge with a new career or calling.",
-    "release_date": "2017-03-28",
-    "rating": 5.335,
-    "genres": [
-      "Documentary"
-    ],
-    "cast": [
-      "Ginger Lynn",
-      "Lisa Ann",
-      "Janine Lindemulder",
-      "Chasey Lain",
-      "Tabitha Stevens"
-    ],
-    "director": "Bryce Wagoner",
-    "imdb_id": "tt5168832",
-    "poster_path": "/rfItXrtDGILwsCdmgVxX79phFuI.jpg",
-    "backdrop_path": "/3Sq9c1Lxh75neQ2BC9thaTO74FZ.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1304313,
     "title": "Lee Cronin's The Mummy",
     "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
     "release_date": "2026-04-15",
-    "rating": 6.769,
+    "rating": 6.768,
     "genres": [
       "Horror",
       "Mystery"
@@ -760,6 +809,78 @@
     "imdb_id": "tt32612507",
     "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
     "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1159559,
+    "title": "Scream 7",
+    "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+    "release_date": "2026-02-25",
+    "rating": 6.056,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Crime"
+    ],
+    "cast": [
+      "Neve Campbell",
+      "Courteney Cox",
+      "Isabel May",
+      "Jasmin Savoy Brown",
+      "Mason Gooding"
+    ],
+    "director": "Kevin Williamson",
+    "imdb_id": "tt27047903",
+    "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
+    "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1499885,
+    "title": "The Red Book Ritual: Gates of Hell",
+    "overview": "Robbie embarks on a dangerous quest to contact his deceased girlfriend through a ritual that summons the dead. He heads to an abandoned house with a group of young people to perform the \"Red Book Ritual.\" But during the summoning, supernatural forces awaken. Now they must face ancient horrors to survive.",
+    "release_date": "2025-09-18",
+    "rating": 5.364,
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Mario González Martí",
+      "Lizzie Gómez",
+      "Matias Miranda",
+      "Tainá Lipinski",
+      "Bianca Vacchetta"
+    ],
+    "director": "Carlos Baena",
+    "imdb_id": "tt36332085",
+    "poster_path": "/dOLRsvnjOB6rCx6olyRsMT92PxI.jpg",
+    "backdrop_path": "/mXeINZrLRKbIw51spnruegjmLBS.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1270125,
+    "title": "Monster on a Plane",
+    "overview": "An exotic animal turns into a monster and becomes a deadly danger for all passengers.",
+    "release_date": "2024-11-07",
+    "rating": 4.694,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "cast": [
+      "Eva Habermann",
+      "Robin Czerny",
+      "Philippe Brenninkmeyer",
+      "Dieter Landuris",
+      "Fred Aaron Blake"
+    ],
+    "director": "Ezra Tsegaye",
+    "imdb_id": "tt27811009",
+    "poster_path": "/9fBcq5WiH3z4YGjS2iVESRKxcW4.jpg",
+    "backdrop_path": "/apMl96DIrewME0s87rP733yb37Q.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -788,99 +909,28 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1010755,
-    "title": "The Strangers: Chapter 3",
-    "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
-    "release_date": "2026-02-05",
-    "rating": 5.584,
+    "tmdb_id": 1414413,
+    "title": "Brothers Under Fire",
+    "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
+    "release_date": "2026-04-15",
+    "rating": 6.333,
     "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "cast": [
-      "Madelaine Petsch",
-      "Richard Brake",
-      "Ema Horvath",
-      "Gabriel Basso",
-      "Pedro Leandro"
-    ],
-    "director": "Renny Harlin",
-    "imdb_id": "tt28682323",
-    "poster_path": "/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
-    "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1159559,
-    "title": "Scream 7",
-    "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
-    "release_date": "2026-02-25",
-    "rating": 6.061,
-    "genres": [
-      "Horror",
+      "Action",
+      "Thriller",
       "Mystery",
-      "Crime"
+      "Drama"
     ],
     "cast": [
-      "Neve Campbell",
-      "Courteney Cox",
-      "Isabel May",
-      "Jasmin Savoy Brown",
-      "Mason Gooding"
+      "Kiefer Sutherland",
+      "Tommy Martinez",
+      "Ashton Sanders",
+      "Solly McLeod",
+      "Laura Osma"
     ],
-    "director": "Kevin Williamson",
-    "imdb_id": "tt27047903",
-    "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
-    "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1499885,
-    "title": "The Red Book Ritual: Gates of Hell",
-    "overview": "Robbie embarks on a dangerous quest to contact his deceased girlfriend through a ritual that summons the dead. He heads to an abandoned house with a group of young people to perform the \"Red Book Ritual.\" But during the summoning, supernatural forces awaken. Now they must face ancient horrors to survive.",
-    "release_date": "2025-09-18",
-    "rating": 4.9,
-    "genres": [
-      "Horror"
-    ],
-    "cast": [
-      "Mario González Martí",
-      "Lizzie Gómez",
-      "Matias Miranda",
-      "Tainá Lipinski",
-      "Bianca Vacchetta"
-    ],
-    "director": "Carlos Baena",
-    "imdb_id": "tt36332085",
-    "poster_path": "/dOLRsvnjOB6rCx6olyRsMT92PxI.jpg",
-    "backdrop_path": "/mXeINZrLRKbIw51spnruegjmLBS.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 157336,
-    "title": "Interstellar",
-    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-    "release_date": "2014-11-05",
-    "rating": 8.47,
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Matthew McConaughey",
-      "Anne Hathaway",
-      "Michael Caine",
-      "Jessica Chastain",
-      "Casey Affleck"
-    ],
-    "director": "Christopher Nolan",
-    "imdb_id": "tt0816692",
-    "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-    "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+    "director": "Justin Chadwick",
+    "imdb_id": "tt32394984",
+    "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
+    "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -909,26 +959,146 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1446616,
-    "title": "Tu Yaa Main",
-    "overview": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
-    "release_date": "2026-02-11",
-    "rating": 6.1,
+    "tmdb_id": 157336,
+    "title": "Interstellar",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "release_date": "2014-11-05",
+    "rating": 8.471,
     "genres": [
-      "Thriller",
-      "Romance"
+      "Adventure",
+      "Drama",
+      "Science Fiction"
     ],
     "cast": [
-      "Adarsh Gourav",
-      "Shanaya Kapoor",
-      "Kshitee Jog",
-      "Parul Gulati",
-      "Ansh Chopra"
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Michael Caine",
+      "Jessica Chastain",
+      "Casey Affleck"
     ],
-    "director": "Bejoy Nambiar",
-    "imdb_id": "tt36118360",
-    "poster_path": "/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
-    "backdrop_path": "/zIOBTZAqGwdKnOb5c6SvzxP7x86.jpg",
+    "director": "Christopher Nolan",
+    "imdb_id": "tt0816692",
+    "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 846433,
+    "title": "The Enforcer",
+    "overview": "A noir thriller set in Miami, the film follows an enforcer who discovers his femme fatale boss has branched out into cyber sex trafficking, putting a young runaway he’s befriended at risk. He sacrifices everything to save the young girl from the deadly organization he’s spent his life building.",
+    "release_date": "2022-09-22",
+    "rating": 7.032,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "cast": [
+      "Antonio Banderas",
+      "Kate Bosworth",
+      "Mojean Aria",
+      "Alexis Ren",
+      "Zolee Griggs"
+    ],
+    "director": "Richard Hughes",
+    "imdb_id": "tt14857730",
+    "poster_path": "/72V1r1G8S87ELagVxjqAUdChMCt.jpg",
+    "backdrop_path": "/Aqldsq65Nj1KAkQD2MzkZsAk5N5.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 58008,
+    "title": "Night Nurse",
+    "overview": "A dentist invites a elderly patient to stay at his home to recover, unaware that he is a jewel thief. He plans to steal a valuable diamond but then runs into a beautiful nurse who, aside from constantly stripping nude, has plans of her own.",
+    "release_date": "1979-02-07",
+    "rating": 5.217,
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Gloria Guida",
+      "Lino Banfi",
+      "Alvaro Vitali",
+      "Leo Colonna",
+      "Mario Carotenuto"
+    ],
+    "director": "Mariano Laurenti",
+    "imdb_id": "tt0077732",
+    "poster_path": "/tzhBAhN35YjobVG3Ubm3ERnzhBL.jpg",
+    "backdrop_path": "/5TO9LeUAdilHgq50veWqBpDejaU.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 755898,
+    "title": "War of the Worlds",
+    "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+    "release_date": "2025-07-29",
+    "rating": 4.136,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Ice Cube",
+      "Eva Longoria",
+      "Clark Gregg",
+      "Iman Benson",
+      "Henry Hunter Hall"
+    ],
+    "director": "Rich Lee",
+    "imdb_id": "tt13186306",
+    "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1010755,
+    "title": "The Strangers: Chapter 3",
+    "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+    "release_date": "2026-02-05",
+    "rating": 5.5,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "cast": [
+      "Madelaine Petsch",
+      "Richard Brake",
+      "Ema Horvath",
+      "Gabriel Basso",
+      "Pedro Leandro"
+    ],
+    "director": "Renny Harlin",
+    "imdb_id": "tt28682323",
+    "poster_path": "/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+    "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 419858,
+    "title": "Captain Kate",
+    "overview": "Two caravans meet on the desert, one headed by Howell and Clancy, two New York men, who are gathering animals for circus purposes, the other is led by an old animal tamer named Desmond and his beautiful daughter, whom the natives have nicknamed Capt. Kate. After exchanging cards, the caravans go their separate ways. Desmond is stricken and dies, leaving Kate alone. She assumes her father's perilous business, leading her party of native hunters after big game. Later, one of the hunters is stricken and the superstitious followers of Capt. Kate, recognizing the nature of the disease, abandon the hunt and their leader, one servant alone remaining faithful to his mistress. Kate, realizing that she can go no further without assistance, calls a halt and they erect a crude hut in which she is to live, while the servant goes in search of Clancy. Scene of Kate's isolated life and her dangers follow. She is besieged by wild animals, who make her life a long nightmare of peril.",
+    "release_date": "1911-07-12",
+    "rating": 4,
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Kathlyn Williams",
+      "Charles Clary",
+      "Frank Weed",
+      "Frank Smith",
+      "Tom Mix"
+    ],
+    "director": "Otis Turner",
+    "imdb_id": "tt0001529",
+    "poster_path": "/aK4oZ7AhiTZd7L5gidMyATIpEfh.jpg",
+    "backdrop_path": "/wF8GgOCnkHRYJJcEM79KYVYKIf6.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -960,106 +1130,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1270125,
-    "title": "Monster on a Plane",
-    "overview": "An exotic animal turns into a monster and becomes a deadly danger for all passengers.",
-    "release_date": "2024-11-07",
-    "rating": 4.355,
-    "genres": [
-      "Horror",
-      "Comedy"
-    ],
-    "cast": [
-      "Eva Habermann",
-      "Robin Czerny",
-      "Philippe Brenninkmeyer",
-      "Dieter Landuris",
-      "Fred Aaron Blake"
-    ],
-    "director": "Ezra Tsegaye",
-    "imdb_id": "tt27811009",
-    "poster_path": "/9fBcq5WiH3z4YGjS2iVESRKxcW4.jpg",
-    "backdrop_path": "/apMl96DIrewME0s87rP733yb37Q.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1234731,
-    "title": "Anaconda",
-    "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
-    "release_date": "2025-12-24",
-    "rating": 5.881,
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Horror"
-    ],
-    "cast": [
-      "Jack Black",
-      "Paul Rudd",
-      "Steve Zahn",
-      "Thandiwe Newton",
-      "Daniela Melchior"
-    ],
-    "director": "Tom Gormican",
-    "imdb_id": "tt33244668",
-    "poster_path": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
-    "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 755898,
-    "title": "War of the Worlds",
-    "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
-    "release_date": "2025-07-29",
-    "rating": 4.139,
-    "genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
-    "cast": [
-      "Ice Cube",
-      "Eva Longoria",
-      "Clark Gregg",
-      "Iman Benson",
-      "Henry Hunter Hall"
-    ],
-    "director": "Rich Lee",
-    "imdb_id": "tt13186306",
-    "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-    "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 7451,
-    "title": "xXx",
-    "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-    "release_date": "2002-08-09",
-    "rating": 5.988,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "cast": [
-      "Vin Diesel",
-      "Asia Argento",
-      "Marton Csokas",
-      "Samuel L. Jackson",
-      "Michael Roof"
-    ],
-    "director": "Rob Cohen",
-    "imdb_id": "tt0295701",
-    "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-    "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 73353,
     "title": "Man in the Mirror: The Michael Jackson Story",
     "overview": "Chronicles the rise and fall of pop king Michael Jackson.",
@@ -1084,25 +1154,198 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 58008,
-    "title": "Night Nurse",
-    "overview": "A dentist invites a elderly patient to stay at his home to recover, unaware that he is a jewel thief. He plans to steal a valuable diamond but then runs into a beautiful nurse who, aside from constantly stripping nude, has plans of her own.",
-    "release_date": "1979-02-07",
-    "rating": 5.217,
+    "tmdb_id": 7451,
+    "title": "xXx",
+    "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+    "release_date": "2002-08-09",
+    "rating": 5.987,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "cast": [
+      "Vin Diesel",
+      "Asia Argento",
+      "Marton Csokas",
+      "Samuel L. Jackson",
+      "Michael Roof"
+    ],
+    "director": "Rob Cohen",
+    "imdb_id": "tt0295701",
+    "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+    "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1510745,
+    "title": "Bodycam",
+    "overview": "A call to a quiet suburban home unleashes unthinkable carnage when two officers mistakenly shoot a man and his infant child, spiraling the tragedy into a fierce, unrelenting fall into the unknown.",
+    "release_date": "2026-03-12",
+    "rating": 4.843,
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Jaime M. Callica",
+      "Sean Rogerson",
+      "Catherine Lough Haggquist",
+      "Angel Prater",
+      "Keegan Connor Tracy"
+    ],
+    "director": "Brandon Christensen",
+    "imdb_id": "tt37538172",
+    "poster_path": "/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
+    "backdrop_path": "/vHoi1MddXOU7jbpEd8YVQzMDLnT.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1446616,
+    "title": "Tu Yaa Main",
+    "overview": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
+    "release_date": "2026-02-11",
+    "rating": 6.1,
+    "genres": [
+      "Thriller",
+      "Romance"
+    ],
+    "cast": [
+      "Adarsh Gourav",
+      "Shanaya Kapoor",
+      "Kshitee Jog",
+      "Parul Gulati",
+      "Ansh Chopra"
+    ],
+    "director": "Bejoy Nambiar",
+    "imdb_id": "tt36118360",
+    "poster_path": "/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg",
+    "backdrop_path": "/zIOBTZAqGwdKnOb5c6SvzxP7x86.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1234731,
+    "title": "Anaconda",
+    "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+    "release_date": "2025-12-24",
+    "rating": 5.875,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Horror"
+    ],
+    "cast": [
+      "Jack Black",
+      "Paul Rudd",
+      "Steve Zahn",
+      "Thandiwe Newton",
+      "Daniela Melchior"
+    ],
+    "director": "Tom Gormican",
+    "imdb_id": "tt33244668",
+    "poster_path": "/hBxN6dwrANN1ic3a4G9x6JZcR3C.jpg",
+    "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 14612,
+    "title": "Candleshoe",
+    "overview": "When ex-con artist Harry claims that a secret treasure is hidden inside Candleshoe, an English estate, he creates an elaborate plan to find and steal the prize. By convincing a girl named Casey to impersonate the estate owner's long-lost granddaughter, Harry hopes to uncover the treasure's location. But when Casey has a change of heart, she must follow the clues and find the treasure, in order to save Candleshoe and stop Harry before it is too late.",
+    "release_date": "1977-12-16",
+    "rating": 6.871,
+    "genres": [
+      "Family"
+    ],
+    "cast": [
+      "David Niven",
+      "Helen Hayes",
+      "Jodie Foster",
+      "Leo McKern",
+      "Veronica Quilligan"
+    ],
+    "director": "Norman Tokar",
+    "imdb_id": "tt0075807",
+    "poster_path": "/6Rq9u5fnS6PzWz9dgPQmBhgDvRJ.jpg",
+    "backdrop_path": "/6NMedeS4pbfsPfhycL3XH3tCH8U.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 53526,
+    "title": "I Do",
+    "overview": "Comic adventures of newlyweds and children.",
+    "release_date": "1921-09-11",
+    "rating": 5.96,
     "genres": [
       "Comedy"
     ],
     "cast": [
-      "Gloria Guida",
-      "Lino Banfi",
-      "Alvaro Vitali",
-      "Leo Colonna",
-      "Mario Carotenuto"
+      "Harold Lloyd",
+      "Mildred Davis",
+      "Noah Young",
+      "Jack Morgan",
+      "Jack Edwards"
     ],
-    "director": "Mariano Laurenti",
-    "imdb_id": "tt0077732",
-    "poster_path": "/tzhBAhN35YjobVG3Ubm3ERnzhBL.jpg",
-    "backdrop_path": "/5TO9LeUAdilHgq50veWqBpDejaU.jpg",
+    "director": "Hal Roach",
+    "imdb_id": "tt0012303",
+    "poster_path": "/veaD1X0Fcujc3ZC9HrIZygGQz6l.jpg",
+    "backdrop_path": "/4GoY5XtIpALn66D2akKUDfYAdtf.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 4933,
+    "title": "The Buccaneer",
+    "overview": "During the War of 1812 against Britain: General Andrew Jackson has only 1,200 men left to defend New Orleans when he learns that a British fleet will arrive with 60 ships and 16,000 men to take the city. In this situation an island near the city becomes strategically important to both parties, but it's inhabited by the last big buccaneer: Jean Lafitte. Although Lafitte never attacks American ships, the governor hates him for selling merchandise without taxes - and is loved by the citizens for the same reason. When the big fight gets nearer, Lafitte is drawn between the fronts. His heart belongs to America, but his people urge him to join the party that's more likely to win.",
+    "release_date": "1958-12-11",
+    "rating": 6.5,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "War",
+      "History"
+    ],
+    "cast": [
+      "Yul Brynner",
+      "Claire Bloom",
+      "Charles Boyer",
+      "Inger Stevens",
+      "Charlton Heston"
+    ],
+    "director": "Anthony Quinn",
+    "imdb_id": "tt0051436",
+    "poster_path": "/hUUg1IuxuKl54eyQfyu5tCZhI1g.jpg",
+    "backdrop_path": "/89y96uZNPM46hFzwBylFCAXo8bQ.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1265609,
+    "title": "War Machine",
+    "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+    "release_date": "2026-02-12",
+    "rating": 7.238,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Alan Ritchson",
+      "Dennis Quaid",
+      "Stephan James",
+      "Jai Courtney",
+      "Esai Morales"
+    ],
+    "director": "Patrick Hughes",
+    "imdb_id": "tt15940132",
+    "poster_path": "/5txx39hgkMY6iskk3oOX7nU34bE.jpg",
+    "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1132,185 +1375,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1414413,
-    "title": "Brothers Under Fire",
-    "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
-    "release_date": "2026-04-15",
-    "rating": 6.077,
-    "genres": [
-      "Action",
-      "Thriller",
-      "Mystery",
-      "Drama"
-    ],
-    "cast": [
-      "Kiefer Sutherland",
-      "Tommy Martinez",
-      "Ashton Sanders",
-      "Solly McLeod",
-      "Laura Osma"
-    ],
-    "director": "Justin Chadwick",
-    "imdb_id": "tt32394984",
-    "poster_path": "/e5EKqk9V7N3w0WvYFhl6wSVrMp0.jpg",
-    "backdrop_path": "/6D2NsU3FIQVthPgjT6RAsX58qZ6.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1265609,
-    "title": "War Machine",
-    "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
-    "release_date": "2026-02-12",
-    "rating": 7.238,
-    "genres": [
-      "Action",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "cast": [
-      "Alan Ritchson",
-      "Dennis Quaid",
-      "Stephan James",
-      "Jai Courtney",
-      "Esai Morales"
-    ],
-    "director": "Patrick Hughes",
-    "imdb_id": "tt15940132",
-    "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
-    "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1107166,
-    "title": "Psycho Killer",
-    "overview": "Following the brutal murder of her husband, a Kansas highway patrol officer sets out on a journey to track down the perpetrator. As the hunt progresses, she comes to realize the man responsible is a sadistic serial killer, and the depth of his mental depravity and his sinister agenda is more twisted than anyone could have imagined.",
-    "release_date": "2026-02-19",
-    "rating": 5.513,
-    "genres": [
-      "Crime",
-      "Horror",
-      "Mystery"
-    ],
-    "cast": [
-      "Georgina Campbell",
-      "James Preston Rogers",
-      "Malcolm McDowell",
-      "Logan Miller",
-      "Grace Dove"
-    ],
-    "director": "Gavin Polone",
-    "imdb_id": "tt1764551",
-    "poster_path": "/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
-    "backdrop_path": "/kt9p1cS4O72aSeFRGQzlLuI1mY4.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1193501,
-    "title": "Whistle",
-    "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
-    "release_date": "2026-01-20",
-    "rating": 6.126,
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "cast": [
-      "Dafne Keen",
-      "Sophie Nélisse",
-      "Sky Yang",
-      "Jhaleil Swaby",
-      "Alissa Skovbye"
-    ],
-    "director": "Corin Hardy",
-    "imdb_id": "tt29550683",
-    "poster_path": "/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
-    "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 6687,
-    "title": "TransSiberian",
-    "overview": "A TransSiberian train journey from China to Moscow becomes a thrilling chase of deception and murder when an American couple encounters a mysterious pair of fellow travelers.",
-    "release_date": "2008-01-18",
-    "rating": 6.4,
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Mystery"
-    ],
-    "cast": [
-      "Woody Harrelson",
-      "Emily Mortimer",
-      "Kate Mara",
-      "Eduardo Noriega",
-      "Thomas Kretschmann"
-    ],
-    "director": "Brad Anderson",
-    "imdb_id": "tt0800241",
-    "poster_path": "/dhTOda5CLp9tEdDzQZiqBTdv5lR.jpg",
-    "backdrop_path": "/dpSrTZIWeI3u025LSUOjV9FHFvf.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1480387,
-    "title": "undertone",
-    "overview": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
-    "release_date": "2026-03-12",
-    "rating": 6.443,
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "cast": [
-      "Nina Kiri",
-      "Adam DiMarco",
-      "Michèle Duquet",
-      "Keana Bastidas",
-      "Jeff Yung"
-    ],
-    "director": "Ian Tuason",
-    "imdb_id": "tt35892608",
-    "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
-    "backdrop_path": "/qXxFWyur7jFkg2aQgENcXuyYeHF.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1303055,
-    "title": "A Breed Apart",
-    "overview": "When Violet accepts an invitation to a private island with some of the world's most famous social influencers, she expects a weekend of unrivaled viral opportunity. She soon becomes part of her own horrific reality show when the guests are pitted against each other to capture the island's legendary man-eating dogs before they become victims of the monstrous canines.",
-    "release_date": "2025-05-16",
-    "rating": 5.232,
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Action"
-    ],
-    "cast": [
-      "Grace Caroline Currey",
-      "Virginia Gardner",
-      "Riele Downs",
-      "Zak Steiner",
-      "Page Kennedy"
-    ],
-    "director": "Nathan Furst",
-    "imdb_id": "tt32323148",
-    "poster_path": "/6IiNUUV6H2W1wUc8e1w4GfuQCOE.jpg",
-    "backdrop_path": "/jrpLhYHxsE7XVZCtP8LZrfhlvIy.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1115544,
     "title": "Mike & Nick & Nick & Alice",
     "overview": "Two gangsters and the woman they love try to survive the most dangerous night of their lives. As if that wasn’t enough, there’s one wild ingredient added to the mix: a time machine.",
     "release_date": "2026-03-14",
-    "rating": 6.785,
+    "rating": 6.781,
     "genres": [
       "Comedy",
       "Science Fiction",
@@ -1331,147 +1400,74 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1367642,
-    "title": "Reminders of Him",
-    "overview": "When Diem's custodial grandparents adamantly refuse Kenna's attempts to see her daughter, Kenna discovers unexpected compassion, and then something truer and deeper, with former NFL player and local bar owner Ledger. As their secret romance develops, so do the dangers for both of them, leading Kenna toward heartbreak and, ultimately, the hope for a second chance.",
-    "release_date": "2026-03-11",
-    "rating": 7.208,
+    "tmdb_id": 300090,
+    "title": "White Rabbit",
+    "overview": "A bullied student sees visions of a rabbit he was forced to kill as a child, and those visions propel him into a state where his imagination causes him to carry out violent acts.",
+    "release_date": "2013-09-20",
+    "rating": 6.1,
     "genres": [
-      "Romance",
       "Drama"
     ],
     "cast": [
-      "Maika Monroe",
-      "Tyriq Withers",
-      "Rudy Pankow",
-      "Bradley Whitford",
-      "Lauren Graham"
+      "Nick Krause",
+      "Sam Trammell",
+      "Britt Robertson",
+      "Ryan Lee",
+      "Denise Williamson"
     ],
-    "director": "Vanessa Caswill",
-    "imdb_id": "tt33714084",
-    "poster_path": "/7L6rceYgzQ0NeHD7PRDNrRoQ291.jpg",
-    "backdrop_path": "/5rxEnsgriw8z065q51lrvPKYmCL.jpg",
+    "director": "Tim McCann",
+    "imdb_id": "tt2241116",
+    "poster_path": "/n9iPAVxdqoYbmTeogiXwyQbLHQz.jpg",
+    "backdrop_path": "/acx2qYDXfkrSdSgWwr2kpA5F2BW.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1242391,
-    "title": "Clemente",
-    "overview": "An immersive documentary about the remarkable life and legacy of MLB icon Roberto Clemente.",
-    "release_date": "2025-09-11",
-    "rating": 9,
+    "tmdb_id": 1193501,
+    "title": "Whistle",
+    "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
+    "release_date": "2026-01-20",
+    "rating": 6.137,
     "genres": [
-      "Documentary"
+      "Horror",
+      "Mystery"
     ],
     "cast": [
-      "Roberto Clemente",
-      "Vera Clemente",
-      "Roberto Clemente Jr.",
-      "Luis Clemente",
-      "Matino Clemente"
+      "Dafne Keen",
+      "Sophie Nélisse",
+      "Sky Yang",
+      "Jhaleil Swaby",
+      "Alissa Skovbye"
     ],
-    "director": "David M. Altrogge",
-    "imdb_id": "tt11206512",
-    "poster_path": "/aQTq2qB9Qge45KWWXyDiIz4grWm.jpg",
-    "backdrop_path": "/bkaDIMphJ3WkQ3kZ1jZtBu4Rygx.jpg",
+    "director": "Corin Hardy",
+    "imdb_id": "tt29550683",
+    "poster_path": "/eGxPyseSnEZBMJaopGfRUO9HSYx.jpg",
+    "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 28322,
-    "title": "Madness",
-    "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
-    "release_date": "1980-03-20",
-    "rating": 5,
+    "tmdb_id": 1303055,
+    "title": "A Breed Apart",
+    "overview": "When Violet accepts an invitation to a private island with some of the world's most famous social influencers, she expects a weekend of unrivaled viral opportunity. She soon becomes part of her own horrific reality show when the guests are pitted against each other to capture the island's legendary man-eating dogs before they become victims of the monstrous canines.",
+    "release_date": "2025-05-16",
+    "rating": 5.306,
     "genres": [
-      "Thriller",
-      "Action",
-      "Crime"
+      "Horror",
+      "Mystery",
+      "Action"
     ],
     "cast": [
-      "Joe Dallesandro",
-      "Patrizia Behn",
-      "Gianni Macchia",
-      "Lorraine De Selle",
-      "Omero Capanna"
+      "Grace Caroline Currey",
+      "Virginia Gardner",
+      "Riele Downs",
+      "Zak Steiner",
+      "Page Kennedy"
     ],
-    "director": "Fernando Di Leo",
-    "imdb_id": "tt0080075",
-    "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
-    "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 24428,
-    "title": "The Avengers",
-    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "release_date": "2012-04-25",
-    "rating": 8.011,
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure"
-    ],
-    "cast": [
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Mark Ruffalo",
-      "Chris Hemsworth",
-      "Scarlett Johansson"
-    ],
-    "director": "Joss Whedon",
-    "imdb_id": "tt0848228",
-    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1659087,
-    "title": "180",
-    "overview": "When an unexpected road rage incident puts his son in critical condition, an enraged father spirals down a dark path of emotional turmoil and vengeance.",
-    "release_date": "2026-04-16",
-    "rating": 5.7,
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Drama",
-      "TV Movie"
-    ],
-    "cast": [
-      "Prince Grootboom",
-      "Noxolo Dlamini",
-      "Danica De La Rey",
-      "Warren Masemola",
-      "Desmond Dube"
-    ],
-    "director": "Alex Yazbek",
-    "imdb_id": "tt40891145",
-    "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
-    "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 979571,
-    "title": "The Chumps",
-    "overview": "When the story begins, a newly married couple (Franklin Pangborn and Marjorie Beebe) board a train for their honeymoon. Soon they make friends with what they THINK is a nice couple...not realizing they are card sharps. They crooks are spotted on the train and are warned NOT to take advantage of other passengers...so they invite the couple to their home in order to fleece them. Does the plan go as the crooks planned?",
-    "release_date": "1930-07-16",
-    "rating": 3.667,
-    "genres": [
-      "Comedy"
-    ],
-    "cast": [
-      "Marjorie Beebe",
-      "Franklin Pangborn",
-      "Andy Clyde",
-      "Bud Jamison"
-    ],
-    "director": "Mack Sennett",
-    "imdb_id": "tt0020765",
-    "poster_path": null,
-    "backdrop_path": null,
+    "director": "Nathan Furst",
+    "imdb_id": "tt32323148",
+    "poster_path": "/6IiNUUV6H2W1wUc8e1w4GfuQCOE.jpg",
+    "backdrop_path": "/jrpLhYHxsE7XVZCtP8LZrfhlvIy.jpg",
     "facts": [],
     "link_confidence": "NONE"
   }
