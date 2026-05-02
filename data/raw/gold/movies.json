@@ -4,7 +4,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.458,
+    "rating": 6.479,
     "genres": [
       "Action",
       "Thriller"
@@ -28,7 +28,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 6.736,
+    "rating": 6.739,
     "genres": [
       "Family",
       "Comedy",
@@ -43,7 +43,7 @@
       "Jack Black",
       "Keegan-Michael Key"
     ],
-    "director": "Aaron Horvath",
+    "director": "Michael Jelenic",
     "imdb_id": "tt28650488",
     "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
     "backdrop_path": "/xTd74mchq96pqfdlgmKDMQx12gv.jpg",
@@ -55,7 +55,7 @@
     "title": "Michael",
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "release_date": "2026-04-22",
-    "rating": 7.545,
+    "rating": 7.5,
     "genres": [
       "Music",
       "Drama"
@@ -103,7 +103,7 @@
     "title": "Send Help",
     "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
     "release_date": "2026-01-22",
-    "rating": 7.02,
+    "rating": 7.016,
     "genres": [
       "Horror",
       "Thriller",
@@ -128,7 +128,7 @@
     "title": "They Will Kill You",
     "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
     "release_date": "2026-03-25",
-    "rating": 6.587,
+    "rating": 6.602,
     "genres": [
       "Action",
       "Comedy",
@@ -201,7 +201,7 @@
     "title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "release_date": "2026-03-04",
-    "rating": 7.704,
+    "rating": 7.7,
     "genres": [
       "Adventure",
       "Animation",
@@ -254,7 +254,7 @@
     "title": "Vengeance",
     "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
     "release_date": "2026-02-26",
-    "rating": 6.947,
+    "rating": 7.065,
     "genres": [
       "Action",
       "Thriller"
@@ -274,11 +274,35 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1314481,
+    "title": "The Devil Wears Prada 2",
+    "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+    "release_date": "2026-04-29",
+    "rating": 6.683,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "cast": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Kenneth Branagh"
+    ],
+    "director": "David Frankel",
+    "imdb_id": "tt33612209",
+    "poster_path": "/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+    "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 350,
     "title": "The Devil Wears Prada",
     "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
     "release_date": "2006-06-29",
-    "rating": 7.389,
+    "rating": 7.4,
     "genres": [
       "Drama",
       "Comedy"
@@ -298,35 +322,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1314481,
-    "title": "The Devil Wears Prada 2",
-    "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-    "release_date": "2026-04-29",
-    "rating": 6.5,
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "cast": [
-      "Meryl Streep",
-      "Anne Hathaway",
-      "Emily Blunt",
-      "Stanley Tucci",
-      "Kenneth Branagh"
-    ],
-    "director": "David Frankel",
-    "imdb_id": "tt33612209",
-    "poster_path": "/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
-    "backdrop_path": "/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1290821,
     "title": "Shelter",
     "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
     "release_date": "2026-01-28",
-    "rating": 6.798,
+    "rating": 6.803,
     "genres": [
       "Action",
       "Crime",
@@ -351,7 +351,7 @@
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.209,
+    "rating": 8.21,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -375,7 +375,7 @@
     "title": "GOAT",
     "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
     "release_date": "2026-02-11",
-    "rating": 7.9,
+    "rating": 7.929,
     "genres": [
       "Animation",
       "Comedy",
@@ -499,7 +499,7 @@
     "title": "The Mortuary Assistant",
     "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
     "release_date": "2026-02-13",
-    "rating": 5.518,
+    "rating": 5.512,
     "genres": [
       "Horror",
       "Mystery"
@@ -545,11 +545,38 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1007757,
+    "title": "Swapped",
+    "overview": "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+    "release_date": "2026-05-01",
+    "rating": 8.8,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "cast": [
+      "Michael B. Jordan",
+      "Juno Temple",
+      "Tracy Morgan",
+      "Cedric the Entertainer",
+      "Justina Machado"
+    ],
+    "director": "Nathan Greno",
+    "imdb_id": "tt29552248",
+    "poster_path": "/lHsRhN60jdr6Mcbww2MuO1WskOd.jpg",
+    "backdrop_path": "/r4Tfw8CPeeI4EIHI3wH9qNkycZd.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1242898,
     "title": "Predator: Badlands",
     "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
     "release_date": "2025-11-05",
-    "rating": 7.689,
+    "rating": 7.688,
     "genres": [
       "Action",
       "Science Fiction",
@@ -671,7 +698,7 @@
     "title": "The Shadow's Edge",
     "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
     "release_date": "2025-08-16",
-    "rating": 7.218,
+    "rating": 7.227,
     "genres": [
       "Action",
       "Crime",
@@ -720,7 +747,7 @@
     "title": "The Housemaid",
     "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
     "release_date": "2025-12-18",
-    "rating": 7.229,
+    "rating": 7.228,
     "genres": [
       "Mystery",
       "Thriller"
@@ -770,7 +797,7 @@
     "title": "Balls Up",
     "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
     "release_date": "2026-04-15",
-    "rating": 5.725,
+    "rating": 5.731,
     "genres": [
       "Comedy",
       "Action",
@@ -819,7 +846,7 @@
     "title": "The Red Book Ritual: Gates of Hell",
     "overview": "Robbie embarks on a dangerous quest to contact his deceased girlfriend through a ritual that summons the dead. He heads to an abandoned house with a group of young people to perform the \"Red Book Ritual.\" But during the summoning, supernatural forces awaken. Now they must face ancient horrors to survive.",
     "release_date": "2025-09-18",
-    "rating": 6.071,
+    "rating": 6.063,
     "genres": [
       "Horror"
     ],
@@ -842,7 +869,7 @@
     "title": "Thrash",
     "overview": "When a Category 5 hurricane decimates a coastal town, the storm surge brings devastation, chaos, and something far more frightening onto shore: hungry sharks.",
     "release_date": "2026-04-10",
-    "rating": 5.925,
+    "rating": 5.943,
     "genres": [
       "Horror",
       "Thriller"
@@ -883,30 +910,6 @@
     "imdb_id": "tt27047903",
     "poster_path": "/jjyuk0edLiW8vOSnlfwWCCLpbh5.jpg",
     "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1304313,
-    "title": "Lee Cronin's The Mummy",
-    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-    "release_date": "2026-04-15",
-    "rating": 6.769,
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "cast": [
-      "Jack Reynor",
-      "Laia Costa",
-      "May Calamawy",
-      "Natalie Grace",
-      "Shylo Molina"
-    ],
-    "director": "Lee Cronin",
-    "imdb_id": "tt32612507",
-    "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
-    "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1032,6 +1035,30 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1304313,
+    "title": "Lee Cronin's The Mummy",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "release_date": "2026-04-15",
+    "rating": 6.8,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "cast": [
+      "Jack Reynor",
+      "Laia Costa",
+      "May Calamawy",
+      "Natalie Grace",
+      "Shylo Molina"
+    ],
+    "director": "Lee Cronin",
+    "imdb_id": "tt32612507",
+    "poster_path": "/8L8efNkz8rUmwR7sV0g3vnC9yjn.jpg",
+    "backdrop_path": "/zc08qkHtWfZ2cQGQBK1S5yafJmR.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 7451,
     "title": "xXx",
     "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
@@ -1063,7 +1090,7 @@
     "title": "Anaconda",
     "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
     "release_date": "2025-12-24",
-    "rating": 5.879,
+    "rating": 5.875,
     "genres": [
       "Adventure",
       "Comedy",
@@ -1126,7 +1153,7 @@
       "Frank Smith",
       "Tom Mix"
     ],
-    "director": "Francis Boggs",
+    "director": "Otis Turner",
     "imdb_id": "tt0001529",
     "poster_path": "/aK4oZ7AhiTZd7L5gidMyATIpEfh.jpg",
     "backdrop_path": "/wF8GgOCnkHRYJJcEM79KYVYKIf6.jpg",
@@ -1138,7 +1165,7 @@
     "title": "The Strangers: Chapter 3",
     "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
     "release_date": "2026-02-05",
-    "rating": 5.516,
+    "rating": 5.5,
     "genres": [
       "Horror",
       "Thriller"
@@ -1162,7 +1189,7 @@
     "title": "Tu Yaa Main",
     "overview": "A wannabe rapper from the outskirts of Mumbai and an affluent influencer elope to a coastal town, only to find themselves trapped in the pool of a derelict resort fighting for survival against the wrath of a ferocious crocodile.",
     "release_date": "2026-02-11",
-    "rating": 6.28,
+    "rating": 6.259,
     "genres": [
       "Thriller",
       "Romance"
@@ -1209,7 +1236,7 @@
     "title": "War Machine",
     "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
     "release_date": "2026-02-12",
-    "rating": 7.238,
+    "rating": 7.24,
     "genres": [
       "Action",
       "Science Fiction",
@@ -1257,7 +1284,7 @@
     "title": "A Breed Apart",
     "overview": "When Violet accepts an invitation to a private island with some of the world's most famous social influencers, she expects a weekend of unrivaled viral opportunity. She soon becomes part of her own horrific reality show when the guests are pitted against each other to capture the island's legendary man-eating dogs before they become victims of the monstrous canines.",
     "release_date": "2025-05-16",
-    "rating": 5.203,
+    "rating": 5.348,
     "genres": [
       "Horror",
       "Mystery",
@@ -1379,7 +1406,7 @@
     "title": "Whistle",
     "overview": "A misfit group of unwitting high school students stumble upon a cursed object, an ancient Aztec Death Whistle. They discover that blowing the whistle and the terrifying sound it emits will summon their future deaths to hunt them down.",
     "release_date": "2026-01-20",
-    "rating": 6.177,
+    "rating": 6.201,
     "genres": [
       "Horror",
       "Mystery"
@@ -1443,31 +1470,6 @@
     "imdb_id": "tt0848228",
     "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
     "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1579,
-    "title": "Apocalypto",
-    "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
-    "release_date": "2006-12-07",
-    "rating": 7.599,
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "cast": [
-      "Rudy Youngblood",
-      "Raoul Max Trujillo",
-      "Gerardo Taracena",
-      "Iazua Larios",
-      "Antonio Monroy"
-    ],
-    "director": "Mel Gibson",
-    "imdb_id": "tt0472043",
-    "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
-    "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
     "facts": [],
     "link_confidence": "NONE"
   }
