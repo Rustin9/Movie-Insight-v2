@@ -4,7 +4,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 6.738,
+    "rating": 6.736,
     "genres": [
       "Family",
       "Comedy",
@@ -19,7 +19,7 @@
       "Jack Black",
       "Keegan-Michael Key"
     ],
-    "director": "Michael Jelenic",
+    "director": "Aaron Horvath",
     "imdb_id": "tt28650488",
     "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
     "backdrop_path": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
@@ -31,7 +31,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.427,
+    "rating": 6.423,
     "genres": [
       "Action",
       "Thriller"
@@ -55,7 +55,7 @@
     "title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "release_date": "2026-05-01",
-    "rating": 8,
+    "rating": 7.9,
     "genres": [
       "Adventure",
       "Animation",
@@ -105,7 +105,7 @@
     "title": "Send Help",
     "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
     "release_date": "2026-01-22",
-    "rating": 6.989,
+    "rating": 6.99,
     "genres": [
       "Horror",
       "Thriller",
@@ -150,30 +150,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 936075,
-    "title": "Michael",
-    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-    "release_date": "2026-04-22",
-    "rating": 7.53,
-    "genres": [
-      "Music",
-      "Drama"
-    ],
-    "cast": [
-      "Jaafar Jackson",
-      "Colman Domingo",
-      "Nia Long",
-      "Juliano Krue Valdi",
-      "KeiLyn Durrel Jones"
-    ],
-    "director": "Antoine Fuqua",
-    "imdb_id": "tt11378946",
-    "poster_path": "/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-    "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1523145,
     "title": "Your Heart Will Be Broken",
     "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
@@ -202,7 +178,7 @@
     "title": "The Devil Wears Prada 2",
     "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
     "release_date": "2026-04-29",
-    "rating": 6.7,
+    "rating": 6.8,
     "genres": [
       "Comedy",
       "Drama"
@@ -218,6 +194,55 @@
     "imdb_id": "tt33612209",
     "poster_path": "/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
     "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 936075,
+    "title": "Michael",
+    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+    "release_date": "2026-04-22",
+    "rating": 7.5,
+    "genres": [
+      "Music",
+      "Drama"
+    ],
+    "cast": [
+      "Jaafar Jackson",
+      "Colman Domingo",
+      "Nia Long",
+      "Juliano Krue Valdi",
+      "KeiLyn Durrel Jones"
+    ],
+    "director": "Antoine Fuqua",
+    "imdb_id": "tt11378946",
+    "poster_path": "/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+    "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "release_date": "2025-12-17",
+    "rating": 7.367,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Oona Chaplin"
+    ],
+    "director": "James Cameron",
+    "imdb_id": "tt1757678",
+    "poster_path": "/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+    "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -249,56 +274,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1292695,
-    "title": "They Will Kill You",
-    "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-    "release_date": "2026-03-25",
-    "rating": 6.685,
-    "genres": [
-      "Action",
-      "Comedy",
-      "Horror"
-    ],
-    "cast": [
-      "Zazie Beetz",
-      "Myha'la",
-      "Patricia Arquette",
-      "Paterson Joseph",
-      "Heather Graham"
-    ],
-    "director": "Kirill Sokolov",
-    "imdb_id": "tt31728330",
-    "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-    "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 83533,
-    "title": "Avatar: Fire and Ash",
-    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-    "release_date": "2025-12-17",
-    "rating": 7.368,
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Fantasy"
-    ],
-    "cast": [
-      "Sam Worthington",
-      "Zoe Saldaña",
-      "Sigourney Weaver",
-      "Stephen Lang",
-      "Oona Chaplin"
-    ],
-    "director": "James Cameron",
-    "imdb_id": "tt1757678",
-    "poster_path": "/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-    "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1669050,
     "title": "Tayuan 2",
     "overview": "A charming bus conductor drawn to both men and women who feels an unexpected spark with a shy commuter. On crowded bus rides where bodies brush, desire grows and love becomes messy.",
@@ -326,7 +301,7 @@
     "title": "Vengeance",
     "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
     "release_date": "2026-02-26",
-    "rating": 7.152,
+    "rating": 7.143,
     "genres": [
       "Action",
       "Thriller"
@@ -342,6 +317,31 @@
     "imdb_id": "tt37989803",
     "poster_path": "/ygWXPL0RS91JyJPNOfK34eV3bRE.jpg",
     "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1292695,
+    "title": "They Will Kill You",
+    "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+    "release_date": "2026-03-25",
+    "rating": 6.687,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "cast": [
+      "Zazie Beetz",
+      "Myha'la",
+      "Patricia Arquette",
+      "Paterson Joseph",
+      "Heather Graham"
+    ],
+    "director": "Kirill Sokolov",
+    "imdb_id": "tt31728330",
+    "poster_path": "/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+    "backdrop_path": "/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -400,7 +400,7 @@
     "title": "GOAT",
     "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
     "release_date": "2026-02-11",
-    "rating": 7.923,
+    "rating": 7.9,
     "genres": [
       "Animation",
       "Comedy",
@@ -425,7 +425,7 @@
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.2,
+    "rating": 8.208,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -472,7 +472,7 @@
     "title": "Shelter",
     "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
     "release_date": "2026-01-28",
-    "rating": 6.819,
+    "rating": 6.847,
     "genres": [
       "Action",
       "Crime",
@@ -522,7 +522,7 @@
     "title": "Brothers Under Fire",
     "overview": "Captain Jordan Wright's squadron on leave for a wedding in Mexico encounters a murderous cartel. As Jordan tries to lead survivors to safety, war erupts between his squad and the cartel, forcing him into a battle to save his men.",
     "release_date": "2026-04-15",
-    "rating": 6.139,
+    "rating": 6.237,
     "genres": [
       "Action",
       "Thriller",
@@ -548,7 +548,7 @@
     "title": "Zootopia 2",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "release_date": "2025-11-26",
-    "rating": 7.611,
+    "rating": 7.6,
     "genres": [
       "Adventure",
       "Animation",
@@ -567,6 +567,31 @@
     "imdb_id": "tt26443597",
     "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
     "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1325734,
+    "title": "The Drama",
+    "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+    "release_date": "2026-03-26",
+    "rating": 7,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "cast": [
+      "Zendaya",
+      "Robert Pattinson",
+      "Mamoudou Athie",
+      "Alana Haim",
+      "Jordyn Curet"
+    ],
+    "director": "Kristoffer Borgli",
+    "imdb_id": "tt33071426",
+    "poster_path": "/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
+    "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -644,7 +669,7 @@
     "title": "Predator: Badlands",
     "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
     "release_date": "2025-11-05",
-    "rating": 7.685,
+    "rating": 7.687,
     "genres": [
       "Action",
       "Science Fiction",
@@ -669,7 +694,7 @@
     "title": "Crime 101",
     "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
     "release_date": "2026-02-11",
-    "rating": 6.946,
+    "rating": 6.9,
     "genres": [
       "Crime",
       "Thriller"
@@ -685,31 +710,6 @@
     "imdb_id": "tt32430579",
     "poster_path": "/tVvpFIoteRHNnoZMhdnwIVwJpCA.jpg",
     "backdrop_path": "/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1325734,
-    "title": "The Drama",
-    "overview": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
-    "release_date": "2026-03-26",
-    "rating": 7.021,
-    "genres": [
-      "Romance",
-      "Comedy",
-      "Drama"
-    ],
-    "cast": [
-      "Zendaya",
-      "Robert Pattinson",
-      "Mamoudou Athie",
-      "Alana Haim",
-      "Jordyn Curet"
-    ],
-    "director": "Kristoffer Borgli",
-    "imdb_id": "tt33071426",
-    "poster_path": "/ikcNOWB6Qo1ER1H1BJL6Vf0W22s.jpg",
-    "backdrop_path": "/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -733,6 +733,55 @@
     "imdb_id": "tt26349732",
     "poster_path": "/8kljUAovBatZRYp2ye2RZr239hU.jpg",
     "backdrop_path": "/8HbNKB2pMiD3mfLgbxe7DgAKjdS.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 755898,
+    "title": "War of the Worlds",
+    "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+    "release_date": "2025-07-29",
+    "rating": 4.141,
+    "genres": [
+      "Science Fiction",
+      "Thriller"
+    ],
+    "cast": [
+      "Ice Cube",
+      "Eva Longoria",
+      "Clark Gregg",
+      "Iman Benson",
+      "Henry Hunter Hall"
+    ],
+    "director": "Rich Lee",
+    "imdb_id": "tt13186306",
+    "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+    "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 931285,
+    "title": "Mortal Kombat II",
+    "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+    "release_date": "2026-05-06",
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "cast": [
+      "Karl Urban",
+      "Adeline Rudolph",
+      "Jessica McNamee",
+      "Ludi Lin",
+      "Mehcad Brooks"
+    ],
+    "director": "Simon McQuoid",
+    "imdb_id": "tt17490712",
+    "poster_path": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+    "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -763,35 +812,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 755898,
-    "title": "War of the Worlds",
-    "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
-    "release_date": "2025-07-29",
-    "rating": 4.141,
-    "genres": [
-      "Science Fiction",
-      "Thriller"
-    ],
-    "cast": [
-      "Ice Cube",
-      "Eva Longoria",
-      "Clark Gregg",
-      "Iman Benson",
-      "Henry Hunter Hall"
-    ],
-    "director": "Rich Lee",
-    "imdb_id": "tt13186306",
-    "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-    "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1470130,
     "title": "The Mortuary Assistant",
     "overview": "Rebecca Owens, a recent mortuary science graduate takes a night shift job at River Fields Mortuary. Initially, the job seems straightforward — embalming bodies, completing paperwork, and keeping things tidy. But once Rebecca starts working the night shift, things take a dark turn.",
     "release_date": "2026-02-13",
-    "rating": 5.5,
+    "rating": 5.454,
     "genres": [
       "Horror",
       "Mystery"
@@ -887,7 +912,7 @@
     "title": "The Housemaid",
     "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
     "release_date": "2025-12-18",
-    "rating": 7.232,
+    "rating": 7.233,
     "genres": [
       "Mystery",
       "Thriller"
@@ -957,36 +982,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1579,
-    "title": "Apocalypto",
-    "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
-    "release_date": "2006-12-07",
-    "rating": 7.6,
-    "genres": [
-      "Action",
-      "Drama",
-      "History"
-    ],
-    "cast": [
-      "Rudy Youngblood",
-      "Raoul Max Trujillo",
-      "Gerardo Taracena",
-      "Iazua Larios",
-      "Antonio Monroy"
-    ],
-    "director": "Mel Gibson",
-    "imdb_id": "tt0472043",
-    "poster_path": "/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
-    "backdrop_path": "/nnmbJvYyDS1VkMOCbxSpdBi3WbJ.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1084577,
     "title": "Balls Up",
     "overview": "Two marketing executives go \"balls out\" and pitch a bold full‑coverage condom sponsorship with the World Cup. After their drunken celebration in Brazil sparks a global scandal, they must outrun furious fans, criminals, and power-hungry officials to salvage their careers and make it home alive.",
     "release_date": "2026-04-15",
-    "rating": 5.745,
+    "rating": 5.791,
     "genres": [
       "Comedy",
       "Action",
@@ -1011,7 +1011,7 @@
     "title": "Sniper: No Nation",
     "overview": "Brandon Beckett and Agent Zero lead a rescue mission in Costa Verde when their friends are taken hostage.",
     "release_date": "2026-04-07",
-    "rating": 6.4,
+    "rating": 6.276,
     "genres": [
       "Action",
       "Thriller"
@@ -1058,7 +1058,7 @@
     "title": "Mortal Kombat II",
     "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
     "release_date": "2026-05-06",
-    "rating": 7.632,
+    "rating": 7.8,
     "genres": [
       "Action",
       "Fantasy",
@@ -1068,8 +1068,8 @@
       "Karl Urban",
       "Adeline Rudolph",
       "Jessica McNamee",
-      "Josh Lawson",
-      "Ludi Lin"
+      "Ludi Lin",
+      "Mehcad Brooks"
     ],
     "director": "Simon McQuoid",
     "imdb_id": "tt17490712",
@@ -1159,7 +1159,7 @@
     "title": "Scream 7",
     "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
     "release_date": "2026-02-25",
-    "rating": 6.056,
+    "rating": 6.057,
     "genres": [
       "Horror",
       "Mystery",
@@ -1255,7 +1255,7 @@
     "title": "The Super Mario Bros. Movie",
     "overview": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
     "release_date": "2023-04-05",
-    "rating": 7.588,
+    "rating": 7.6,
     "genres": [
       "Family",
       "Comedy",
@@ -1270,7 +1270,7 @@
       "Jack Black",
       "Keegan-Michael Key"
     ],
-    "director": "Michael Jelenic",
+    "director": "Aaron Horvath",
     "imdb_id": "tt6718170",
     "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
     "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
@@ -1282,7 +1282,7 @@
     "title": "War Machine",
     "overview": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
     "release_date": "2026-02-12",
-    "rating": 7.238,
+    "rating": 7.241,
     "genres": [
       "Action",
       "Science Fiction",
@@ -1331,7 +1331,7 @@
     "title": "Protector",
     "overview": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
     "release_date": "2026-02-20",
-    "rating": 6.388,
+    "rating": 6.3,
     "genres": [
       "Action",
       "Thriller"
@@ -1355,7 +1355,7 @@
     "title": "Anaconda",
     "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
     "release_date": "2025-12-24",
-    "rating": 5.9,
+    "rating": 5.871,
     "genres": [
       "Adventure",
       "Comedy",
@@ -1380,7 +1380,7 @@
     "title": "\"Wuthering Heights\"",
     "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
     "release_date": "2026-02-11",
-    "rating": 6.538,
+    "rating": 6.537,
     "genres": [
       "Romance",
       "Drama"
