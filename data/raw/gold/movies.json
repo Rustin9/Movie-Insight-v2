@@ -1,10 +1,34 @@
 [
   {
+    "tmdb_id": 1304313,
+    "title": "Lee Cronin's The Mummy",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "release_date": "2026-04-15",
+    "rating": 8,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "cast": [
+      "Jack Reynor",
+      "Laia Costa",
+      "May Calamawy",
+      "Natalie Grace",
+      "Shylo Molina"
+    ],
+    "director": "Lee Cronin",
+    "imdb_id": "tt32612507",
+    "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
+    "backdrop_path": "/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1439930,
     "title": "The Punisher: One Last Kill",
     "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
     "release_date": "2026-05-12",
-    "rating": 8.482,
+    "rating": 8.485,
     "genres": [
       "Action",
       "Drama",
@@ -25,35 +49,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1304313,
-    "title": "Lee Cronin's The Mummy",
-    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-    "release_date": "2026-04-15",
-    "rating": 7.93,
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "cast": [
-      "Jack Reynor",
-      "Laia Costa",
-      "May Calamawy",
-      "Natalie Grace",
-      "Shylo Molina"
-    ],
-    "director": "Lee Cronin",
-    "imdb_id": "tt32612507",
-    "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
-    "backdrop_path": "/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 687163,
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.609,
+    "rating": 8.614,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -77,7 +77,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 7.644,
+    "rating": 7.693,
     "genres": [
       "Family",
       "Comedy",
@@ -100,11 +100,36 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1380291,
+    "title": "Tom Clancy's Jack Ryan: Ghost War",
+    "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
+    "release_date": "2026-05-20",
+    "rating": 7.2,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "cast": [
+      "John Krasinski",
+      "Sienna Miller",
+      "Wendell Pierce",
+      "Michael Kelly",
+      "Max Beesley"
+    ],
+    "director": "Andrew Bernstein",
+    "imdb_id": "tt34378301",
+    "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
+    "backdrop_path": "/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1007757,
     "title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "release_date": "2026-05-01",
-    "rating": 8.975,
+    "rating": 8.978,
     "genres": [
       "Adventure",
       "Animation",
@@ -122,30 +147,6 @@
     "imdb_id": "tt29552248",
     "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1380291,
-    "title": "Tom Clancy's Jack Ryan: Ghost War",
-    "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
-    "release_date": "2026-05-20",
-    "rating": 7.259,
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "cast": [
-      "John Krasinski",
-      "Sienna Miller",
-      "Wendell Pierce",
-      "Michael Kelly",
-      "Max Beesley"
-    ],
-    "director": "Andrew Bernstein",
-    "imdb_id": "tt34378301",
-    "poster_path": "/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg",
-    "backdrop_path": "/69KkxROnZoJdQAulnY5B7Gx6D7Z.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -198,11 +199,36 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 931285,
+    "title": "Mortal Kombat II",
+    "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+    "release_date": "2026-05-06",
+    "rating": 6.875,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "cast": [
+      "Karl Urban",
+      "Adeline Rudolph",
+      "Jessica McNamee",
+      "Josh Lawson",
+      "Martyn Ford"
+    ],
+    "director": "Simon McQuoid",
+    "imdb_id": "tt17490712",
+    "poster_path": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+    "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1339713,
     "title": "Obsession",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "release_date": "2026-04-16",
-    "rating": 7.986,
+    "rating": 7.9,
     "genres": [
       "Horror"
     ],
@@ -216,7 +242,7 @@
     "director": "Curry Barker",
     "imdb_id": "tt37287335",
     "poster_path": "/40I66L7QKguTFDPvcLcdiTbAD7I.jpg",
-    "backdrop_path": "/1pKFDggvtk23zcn1vUcPiKyuHxM.jpg",
+    "backdrop_path": "/8nnO9zr2jUH2qH2PysbRQ1TMaye.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -225,7 +251,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.668,
+    "rating": 6.674,
     "genres": [
       "Action",
       "Thriller"
@@ -266,31 +292,6 @@
     "imdb_id": "tt0120616",
     "poster_path": "/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
     "backdrop_path": "/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 931285,
-    "title": "Mortal Kombat II",
-    "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-    "release_date": "2026-05-06",
-    "rating": 6.887,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Adventure"
-    ],
-    "cast": [
-      "Karl Urban",
-      "Adeline Rudolph",
-      "Jessica McNamee",
-      "Josh Lawson",
-      "Martyn Ford"
-    ],
-    "director": "Simon McQuoid",
-    "imdb_id": "tt17490712",
-    "poster_path": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-    "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -349,7 +350,7 @@
     "title": "Avatar: Fire and Ash",
     "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
     "release_date": "2025-12-17",
-    "rating": 7.491,
+    "rating": 7.493,
     "genres": [
       "Science Fiction",
       "Adventure",
@@ -447,7 +448,7 @@
     "title": "My Dearest Assassin",
     "overview": "Hunted for her rare blood type, a caged woman vows to fight alongside the assassin she loves to protect their future when an old enemy resurfaces.",
     "release_date": "2026-05-06",
-    "rating": 8.608,
+    "rating": 8.605,
     "genres": [
       "Action",
       "Drama",
@@ -472,7 +473,7 @@
     "title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "release_date": "2026-03-04",
-    "rating": 8.089,
+    "rating": 8.083,
     "genres": [
       "Adventure",
       "Animation",
@@ -499,7 +500,7 @@
     "title": "The Shadow's Edge",
     "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
     "release_date": "2025-08-16",
-    "rating": 7.4,
+    "rating": 7.369,
     "genres": [
       "Action",
       "Crime",
@@ -573,7 +574,7 @@
     "title": "Michael",
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "release_date": "2026-04-22",
-    "rating": 7.6,
+    "rating": 7.58,
     "genres": [
       "Music",
       "Drama"
@@ -597,7 +598,7 @@
     "title": "GOAT",
     "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
     "release_date": "2026-02-11",
-    "rating": 8.129,
+    "rating": 8.127,
     "genres": [
       "Animation",
       "Comedy",
@@ -622,7 +623,7 @@
     "title": "Star Wars: The Mandalorian and Grogu",
     "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
     "release_date": "2026-05-19",
-    "rating": 6.631,
+    "rating": 6.6,
     "genres": [
       "Action",
       "Adventure",
@@ -638,7 +639,7 @@
     "director": "Jon Favreau",
     "imdb_id": "tt30825738",
     "poster_path": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-    "backdrop_path": "/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
+    "backdrop_path": "/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -647,7 +648,7 @@
     "title": "Remarkably Bright Creatures",
     "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
     "release_date": "2026-05-07",
-    "rating": 8.539,
+    "rating": 8.538,
     "genres": [
       "Drama",
       "Mystery"
@@ -696,7 +697,7 @@
     "title": "Graphic Desires",
     "overview": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
     "release_date": "2023-08-31",
-    "rating": 6.985,
+    "rating": 6.956,
     "genres": [
       "Thriller",
       "Crime"
@@ -769,7 +770,7 @@
     "title": "The Sheep Detectives",
     "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
     "release_date": "2026-04-30",
-    "rating": 7.798,
+    "rating": 7.783,
     "genres": [
       "Comedy",
       "Family",
@@ -794,7 +795,7 @@
     "title": "Accidental Partners",
     "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
     "release_date": "2026-03-12",
-    "rating": 9.188,
+    "rating": 9.194,
     "genres": [
       "Comedy",
       "Romance",
@@ -811,6 +812,29 @@
     "imdb_id": "tt40187050",
     "poster_path": "/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
     "backdrop_path": "/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1431071,
+    "title": "System",
+    "overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the system and raising a question of what justice truly means to them.",
+    "release_date": "2026-05-22",
+    "rating": 0,
+    "genres": [
+      "Thriller"
+    ],
+    "cast": [
+      "Sonakshi Sinha",
+      "Jyothika",
+      "Ashutosh Gowariker",
+      "Adinath Kothare",
+      "Aashriya Mishra"
+    ],
+    "director": "Ashwiny Iyer Tiwari",
+    "imdb_id": "tt36201830",
+    "poster_path": "/wznZGK0WTgbIJWuZVdWG3oPECL.jpg",
+    "backdrop_path": "/7f9ZaTwyqQOJtNWUS7xZgWQOzSt.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -896,7 +920,7 @@
     "title": "Shelter",
     "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
     "release_date": "2026-01-28",
-    "rating": 7.55,
+    "rating": 7.6,
     "genres": [
       "Action",
       "Crime",
@@ -917,11 +941,34 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1368881,
+    "title": "Ladies First",
+    "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
+    "release_date": "2026-05-21",
+    "rating": 5.571,
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Sacha Baron Cohen",
+      "Rosamund Pike",
+      "Tom Davis",
+      "Emily Mortimer",
+      "Weruche Opia"
+    ],
+    "director": "Thea Sharrock",
+    "imdb_id": "tt34611082",
+    "poster_path": "/kjR56Yv17pbjTVBTMjqepvcus4f.jpg",
+    "backdrop_path": "/bOy625BjpCskOWnx3tD09MsKVCb.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1196067,
     "title": "Worldbreaker",
     "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
     "release_date": "2025-10-30",
-    "rating": 5.917,
+    "rating": 5.929,
     "genres": [
       "Science Fiction",
       "Action",
@@ -942,36 +989,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1242332,
-    "title": "Normal",
-    "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-    "release_date": "2026-04-16",
-    "rating": 6.647,
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "cast": [
-      "Bob Odenkirk",
-      "Henry Winkler",
-      "Lena Headey",
-      "Billy MacLellan",
-      "Ryan Allen"
-    ],
-    "director": "Ben Wheatley",
-    "imdb_id": "tt31195136",
-    "poster_path": "/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
-    "backdrop_path": "/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1613798,
     "title": "Vengeance",
     "overview": "The brutal murder of the wife of “Toro,” a military hero in the special forces, turns him into a man with a single purpose: revenge. After a stroke of fate makes him a millionaire, Carlos transforms his fortune into an arsenal and, together with his closest soldiers, sets out to hunt down those responsible.",
     "release_date": "2026-02-26",
-    "rating": 7.408,
+    "rating": 7.411,
     "genres": [
       "Action",
       "Thriller"
@@ -1067,7 +1089,7 @@
     "title": "The Housemaid",
     "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
     "release_date": "2025-12-18",
-    "rating": 7.245,
+    "rating": 7.247,
     "genres": [
       "Mystery",
       "Thriller"
@@ -1082,7 +1104,7 @@
     "director": "Paul Feig",
     "imdb_id": "tt27543632",
     "poster_path": "/cWsBscZzwu5brg9YjNkGewRUvJX.jpg",
-    "backdrop_path": "/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+    "backdrop_path": "/8lgSWWrpS75Hwdm0TZlL1dK7VDD.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1091,7 +1113,7 @@
     "title": "They Will Kill You",
     "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
     "release_date": "2026-03-25",
-    "rating": 6.941,
+    "rating": 6.937,
     "genres": [
       "Action",
       "Comedy",
@@ -1116,7 +1138,7 @@
     "title": "Predator: Badlands",
     "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
     "release_date": "2025-11-05",
-    "rating": 7.739,
+    "rating": 7.74,
     "genres": [
       "Action",
       "Science Fiction",
@@ -1165,7 +1187,7 @@
     "title": "Michael Jackson: The Life of an Icon",
     "overview": "See Michael Jackson, one of the most recognizable and popular entertainers of all time, like never before in the feature-length tribute Michael Jackson: The Life of an Icon. Known to millions of fans worldwide for his record-breaking albums, groundbreaking music videos, mesmerizing dance moves and humanitarian efforts, his true story has never really been told...until now. This unprecedented look into the King of Pop's fascinating life includes all-new interviews with his mother Katherine Jackson as well as siblings Tito and Rebbie Jackson,  his nephew  Jaafar Jackson and niece Tahkyah brings plenty Jackson and Friends ends and music legends such as Smokey Robinson, Dionne Warwick and  his 3 children and many more.",
     "release_date": "2011-11-02",
-    "rating": 8.126,
+    "rating": 8.12,
     "genres": [
       "Documentary",
       "Music"
@@ -1189,7 +1211,7 @@
     "title": "Greenland 2: Migration",
     "overview": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
     "release_date": "2026-01-07",
-    "rating": 6.415,
+    "rating": 6.409,
     "genres": [
       "Adventure",
       "Thriller",
@@ -1239,7 +1261,7 @@
     "title": "My Teacher, My Obsession",
     "overview": "Riley is struggling to make friends after transferring to a new high school where her father, Chris, is an English teacher. When she meets Kyla, they quickly becomes close friends. However, the friendship takes a strange turn when Riley learns that Kyla is obsessed with her dad. Will Kyla successfully seduce Chris and start a twisted new life with him by removing everyone in her path, or will Riley be able to save her father from Kyla’s treacherous plot before it’s too late?",
     "release_date": "2018-06-12",
-    "rating": 5,
+    "rating": 4.958,
     "genres": [
       "Drama",
       "Thriller",
@@ -1313,7 +1335,7 @@
     "title": "Apocalypto",
     "overview": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
     "release_date": "2006-12-07",
-    "rating": 7.619,
+    "rating": 7.62,
     "genres": [
       "Action",
       "Drama",
@@ -1338,7 +1360,7 @@
     "title": "Ne Zha 2",
     "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
     "release_date": "2025-01-29",
-    "rating": 8.151,
+    "rating": 8.154,
     "genres": [
       "Animation",
       "Action",
@@ -1385,31 +1407,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 24428,
-    "title": "The Avengers",
-    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
-    "release_date": "2012-04-25",
-    "rating": 8.028,
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure"
-    ],
-    "cast": [
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Mark Ruffalo",
-      "Chris Hemsworth",
-      "Scarlett Johansson"
-    ],
-    "director": "Joss Whedon",
-    "imdb_id": "tt0848228",
-    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
-    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1159559,
     "title": "Scream 7",
     "overview": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
@@ -1435,6 +1432,31 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 24428,
+    "title": "The Avengers",
+    "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+    "release_date": "2012-04-25",
+    "rating": 8.029,
+    "genres": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ],
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo",
+      "Chris Hemsworth",
+      "Scarlett Johansson"
+    ],
+    "director": "Joss Whedon",
+    "imdb_id": "tt0848228",
+    "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+    "backdrop_path": "/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1235192,
     "title": "Wormtown",
     "overview": "One year into a plague of flesh-eating, mind-altering worms, the nocturnal town of Ashland, Ohio, has embraced the parasites’ rule. Under cult-like Mayor Joshua, zealous Ranchers spread their gospel—by persuasion or by force. A trio of uninfected women cling to survival through scavenging, extreme hygiene, and evasion. But everyone breaks eventually, unleashing betrayal, sacrilege, and body horror.",
@@ -1456,30 +1478,6 @@
     "imdb_id": "tt27040807",
     "poster_path": "/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
     "backdrop_path": "/wfGDy0KVZsiQpGgYoxObUGgccwk.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1657678,
-    "title": "Indian Institute of Zombies",
-    "overview": "At an elite engineering campus, students must survive a sudden zombie outbreak while navigating academic pressures and social hierarchies, blending horror with comedy and biting satire of privilege and competition.",
-    "release_date": "2026-05-08",
-    "rating": 0,
-    "genres": [
-      "Comedy",
-      "Horror"
-    ],
-    "cast": [
-      "Jessey Lever",
-      "Anupriya Goenka",
-      "Mohan Kapur",
-      "Ranjan Raj",
-      "Shivani Paliwal"
-    ],
-    "director": "Gaganjeet Singh",
-    "imdb_id": "tt41113860",
-    "poster_path": "/zSiNbahfCoezs5LQYNtJrvczngM.jpg",
-    "backdrop_path": "/qGk24C6fV10LkXCEpAJ4BbzViFC.jpg",
     "facts": [],
     "link_confidence": "NONE"
   }
