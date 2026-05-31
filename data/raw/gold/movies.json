@@ -4,7 +4,7 @@
     "title": "Lee Cronin's The Mummy",
     "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
     "release_date": "2026-04-15",
-    "rating": 8.04,
+    "rating": 8.06,
     "genres": [
       "Horror",
       "Mystery"
@@ -28,7 +28,7 @@
     "title": "Obsession",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "release_date": "2026-05-13",
-    "rating": 7.952,
+    "rating": 7.98,
     "genres": [
       "Horror"
     ],
@@ -51,7 +51,7 @@
     "title": "Tom Clancy's Jack Ryan: Ghost War",
     "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
     "release_date": "2026-05-20",
-    "rating": 7.159,
+    "rating": 7.168,
     "genres": [
       "Action",
       "Thriller"
@@ -75,7 +75,7 @@
     "title": "The Punisher: One Last Kill",
     "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
     "release_date": "2026-05-12",
-    "rating": 8.386,
+    "rating": 8.388,
     "genres": [
       "Action",
       "Drama",
@@ -100,7 +100,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 8.058,
+    "rating": 8.077,
     "genres": [
       "Family",
       "Comedy",
@@ -127,7 +127,7 @@
     "title": "Dhurandhar: The Revenge",
     "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
     "release_date": "2026-03-18",
-    "rating": 7.3,
+    "rating": 7.27,
     "genres": [
       "Action",
       "Crime",
@@ -152,7 +152,7 @@
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.64,
+    "rating": 8.642,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -176,7 +176,7 @@
     "title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "release_date": "2026-05-01",
-    "rating": 8.983,
+    "rating": 8.986,
     "genres": [
       "Adventure",
       "Animation",
@@ -218,6 +218,31 @@
     "imdb_id": "tt38190257",
     "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
     "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "release_date": "2026-05-27",
+    "rating": 6.641,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Renate Reinsve",
+      "Mark Duplass",
+      "Finn Bennett",
+      "Lukita Maxwell"
+    ],
+    "director": "Kane Parsons",
+    "imdb_id": "tt26657236",
+    "poster_path": "/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+    "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -293,27 +318,27 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1083381,
-    "title": "Backrooms",
-    "overview": "A strange doorway appears in the basement of a furniture showroom.",
-    "release_date": "2026-05-27",
-    "rating": 6.677,
+    "tmdb_id": 1390300,
+    "title": "Over Your Dead Body",
+    "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+    "release_date": "2026-04-24",
+    "rating": 7,
     "genres": [
-      "Horror",
-      "Mystery",
-      "Science Fiction"
+      "Action",
+      "Comedy",
+      "Thriller"
     ],
     "cast": [
-      "Chiwetel Ejiofor",
-      "Renate Reinsve",
-      "Finn Bennett",
-      "Lukita Maxwell",
-      "Mark Duplass"
+      "Jason Segel",
+      "Samara Weaving",
+      "Paul Guilfoyle",
+      "Timothy Olyphant",
+      "Keith Jardine"
     ],
-    "director": "Kane Parsons",
-    "imdb_id": "tt26657236",
-    "poster_path": "/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
-    "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+    "director": "Jorma Taccone",
+    "imdb_id": "tt34685692",
+    "poster_path": "/fqXIk1BY0tJvlqwiTw2HL9gegqE.jpg",
+    "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -322,7 +347,7 @@
     "title": "The Mandalorian and Grogu",
     "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
     "release_date": "2026-05-20",
-    "rating": 6.804,
+    "rating": 6.826,
     "genres": [
       "Action",
       "Adventure",
@@ -347,7 +372,7 @@
     "title": "Mortal Kombat II",
     "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
     "release_date": "2026-05-06",
-    "rating": 6.8,
+    "rating": 6.783,
     "genres": [
       "Action",
       "Fantasy",
@@ -422,7 +447,7 @@
     "title": "The Shadow's Edge",
     "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
     "release_date": "2025-08-16",
-    "rating": 7.403,
+    "rating": 7.411,
     "genres": [
       "Action",
       "Crime",
@@ -448,7 +473,7 @@
     "title": "The Devil Wears Prada",
     "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
     "release_date": "2006-06-29",
-    "rating": 7.424,
+    "rating": 7.426,
     "genres": [
       "Drama",
       "Comedy"
@@ -468,38 +493,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1327819,
-    "title": "Hoppers",
-    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-    "release_date": "2026-03-04",
-    "rating": 8.142,
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Comedy",
-      "Family",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Piper Curda",
-      "Bobby Moynihan",
-      "Jon Hamm",
-      "Kathy Najimy",
-      "Dave Franco"
-    ],
-    "director": "Daniel Chong",
-    "imdb_id": "tt26443616",
-    "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-    "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 976912,
     "title": "Graphic Desires",
     "overview": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
     "release_date": "2023-08-31",
-    "rating": 7.039,
+    "rating": 7.038,
     "genres": [
       "Thriller",
       "Crime"
@@ -523,7 +521,7 @@
     "title": "Avatar: Fire and Ash",
     "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
     "release_date": "2025-12-17",
-    "rating": 7.526,
+    "rating": 7.528,
     "genres": [
       "Science Fiction",
       "Adventure",
@@ -621,7 +619,6 @@
     "release_date": "2026-05-14",
     "rating": 7.3,
     "genres": [
-      "Drama",
       "Action",
       "Fantasy"
     ],
@@ -644,7 +641,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.708,
+    "rating": 6.719,
     "genres": [
       "Action",
       "Thriller"
@@ -693,7 +690,7 @@
     "title": "GOAT",
     "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
     "release_date": "2026-02-11",
-    "rating": 8.109,
+    "rating": 8.114,
     "genres": [
       "Animation",
       "Comedy",
@@ -718,7 +715,7 @@
     "title": "Over Your Dead Body",
     "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
     "release_date": "2026-04-24",
-    "rating": 7.07,
+    "rating": 7,
     "genres": [
       "Action",
       "Comedy",
@@ -767,7 +764,7 @@
     "title": "Damage",
     "overview": "The life of a respected British politician at the height of his career crumbles when he becomes obsessed with his son's lover.",
     "release_date": "1992-12-02",
-    "rating": 6.566,
+    "rating": 6.559,
     "genres": [
       "Drama",
       "Romance"
@@ -791,7 +788,7 @@
     "title": "Ladies First",
     "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
     "release_date": "2026-05-21",
-    "rating": 5.982,
+    "rating": 6.027,
     "genres": [
       "Comedy",
       "Fantasy"
@@ -888,7 +885,7 @@
     "title": "Dhurandhar",
     "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
     "release_date": "2025-12-05",
-    "rating": 7.126,
+    "rating": 7.1,
     "genres": [
       "Action",
       "Crime",
@@ -913,7 +910,7 @@
     "title": "Disforia",
     "overview": "Set in the near future against the backdrop of widespread looting and societal collapse, the couple formed by Esther and Tomás and their daughter Say move to their summer house so they can promptly sell it and then flee from their country to France, drawing attention from a ring of voyeurs of real-life torture streamed on the dark web.",
     "release_date": "2025-09-20",
-    "rating": 5,
+    "rating": 4.25,
     "genres": [
       "Horror",
       "Thriller"
@@ -984,7 +981,7 @@
     "title": "Worldbreaker",
     "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
     "release_date": "2025-10-30",
-    "rating": 6.056,
+    "rating": 6.077,
     "genres": [
       "Science Fiction",
       "Action",
@@ -1009,7 +1006,7 @@
     "title": "Zootopia 2",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "release_date": "2025-11-26",
-    "rating": 7.643,
+    "rating": 7.646,
     "genres": [
       "Action",
       "Adventure",
@@ -1082,7 +1079,7 @@
     "title": "Mexican Psycho",
     "overview": "Follows an \"ultra-violent and intelligent\" psychopath who challenges the police by leaving a white paper rabbit at each crime scene, connecting them all.",
     "release_date": "2026-03-19",
-    "rating": 7.455,
+    "rating": 7.471,
     "genres": [
       "Thriller",
       "Horror"
@@ -1106,7 +1103,7 @@
     "title": "Remarkably Bright Creatures",
     "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
     "release_date": "2026-05-07",
-    "rating": 8.523,
+    "rating": 8.539,
     "genres": [
       "Drama",
       "Mystery"
@@ -1154,7 +1151,7 @@
     "title": "The Last Supper",
     "overview": "In a deserted house, a mysterious man savors an exquisite menu in the company of an unseen guest. From this eerie dinner table, a succession of terrifying stories is revealed-each probing primal fears of hunger, flesh, and survival.",
     "release_date": "2025-10-23",
-    "rating": 0,
+    "rating": 10,
     "genres": [
       "Horror"
     ],
@@ -1250,7 +1247,7 @@
     "title": "Accidental Partners",
     "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
     "release_date": "2026-03-12",
-    "rating": 9.101,
+    "rating": 9.109,
     "genres": [
       "Comedy",
       "Romance"
@@ -1274,7 +1271,7 @@
     "title": "Ne Zha 2",
     "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
     "release_date": "2025-01-29",
-    "rating": 8.166,
+    "rating": 8.171,
     "genres": [
       "Animation",
       "Action",
@@ -1324,7 +1321,7 @@
     "title": "Ready or Not: Here I Come",
     "overview": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
     "release_date": "2026-03-19",
-    "rating": 7.686,
+    "rating": 7.688,
     "genres": [
       "Thriller",
       "Horror",
@@ -1349,7 +1346,7 @@
     "title": "Colony",
     "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
     "release_date": "2026-05-21",
-    "rating": 7.063,
+    "rating": 7.167,
     "genres": [
       "Action",
       "Thriller",
@@ -1374,7 +1371,7 @@
     "title": "Shelter",
     "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
     "release_date": "2026-01-28",
-    "rating": 7.611,
+    "rating": 7.614,
     "genres": [
       "Action",
       "Crime",
@@ -1399,7 +1396,7 @@
     "title": "The Housemaid",
     "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
     "release_date": "2025-12-18",
-    "rating": 7.265,
+    "rating": 7.263,
     "genres": [
       "Mystery",
       "Thriller"
@@ -1423,7 +1420,7 @@
     "title": "The Sheep Detectives",
     "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
     "release_date": "2026-04-30",
-    "rating": 7.643,
+    "rating": 7.641,
     "genres": [
       "Comedy",
       "Family",
