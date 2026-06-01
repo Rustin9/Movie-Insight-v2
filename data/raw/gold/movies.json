@@ -4,7 +4,7 @@
     "title": "Lee Cronin's The Mummy",
     "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
     "release_date": "2026-04-15",
-    "rating": 8.069,
+    "rating": 8.067,
     "genres": [
       "Horror",
       "Mystery"
@@ -28,7 +28,7 @@
     "title": "Obsession",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "release_date": "2026-05-13",
-    "rating": 8,
+    "rating": 7.975,
     "genres": [
       "Horror"
     ],
@@ -51,7 +51,7 @@
     "title": "Tom Clancy's Jack Ryan: Ghost War",
     "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
     "release_date": "2026-05-20",
-    "rating": 7.18,
+    "rating": 7.162,
     "genres": [
       "Action",
       "Thriller"
@@ -75,7 +75,7 @@
     "title": "The Punisher: One Last Kill",
     "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
     "release_date": "2026-05-12",
-    "rating": 8.395,
+    "rating": 8.4,
     "genres": [
       "Action",
       "Drama",
@@ -100,7 +100,7 @@
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.6,
+    "rating": 8.644,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -115,7 +115,7 @@
     "director": "Phil Lord",
     "imdb_id": "tt12042730",
     "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-    "backdrop_path": "/qjLiHYCzCfgqeyZlcKKNHk1eLHa.jpg",
+    "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -124,7 +124,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 8.093,
+    "rating": 8.096,
     "genres": [
       "Family",
       "Comedy",
@@ -139,7 +139,7 @@
       "Jack Black",
       "Donald Glover"
     ],
-    "director": "Michael Jelenic",
+    "director": "Aaron Horvath",
     "imdb_id": "tt28650488",
     "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
     "backdrop_path": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
@@ -151,7 +151,7 @@
     "title": "Dhurandhar: The Revenge",
     "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
     "release_date": "2026-03-18",
-    "rating": 7.243,
+    "rating": 7.24,
     "genres": [
       "Action",
       "Crime",
@@ -168,6 +168,31 @@
     "imdb_id": "tt39139925",
     "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
     "backdrop_path": "/gRoZG3Z0zJxgElmTsVHOl2dNYXe.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1083381,
+    "title": "Backrooms",
+    "overview": "A strange doorway appears in the basement of a furniture showroom.",
+    "release_date": "2026-05-27",
+    "rating": 6.8,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Chiwetel Ejiofor",
+      "Renate Reinsve",
+      "Mark Duplass",
+      "Finn Bennett",
+      "Lukita Maxwell"
+    ],
+    "director": "Kane Parsons",
+    "imdb_id": "tt26657236",
+    "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+    "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -201,7 +226,7 @@
     "title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "release_date": "2026-05-01",
-    "rating": 8.984,
+    "rating": 8.978,
     "genres": [
       "Adventure",
       "Animation",
@@ -219,6 +244,30 @@
     "imdb_id": "tt29552248",
     "poster_path": "/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
     "backdrop_path": "/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 603,
+    "title": "The Matrix",
+    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "release_date": "1999-03-31",
+    "rating": 8.2,
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving",
+      "Gloria Foster"
+    ],
+    "director": "Lana Wachowski",
+    "imdb_id": "tt0133093",
+    "poster_path": "/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+    "backdrop_path": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -243,55 +292,6 @@
     "imdb_id": "tt38190257",
     "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
     "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1083381,
-    "title": "Backrooms",
-    "overview": "A strange doorway appears in the basement of a furniture showroom.",
-    "release_date": "2026-05-27",
-    "rating": 6.8,
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Chiwetel Ejiofor",
-      "Renate Reinsve",
-      "Mark Duplass",
-      "Finn Bennett",
-      "Lukita Maxwell"
-    ],
-    "director": "Kane Parsons",
-    "imdb_id": "tt26657236",
-    "poster_path": "/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
-    "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 603,
-    "title": "The Matrix",
-    "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
-    "release_date": "1999-03-31",
-    "rating": 8.246,
-    "genres": [
-      "Action",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Keanu Reeves",
-      "Laurence Fishburne",
-      "Carrie-Anne Moss",
-      "Hugo Weaving",
-      "Gloria Foster"
-    ],
-    "director": "Lana Wachowski",
-    "imdb_id": "tt0133093",
-    "poster_path": "/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
-    "backdrop_path": "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -347,7 +347,7 @@
     "title": "Over Your Dead Body",
     "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
     "release_date": "2026-04-24",
-    "rating": 6.765,
+    "rating": 6.8,
     "genres": [
       "Action",
       "Comedy",
@@ -397,7 +397,7 @@
     "title": "The Shadow's Edge",
     "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
     "release_date": "2025-08-16",
-    "rating": 7.414,
+    "rating": 7.422,
     "genres": [
       "Action",
       "Crime",
@@ -423,7 +423,7 @@
     "title": "Mortal Kombat II",
     "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
     "release_date": "2026-05-06",
-    "rating": 6.797,
+    "rating": 6.766,
     "genres": [
       "Action",
       "Fantasy",
@@ -493,11 +493,35 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1065834,
+    "title": "Kattalan",
+    "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
+    "release_date": "2026-05-14",
+    "rating": 6,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Antony Varghese",
+      "Sunil Varma",
+      "Dushara Vijayan",
+      "Jagadish",
+      "Kabir Duhan Singh"
+    ],
+    "director": "Paul George",
+    "imdb_id": "tt35668756",
+    "poster_path": "/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+    "backdrop_path": "/wvmfToHjflWab2PHKG1vCqg2Asx.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 350,
     "title": "The Devil Wears Prada",
     "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
     "release_date": "2006-06-29",
-    "rating": 7.426,
+    "rating": 7.427,
     "genres": [
       "Drama",
       "Comedy"
@@ -541,11 +565,36 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1116201,
+    "title": "Iron Lung",
+    "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
+    "release_date": "2026-01-30",
+    "rating": 7.26,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Mark Fischbach",
+      "Caroline Kaplan",
+      "Troy Baker",
+      "Elsie Lovelock",
+      "Elle LaMont"
+    ],
+    "director": "Mark Fischbach",
+    "imdb_id": "tt27564844",
+    "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+    "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 83533,
     "title": "Avatar: Fire and Ash",
     "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
     "release_date": "2025-12-17",
-    "rating": 7.53,
+    "rating": 7.5,
     "genres": [
       "Science Fiction",
       "Adventure",
@@ -570,7 +619,7 @@
     "title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "release_date": "2026-03-04",
-    "rating": 8.157,
+    "rating": 8.165,
     "genres": [
       "Adventure",
       "Animation",
@@ -593,26 +642,23 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1065834,
-    "title": "Kattalan",
-    "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
-    "release_date": "2026-05-14",
-    "rating": 6,
+    "tmdb_id": 758308,
+    "title": "Red Latex",
+    "overview": "Eric lives with his pregnant wife in his in-laws' house because they have no money to become independent. Eric is very docile and the people around him: his wife, his father, his father-in-law, and his boss have always told him what he has to do with his life. But everything has a limit. Fed of with this situation, Eric leaves his family and escapes to the mansion of the dominatrix Mistress Gise to become her slave. Eric hopes to achieve liberation by submitting to Mistress Gise. When his family finds out, they do what they can to get him back. Meanwhile, Mistress Gise is a twisted Domina who takes Eric's slavery beyond any expected limit.",
+    "release_date": "2020-02-22",
+    "rating": 5.1,
     "genres": [
-      "Action",
       "Thriller"
     ],
     "cast": [
-      "Antony Varghese",
-      "Sunil Varma",
-      "Dushara Vijayan",
-      "Jagadish",
-      "Kabir Duhan Singh"
+      "Fedra Duarte",
+      "Nestor Napolitano",
+      "Valeria Rowinski"
     ],
-    "director": "Paul George",
-    "imdb_id": "tt35668756",
-    "poster_path": "/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
-    "backdrop_path": "/wvmfToHjflWab2PHKG1vCqg2Asx.jpg",
+    "director": "Gerard Marcó de Mas",
+    "imdb_id": "tt7852780",
+    "poster_path": "/hP1o5waM6ohMTKr4QcOtyOP1oiu.jpg",
+    "backdrop_path": "/dMX6RR0SHgI43r2CsDkF5wzozOw.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -621,7 +667,7 @@
     "title": "Karuppu",
     "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
     "release_date": "2026-05-14",
-    "rating": 7.3,
+    "rating": 7.5,
     "genres": [
       "Action",
       "Fantasy"
@@ -635,7 +681,7 @@
     ],
     "director": "RJ Balaji",
     "imdb_id": "tt33988385",
-    "poster_path": "/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+    "poster_path": "/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
     "backdrop_path": "/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
     "facts": [],
     "link_confidence": "NONE"
@@ -645,7 +691,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.721,
+    "rating": 6.723,
     "genres": [
       "Action",
       "Thriller"
@@ -692,7 +738,7 @@
     "title": "Michael",
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "release_date": "2026-04-22",
-    "rating": 7.6,
+    "rating": 7.573,
     "genres": [
       "Music",
       "Drama"
@@ -790,7 +836,7 @@
     "title": "Disforia",
     "overview": "Set in the near future against the backdrop of widespread looting and societal collapse, the couple formed by Esther and Tomás and their daughter Say move to their summer house so they can promptly sell it and then flee from their country to France, drawing attention from a ring of voyeurs of real-life torture streamed on the dark web.",
     "release_date": "2025-09-20",
-    "rating": 5,
+    "rating": 4.833,
     "genres": [
       "Horror",
       "Thriller"
@@ -877,7 +923,7 @@
     ],
     "director": "Vijay Kartikeyaa",
     "imdb_id": "tt28961625",
-    "poster_path": "/xmc8clJ2QoCtNcvw0LzLr5fidVV.jpg",
+    "poster_path": "/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
     "backdrop_path": "/6DfHl4CE88x7Rt9oyARQQm6bHXD.jpg",
     "facts": [],
     "link_confidence": "NONE"
@@ -931,36 +977,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1291608,
-    "title": "Dhurandhar",
-    "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
-    "release_date": "2025-12-05",
-    "rating": 7.132,
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "cast": [
-      "Ranveer Singh",
-      "Akshaye Khanna",
-      "R. Madhavan",
-      "Arjun Rampal",
-      "Sanjay Dutt"
-    ],
-    "director": "Aditya Dhar",
-    "imdb_id": "tt33014583",
-    "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
-    "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 758308,
     "title": "Red Latex",
     "overview": "Eric lives with his pregnant wife in his in-laws' house because they have no money to become independent. Eric is very docile and the people around him: his wife, his father, his father-in-law, and his boss have always told him what he has to do with his life. But everything has a limit. Fed of with this situation, Eric leaves his family and escapes to the mansion of the dominatrix Mistress Gise to become her slave. Eric hopes to achieve liberation by submitting to Mistress Gise. When his family finds out, they do what they can to get him back. Meanwhile, Mistress Gise is a twisted Domina who takes Eric's slavery beyond any expected limit.",
     "release_date": "2020-02-22",
-    "rating": 5.149,
+    "rating": 5.1,
     "genres": [
       "Thriller"
     ],
@@ -981,7 +1002,7 @@
     "title": "Ladies First",
     "overview": "An arrogant but charismatic ladies' man finds his life of money, power and casual flings upended when he wakes up in a parallel world dominated by women.",
     "release_date": "2026-05-21",
-    "rating": 6.05,
+    "rating": 6.032,
     "genres": [
       "Comedy",
       "Fantasy"
@@ -1053,7 +1074,7 @@
     "title": "Zootopia 2",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "release_date": "2025-11-26",
-    "rating": 7.647,
+    "rating": 7.648,
     "genres": [
       "Adventure",
       "Animation",
@@ -1080,7 +1101,7 @@
     "title": "Kartavya",
     "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
     "release_date": "2026-05-15",
-    "rating": 6.438,
+    "rating": 6.471,
     "genres": [
       "Crime",
       "Drama",
@@ -1177,7 +1198,7 @@
     "title": "Real Steel",
     "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
     "release_date": "2011-09-28",
-    "rating": 7.092,
+    "rating": 7.093,
     "genres": [
       "Action",
       "Science Fiction",
@@ -1251,7 +1272,7 @@
     "title": "Mexican Psycho",
     "overview": "Follows an \"ultra-violent and intelligent\" psychopath who challenges the police by leaving a white paper rabbit at each crime scene, connecting them all.",
     "release_date": "2026-03-19",
-    "rating": 7.315,
+    "rating": 7.387,
     "genres": [
       "Thriller",
       "Horror"
@@ -1271,36 +1292,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1116201,
-    "title": "Iron Lung",
-    "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
-    "release_date": "2026-01-30",
-    "rating": 7.266,
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Mark Fischbach",
-      "Caroline Kaplan",
-      "Troy Baker",
-      "Elsie Lovelock",
-      "Elle LaMont"
-    ],
-    "director": "Mark Fischbach",
-    "imdb_id": "tt27564844",
-    "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-    "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1330021,
     "title": "Remarkably Bright Creatures",
     "overview": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
     "release_date": "2026-05-07",
-    "rating": 8.542,
+    "rating": 8.5,
     "genres": [
       "Drama",
       "Mystery"
@@ -1398,7 +1394,7 @@
     "title": "Accidental Partners",
     "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
     "release_date": "2026-03-12",
-    "rating": 9.128,
+    "rating": 9.149,
     "genres": [
       "Comedy",
       "Romance"
@@ -1422,7 +1418,7 @@
     "title": "Colony",
     "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
     "release_date": "2026-05-21",
-    "rating": 6.841,
+    "rating": 6.5,
     "genres": [
       "Action",
       "Thriller",
@@ -1447,7 +1443,7 @@
     "title": "The Housemaid",
     "overview": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
     "release_date": "2025-12-18",
-    "rating": 7.263,
+    "rating": 7.259,
     "genres": [
       "Mystery",
       "Thriller"
