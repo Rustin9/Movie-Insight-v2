@@ -28,7 +28,7 @@
     "title": "Lee Cronin's The Mummy",
     "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
     "release_date": "2026-04-15",
-    "rating": 8.057,
+    "rating": 8.055,
     "genres": [
       "Horror",
       "Mystery"
@@ -101,7 +101,7 @@
     "title": "Backrooms",
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "release_date": "2026-05-27",
-    "rating": 6.742,
+    "rating": 6.8,
     "genres": [
       "Horror",
       "Mystery",
@@ -117,7 +117,7 @@
     "director": "Kane Parsons",
     "imdb_id": "tt26657236",
     "poster_path": "/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-    "backdrop_path": "/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+    "backdrop_path": "/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -126,7 +126,7 @@
     "title": "The Punisher: One Last Kill",
     "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
     "release_date": "2026-05-12",
-    "rating": 8.363,
+    "rating": 8.365,
     "genres": [
       "Action",
       "Drama",
@@ -151,7 +151,7 @@
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.653,
+    "rating": 8.656,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -175,7 +175,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 8.108,
+    "rating": 8.116,
     "genres": [
       "Family",
       "Comedy",
@@ -227,7 +227,7 @@
     "title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "release_date": "2026-05-01",
-    "rating": 8.972,
+    "rating": 8.968,
     "genres": [
       "Adventure",
       "Animation",
@@ -349,7 +349,7 @@
     "title": "The Shadow's Edge",
     "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
     "release_date": "2025-08-16",
-    "rating": 7.558,
+    "rating": 7.569,
     "genres": [
       "Action",
       "Crime",
@@ -375,7 +375,7 @@
     "title": "Hokum",
     "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
     "release_date": "2026-04-29",
-    "rating": 7.079,
+    "rating": 7.1,
     "genres": [
       "Horror"
     ],
@@ -394,35 +394,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 405818,
-    "title": "Door II: Tokyo Diary",
-    "overview": "Ai is a call girl that makes good money for what she does but there’s always at risk no matter how good the money is.",
-    "release_date": "1991-04-25",
-    "rating": 6.071,
-    "genres": [
-      "Thriller",
-      "Drama"
-    ],
-    "cast": [
-      "Chikako Aoyama",
-      "Joe Yamanaka",
-      "Shingo Kazami",
-      "Chiharu Iwamoto",
-      "Tatsuo Yamada"
-    ],
-    "director": "Banmei Takahashi",
-    "imdb_id": "tt0223151",
-    "poster_path": "/lskJ34j4VKwbMwcvFSQeNYEdt8g.jpg",
-    "backdrop_path": "/gQq1r3H0QgM9h72o2OpOV5kTOpG.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1116201,
     "title": "Iron Lung",
     "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
     "release_date": "2026-01-30",
-    "rating": 7.172,
+    "rating": 7.201,
     "genres": [
       "Horror",
       "Mystery",
@@ -439,6 +415,30 @@
     "imdb_id": "tt27564844",
     "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
     "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1122573,
+    "title": "In the Grey",
+    "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "release_date": "2026-05-13",
+    "rating": 6.629,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Henry Cavill",
+      "Jake Gyllenhaal",
+      "Eiza González",
+      "Carlos Bardem",
+      "Michael Vu"
+    ],
+    "director": "Guy Ritchie",
+    "imdb_id": "tt27681354",
+    "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+    "backdrop_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -492,6 +492,30 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1510339,
+    "title": "Mark",
+    "overview": "Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
+    "release_date": "2025-12-25",
+    "rating": 4,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Sudeepa",
+      "Deepshika Umapathy",
+      "Naveen Chandra",
+      "Shine Tom Chacko",
+      "Yogi Babu"
+    ],
+    "director": "Vijay Kartikeyaa",
+    "imdb_id": "tt28961625",
+    "poster_path": "/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+    "backdrop_path": "/6DfHl4CE88x7Rt9oyARQQm6bHXD.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 249397,
     "title": "Nymphomaniac: Vol. II",
     "overview": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
@@ -520,7 +544,7 @@
     "title": "Mortal Kombat II",
     "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
     "release_date": "2026-05-06",
-    "rating": 6.7,
+    "rating": 6.73,
     "genres": [
       "Action",
       "Fantasy",
@@ -545,10 +569,10 @@
     "title": "Door II: Tokyo Diary",
     "overview": "Ai is a call girl that makes good money for what she does but there’s always at risk no matter how good the money is.",
     "release_date": "1991-04-25",
-    "rating": 6.071,
+    "rating": 6.1,
     "genres": [
-      "Thriller",
-      "Drama"
+      "Drama",
+      "Thriller"
     ],
     "cast": [
       "Chikako Aoyama",
@@ -616,7 +640,7 @@
     "title": "The Mandalorian and Grogu",
     "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
     "release_date": "2026-05-20",
-    "rating": 6.854,
+    "rating": 6.84,
     "genres": [
       "Action",
       "Adventure",
@@ -641,7 +665,7 @@
     "title": "The Devil Wears Prada",
     "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
     "release_date": "2006-06-29",
-    "rating": 7.427,
+    "rating": 7.428,
     "genres": [
       "Drama",
       "Comedy"
@@ -665,7 +689,7 @@
     "title": "Over Your Dead Body",
     "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
     "release_date": "2026-04-24",
-    "rating": 6.765,
+    "rating": 6.851,
     "genres": [
       "Action",
       "Comedy",
@@ -682,31 +706,6 @@
     "imdb_id": "tt34685692",
     "poster_path": "/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg",
     "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 460465,
-    "title": "Mortal Kombat",
-    "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
-    "release_date": "2021-04-07",
-    "rating": 7.037,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Adventure"
-    ],
-    "cast": [
-      "Lewis Tan",
-      "Jessica McNamee",
-      "Mehcad Brooks",
-      "Josh Lawson",
-      "Ludi Lin"
-    ],
-    "director": "Simon McQuoid",
-    "imdb_id": "tt0293429",
-    "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
-    "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -734,11 +733,36 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 460465,
+    "title": "Mortal Kombat",
+    "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+    "release_date": "2021-04-07",
+    "rating": 7,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "cast": [
+      "Lewis Tan",
+      "Jessica McNamee",
+      "Mehcad Brooks",
+      "Josh Lawson",
+      "Ludi Lin"
+    ],
+    "director": "Simon McQuoid",
+    "imdb_id": "tt0293429",
+    "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+    "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1327819,
     "title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "release_date": "2026-03-04",
-    "rating": 8.2,
+    "rating": 8.163,
     "genres": [
       "Adventure",
       "Animation",
@@ -765,7 +789,7 @@
     "title": "Damage",
     "overview": "The life of a respected British politician at the height of his career crumbles when he becomes obsessed with his son's lover.",
     "release_date": "1992-12-02",
-    "rating": 6.555,
+    "rating": 6.56,
     "genres": [
       "Drama",
       "Romance"
@@ -911,7 +935,7 @@
     "title": "Michael",
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "release_date": "2026-04-22",
-    "rating": 7.573,
+    "rating": 7.6,
     "genres": [
       "Music",
       "Drama"
@@ -931,11 +955,61 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 454639,
+    "title": "Masters of the Universe",
+    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "release_date": "2026-06-03",
+    "rating": 7.4,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Nicholas Galitzine",
+      "Idris Elba",
+      "Jared Leto",
+      "Camila Mendes",
+      "James Purefoy"
+    ],
+    "director": "Travis Knight",
+    "imdb_id": "tt0427340",
+    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 454639,
+    "title": "Masters of the Universe",
+    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "release_date": "2026-06-03",
+    "rating": 7.4,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Nicholas Galitzine",
+      "Idris Elba",
+      "Jared Leto",
+      "Camila Mendes",
+      "James Purefoy"
+    ],
+    "director": "Travis Knight",
+    "imdb_id": "tt0427340",
+    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 848116,
     "title": "Rocky Aur Rani Kii Prem Kahaani",
     "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
     "release_date": "2023-07-28",
-    "rating": 6.2,
+    "rating": 6.142,
     "genres": [
       "Comedy",
       "Drama",
@@ -1231,7 +1305,7 @@
     "title": "The Shawshank Redemption",
     "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
     "release_date": "1994-09-23",
-    "rating": 8.721,
+    "rating": 8.7,
     "genres": [
       "Drama",
       "Crime"
@@ -1273,30 +1347,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1122573,
-    "title": "In the Grey",
-    "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-    "release_date": "2026-05-13",
-    "rating": 6.586,
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "cast": [
-      "Henry Cavill",
-      "Jake Gyllenhaal",
-      "Eiza González",
-      "Carlos Bardem",
-      "Michael Vu"
-    ],
-    "director": "Guy Ritchie",
-    "imdb_id": "tt27681354",
-    "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-    "backdrop_path": "/bIy0555ukSqweSqG9MtRnoyisQI.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1431071,
     "title": "System",
     "overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the system and raising a question of what justice truly means to them.",
@@ -1314,7 +1364,7 @@
     ],
     "director": "Ashwiny Iyer Tiwari",
     "imdb_id": "tt36201830",
-    "poster_path": "/wznZGK0WTgbIJWuZVdWG3oPECL.jpg",
+    "poster_path": "/ddSTqsxOoXs77xnKpP7XBPqiero.jpg",
     "backdrop_path": "/7f9ZaTwyqQOJtNWUS7xZgWQOzSt.jpg",
     "facts": [],
     "link_confidence": "NONE"
@@ -1369,6 +1419,29 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1273221,
+    "title": "Scary Movie",
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "release_date": "2026-06-03",
+    "rating": 5.672,
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Marlon Wayans",
+      "Shawn Wayans",
+      "Anna Faris",
+      "Regina Hall",
+      "Damon Wayans Jr."
+    ],
+    "director": "Michael Tiddes",
+    "imdb_id": "tt32093575",
+    "poster_path": "/2OHkZEqQL4OjYXIqWopJu0BijTD.jpg",
+    "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1103473,
     "title": "KD – The Devil",
     "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
@@ -1391,81 +1464,6 @@
     "imdb_id": "tt15295368",
     "poster_path": "/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
     "backdrop_path": "/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 980431,
-    "title": "Avatar Aang: The Last Airbender",
-    "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
-    "release_date": "2026-10-09",
-    "rating": 0,
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "cast": [
-      "Eric Nam",
-      "Dave Bautista",
-      "Jessica Matten",
-      "Román Zaragoza",
-      "Steven Yeun"
-    ],
-    "director": "Lauren Montgomery",
-    "imdb_id": "tt18259538",
-    "poster_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
-    "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 454639,
-    "title": "Masters of the Universe",
-    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-    "release_date": "2026-06-03",
-    "rating": 7.639,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Nicholas Galitzine",
-      "Camila Mendes",
-      "Alison Brie",
-      "James Purefoy",
-      "Morena Baccarin"
-    ],
-    "director": "Travis Knight",
-    "imdb_id": "tt0427340",
-    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1316427,
-    "title": "7 Dogs",
-    "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-    "release_date": "2026-05-27",
-    "rating": 2,
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "cast": [
-      "Ahmed Ezz",
-      "Karim Abdel Aziz",
-      "Monica Bellucci",
-      "Tara Emad",
-      "Martin Lawrence"
-    ],
-    "director": "Adil El Arbi",
-    "imdb_id": "tt35512499",
-    "poster_path": "/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
-    "backdrop_path": "/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
     "facts": [],
     "link_confidence": "NONE"
   }
