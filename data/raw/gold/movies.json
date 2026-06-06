@@ -4,7 +4,7 @@
     "title": "Obsession",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "release_date": "2026-05-13",
-    "rating": 7.9,
+    "rating": 7.914,
     "genres": [
       "Horror"
     ],
@@ -19,30 +19,6 @@
     "imdb_id": "tt37287335",
     "poster_path": "/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
     "backdrop_path": "/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1304313,
-    "title": "Lee Cronin's The Mummy",
-    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
-    "release_date": "2026-04-15",
-    "rating": 8.053,
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "cast": [
-      "Jack Reynor",
-      "Laia Costa",
-      "May Calamawy",
-      "Natalie Grace",
-      "Shylo Molina"
-    ],
-    "director": "Lee Cronin",
-    "imdb_id": "tt32612507",
-    "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
-    "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -72,11 +48,35 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1304313,
+    "title": "Lee Cronin's The Mummy",
+    "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+    "release_date": "2026-04-15",
+    "rating": 8.052,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "cast": [
+      "Jack Reynor",
+      "Laia Costa",
+      "May Calamawy",
+      "Natalie Grace",
+      "Shylo Molina"
+    ],
+    "director": "Lee Cronin",
+    "imdb_id": "tt32612507",
+    "poster_path": "/1q308iixueCU4pFtSYugNOevtNx.jpg",
+    "backdrop_path": "/xugEpZk9YQ0DIz1aFvH5HGkqpZK.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1083381,
     "title": "Backrooms",
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "release_date": "2026-05-27",
-    "rating": 6.754,
+    "rating": 6.75,
     "genres": [
       "Horror",
       "Mystery",
@@ -101,7 +101,7 @@
     "title": "Tom Clancy's Jack Ryan: Ghost War",
     "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
     "release_date": "2026-05-20",
-    "rating": 7.104,
+    "rating": 7.085,
     "genres": [
       "Action",
       "Thriller"
@@ -125,7 +125,7 @@
     "title": "The Punisher: One Last Kill",
     "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
     "release_date": "2026-05-12",
-    "rating": 8.373,
+    "rating": 8.369,
     "genres": [
       "Action",
       "Drama",
@@ -170,38 +170,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1226863,
-    "title": "The Super Mario Galaxy Movie",
-    "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
-    "release_date": "2026-04-01",
-    "rating": 8.1,
-    "genres": [
-      "Family",
-      "Comedy",
-      "Adventure",
-      "Fantasy",
-      "Animation"
-    ],
-    "cast": [
-      "Chris Pratt",
-      "Anya Taylor-Joy",
-      "Charlie Day",
-      "Jack Black",
-      "Donald Glover"
-    ],
-    "director": "Michael Jelenic",
-    "imdb_id": "tt28650488",
-    "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
-    "backdrop_path": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1582770,
     "title": "Dhurandhar: The Revenge",
     "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
     "release_date": "2026-03-18",
-    "rating": 7.3,
+    "rating": 7.236,
     "genres": [
       "Action",
       "Crime",
@@ -218,30 +191,6 @@
     "imdb_id": "tt39139925",
     "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
     "backdrop_path": "/gRoZG3Z0zJxgElmTsVHOl2dNYXe.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1523145,
-    "title": "Your Heart Will Be Broken",
-    "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
-    "release_date": "2026-03-26",
-    "rating": 6.771,
-    "genres": [
-      "Romance",
-      "Drama"
-    ],
-    "cast": [
-      "Daniel Vegas",
-      "Veronika Zhuravleva",
-      "Ivan Trushin",
-      "Maksim Saprykin",
-      "Alya Mayer"
-    ],
-    "director": "Mikhail Vaynberg",
-    "imdb_id": "tt38190257",
-    "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
-    "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -270,11 +219,62 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1226863,
+    "title": "The Super Mario Galaxy Movie",
+    "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+    "release_date": "2026-04-01",
+    "rating": 8.126,
+    "genres": [
+      "Family",
+      "Comedy",
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ],
+    "cast": [
+      "Chris Pratt",
+      "Anya Taylor-Joy",
+      "Charlie Day",
+      "Jack Black",
+      "Donald Glover"
+    ],
+    "director": "Aaron Horvath",
+    "imdb_id": "tt28650488",
+    "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+    "backdrop_path": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1523145,
+    "title": "Your Heart Will Be Broken",
+    "overview": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+    "release_date": "2026-03-26",
+    "rating": 6.8,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "cast": [
+      "Daniel Vegas",
+      "Veronika Zhuravleva",
+      "Ivan Trushin",
+      "Maksim Saprykin",
+      "Alya Mayer"
+    ],
+    "director": "Mikhail Vaynberg",
+    "imdb_id": "tt38190257",
+    "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+    "backdrop_path": "/ksl01eojCFiGl5zO9kACiyiwpZs.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1007757,
     "title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "release_date": "2026-05-01",
-    "rating": 8.969,
+    "rating": 8.968,
     "genres": [
       "Adventure",
       "Animation",
@@ -296,11 +296,133 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1122573,
+    "title": "In the Grey",
+    "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+    "release_date": "2026-05-13",
+    "rating": 6.7,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Henry Cavill",
+      "Jake Gyllenhaal",
+      "Eiza González",
+      "Carlos Bardem",
+      "Michael Vu"
+    ],
+    "director": "Guy Ritchie",
+    "imdb_id": "tt27681354",
+    "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
+    "backdrop_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1057265,
+    "title": "Peddi",
+    "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+    "release_date": "2026-06-03",
+    "rating": 9.333,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "cast": [
+      "Ram Charan",
+      "Janhvi Kapoor",
+      "Shiva Rajkumar",
+      "Jagapati Babu",
+      "Divyendu Sharma"
+    ],
+    "director": "Buchi Babu Sana",
+    "imdb_id": "tt23865918",
+    "poster_path": "/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+    "backdrop_path": "/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1430077,
+    "title": "Hokum",
+    "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+    "release_date": "2026-04-29",
+    "rating": 6.934,
+    "genres": [
+      "Horror"
+    ],
+    "cast": [
+      "Adam Scott",
+      "Peter Coonan",
+      "David Wilmot",
+      "Florence Ordesh",
+      "Will O'Connell"
+    ],
+    "director": "Damian McCarthy",
+    "imdb_id": "tt35672862",
+    "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+    "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1228710,
+    "title": "The Mandalorian and Grogu",
+    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "release_date": "2026-05-20",
+    "rating": 6.82,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Pedro Pascal",
+      "Jeremy Allen White",
+      "Sigourney Weaver",
+      "Brendan Wayne",
+      "Lateef Crowder"
+    ],
+    "director": "Jon Favreau",
+    "imdb_id": "tt30825738",
+    "poster_path": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+    "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1419406,
+    "title": "The Shadow's Edge",
+    "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+    "release_date": "2025-08-16",
+    "rating": 7.6,
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Jackie Chan",
+      "Zhang Zifeng",
+      "Tony Leung Ka-fai",
+      "Ci Sha",
+      "Jun"
+    ],
+    "director": "Larry Yang",
+    "imdb_id": "tt34610311",
+    "poster_path": "/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
+    "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 603,
     "title": "The Matrix",
     "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
     "release_date": "1999-03-31",
-    "rating": 8.2,
+    "rating": 8.247,
     "genres": [
       "Action",
       "Science Fiction"
@@ -320,28 +442,50 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1419406,
-    "title": "The Shadow's Edge",
-    "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
-    "release_date": "2025-08-16",
-    "rating": 7.602,
+    "tmdb_id": 186745,
+    "title": "Rape of Love",
+    "overview": "Nicole, nurse in Grenoble, is raped one night by four men. Deeply scarred, emotionally and physically, she thinks she will never recover from the trauma. Following a friend's advice, she decides to file a lawsuit.",
+    "release_date": "1978-01-10",
+    "rating": 5.6,
     "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Thriller"
+      "Drama"
     ],
     "cast": [
-      "Jackie Chan",
-      "Zhang Zifeng",
-      "Tony Leung Ka-fai",
-      "Ci Sha",
-      "Jun"
+      "Nathalie Nell",
+      "Alain Fourès",
+      "Michèle Simonnet",
+      "Pierre Arditi",
+      "Daniel Auteuil"
     ],
-    "director": "Larry Yang",
-    "imdb_id": "tt34610311",
-    "poster_path": "/cHKo3m8N1fwvEy2ZEr0xGmmMODV.jpg",
-    "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+    "director": "Yannick Bellon",
+    "imdb_id": "tt0074141",
+    "poster_path": "/qVGL9xgGCzXtRwexUTmpz7z1MVg.jpg",
+    "backdrop_path": "/xGJT18qN8lzELAnHRyfoe1vLTiI.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1116201,
+    "title": "Iron Lung",
+    "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
+    "release_date": "2026-01-30",
+    "rating": 7.212,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Mark Fischbach",
+      "Caroline Kaplan",
+      "Troy Baker",
+      "Elsie Lovelock",
+      "Elle LaMont"
+    ],
+    "director": "Mark Fischbach",
+    "imdb_id": "tt27564844",
+    "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+    "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -370,50 +514,514 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1430077,
-    "title": "Hokum",
-    "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-    "release_date": "2026-04-29",
-    "rating": 6.979,
+    "tmdb_id": 1510339,
+    "title": "Mark",
+    "overview": "Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
+    "release_date": "2025-12-25",
+    "rating": 4,
     "genres": [
-      "Horror"
+      "Action",
+      "Thriller"
     ],
     "cast": [
-      "Adam Scott",
-      "Peter Coonan",
-      "David Wilmot",
-      "Florence Ordesh",
-      "Will O'Connell"
+      "Sudeepa",
+      "Deepshika Umapathy",
+      "Naveen Chandra",
+      "Shine Tom Chacko",
+      "Yogi Babu"
     ],
-    "director": "Damian McCarthy",
-    "imdb_id": "tt35672862",
-    "poster_path": "/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-    "backdrop_path": "/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+    "director": "Vijay Kartikeyaa",
+    "imdb_id": "tt28961625",
+    "poster_path": "/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
+    "backdrop_path": "/6DfHl4CE88x7Rt9oyARQQm6bHXD.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1116201,
-    "title": "Iron Lung",
-    "overview": "In a post-apocalyptic future where an event known as \"The Quiet Rapture\" caused all known stars and habitable planets in the universe to disappear, a convict is sent to search an ocean of blood discovered on a desolate moon, using a small submarine nicknamed the \"Iron Lung\".",
-    "release_date": "2026-01-30",
-    "rating": 7.213,
+    "tmdb_id": 976912,
+    "title": "Graphic Desires",
+    "overview": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
+    "release_date": "2023-08-31",
+    "rating": 6.869,
     "genres": [
-      "Horror",
-      "Mystery",
+      "Thriller",
+      "Crime"
+    ],
+    "cast": [
+      "David Wayman",
+      "Sian Altman",
+      "May Kelly",
+      "Ocean M Harris",
+      "Valis Volkova"
+    ],
+    "director": "Andy Edwards",
+    "imdb_id": "tt13452544",
+    "poster_path": "/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+    "backdrop_path": "/rHnANzYUmV3WZw3n0yWOLiR3pen.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "release_date": "2025-12-17",
+    "rating": 7.55,
+    "genres": [
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
+    ],
+    "cast": [
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Oona Chaplin"
+    ],
+    "director": "James Cameron",
+    "imdb_id": "tt1757678",
+    "poster_path": "/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
+    "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 44980,
+    "title": "Zero Woman 2",
+    "overview": "When a valuable suitcase is stolen, the mob, petty criminals, and a beautiful agent from the Elite Zero division are pulled into a battle to settle the score.",
+    "release_date": "1995-09-05",
+    "rating": 5,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Natsuki Ozawa",
+      "Saori Iwama",
+      "Kane Kosugi",
+      "Hiroyuki Watari",
+      "Tomomi Miyauchi"
+    ],
+    "director": "Daisuke Gotô",
+    "imdb_id": "tt0167508",
+    "poster_path": "/sQHeDjwmBQba8E51Mkp5dvgkzeZ.jpg",
+    "backdrop_path": "/vP7YFt9pP8NPCg4PMBAHO5ILdrQ.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1327819,
+    "title": "Hoppers",
+    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+    "release_date": "2026-03-04",
+    "rating": 8.164,
+    "genres": [
+      "Adventure",
+      "Animation",
+      "Comedy",
+      "Family",
       "Science Fiction"
     ],
     "cast": [
-      "Mark Fischbach",
-      "Caroline Kaplan",
-      "Troy Baker",
-      "Elsie Lovelock",
-      "Elle LaMont"
+      "Piper Curda",
+      "Bobby Moynihan",
+      "Jon Hamm",
+      "Kathy Najimy",
+      "Dave Franco"
     ],
-    "director": "Mark Fischbach",
-    "imdb_id": "tt27564844",
-    "poster_path": "/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-    "backdrop_path": "/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+    "director": "Daniel Chong",
+    "imdb_id": "tt26443616",
+    "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+    "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1367220,
+    "title": "Karuppu",
+    "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
+    "release_date": "2026-05-14",
+    "rating": 7.364,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "cast": [
+      "Suriya",
+      "Trisha Krishnan",
+      "RJ Balaji",
+      "Indrans",
+      "Anagha Maya Ravi"
+    ],
+    "director": "RJ Balaji",
+    "imdb_id": "tt33988385",
+    "poster_path": "/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+    "backdrop_path": "/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1241752,
+    "title": "Rita",
+    "overview": "Rita, who finds herself alone when husband Ariel works abroad. They both find solace and sexual satisfaction in other people. When Ariel comes back, they both act like nothing happened. But will this keep their marriage from falling apart?",
+    "release_date": "2024-03-22",
+    "rating": 6.2,
+    "genres": [
+      "Drama"
+    ],
+    "cast": [
+      "Christine Bermas",
+      "Gold Aceron",
+      "VR Relosa",
+      "Josh Ivan Morales",
+      "Sahil Khan"
+    ],
+    "director": "Jerry Lopez Sineneng",
+    "imdb_id": "tt31589922",
+    "poster_path": "/pXENxAzOBrTSDJGxDcUnlNTNmWr.jpg",
+    "backdrop_path": "/5AsIFZ2AJC7JcGpq40aRPuRuaRc.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 454639,
+    "title": "Masters of the Universe",
+    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "release_date": "2026-06-03",
+    "rating": 7.625,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Nicholas Galitzine",
+      "Jared Leto",
+      "Camila Mendes",
+      "Idris Elba",
+      "Alison Brie"
+    ],
+    "director": "Travis Knight",
+    "imdb_id": "tt0427340",
+    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 405818,
+    "title": "Door II: Tokyo Diary",
+    "overview": "Ai is a call girl that makes good money for what she does but there’s always at risk no matter how good the money is.",
+    "release_date": "1991-04-25",
+    "rating": 6.1,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "cast": [
+      "Chikako Aoyama",
+      "Joe Yamanaka",
+      "Shingo Kazami",
+      "Chiharu Iwamoto",
+      "Yukino Tobita"
+    ],
+    "director": "Banmei Takahashi",
+    "imdb_id": "tt0223151",
+    "poster_path": "/lskJ34j4VKwbMwcvFSQeNYEdt8g.jpg",
+    "backdrop_path": "/gQq1r3H0QgM9h72o2OpOV5kTOpG.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 249397,
+    "title": "Nymphomaniac: Vol. II",
+    "overview": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
+    "release_date": "2013-12-25",
+    "rating": 6.714,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "cast": [
+      "Charlotte Gainsbourg",
+      "Stellan Skarsgård",
+      "Stacy Martin",
+      "Shia LaBeouf",
+      "Willem Dafoe"
+    ],
+    "director": "Lars von Trier",
+    "imdb_id": "tt2382009",
+    "poster_path": "/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
+    "backdrop_path": "/5n417Ff5GXOGCOKj3ZLMRAxEP0o.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 11012,
+    "title": "Damage",
+    "overview": "The life of a respected British politician at the height of his career crumbles when he becomes obsessed with his son's lover.",
+    "release_date": "1992-12-02",
+    "rating": 6.561,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "cast": [
+      "Jeremy Irons",
+      "Juliette Binoche",
+      "Miranda Richardson",
+      "Rupert Graves",
+      "Peter Stormare"
+    ],
+    "director": "Louis Malle",
+    "imdb_id": "tt0104237",
+    "poster_path": "/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg",
+    "backdrop_path": "/krhj4Fhb0G3QCmyBtEADxgFFmRX.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 931285,
+    "title": "Mortal Kombat II",
+    "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+    "release_date": "2026-05-06",
+    "rating": 6.739,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "cast": [
+      "Karl Urban",
+      "Adeline Rudolph",
+      "Jessica McNamee",
+      "Josh Lawson",
+      "Martyn Ford"
+    ],
+    "director": "Simon McQuoid",
+    "imdb_id": "tt17490712",
+    "poster_path": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+    "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1273221,
+    "title": "Scary Movie",
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "release_date": "2026-06-03",
+    "rating": 5.911,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "cast": [
+      "Marlon Wayans",
+      "Shawn Wayans",
+      "Anna Faris",
+      "Regina Hall",
+      "Damon Wayans Jr."
+    ],
+    "director": "Michael Tiddes",
+    "imdb_id": "tt32093575",
+    "poster_path": "/bqOKJrZFR9KpqWE607dw6KOdKCj.jpg",
+    "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 350,
+    "title": "The Devil Wears Prada",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "release_date": "2006-06-29",
+    "rating": 7.428,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "cast": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Simon Baker"
+    ],
+    "director": "David Frankel",
+    "imdb_id": "tt0458352",
+    "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 460465,
+    "title": "Mortal Kombat",
+    "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
+    "release_date": "2021-04-07",
+    "rating": 7.038,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Adventure"
+    ],
+    "cast": [
+      "Lewis Tan",
+      "Jessica McNamee",
+      "Mehcad Brooks",
+      "Josh Lawson",
+      "Ludi Lin"
+    ],
+    "director": "Simon McQuoid",
+    "imdb_id": "tt0293429",
+    "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+    "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 28322,
+    "title": "Madness",
+    "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+    "release_date": "1980-03-20",
+    "rating": 4.969,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "cast": [
+      "Joe Dallesandro",
+      "Patrizia Behn",
+      "Gianni Macchia",
+      "Lorraine De Selle",
+      "Omero Capanna"
+    ],
+    "director": "Fernando Di Leo",
+    "imdb_id": "tt0080075",
+    "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+    "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1472951,
+    "title": "Infiltrate",
+    "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
+    "release_date": "2026-04-10",
+    "rating": 5.469,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "cast": [
+      "Orphée Ladouceur-Nguyen",
+      "Alain Moussi",
+      "Tim Rozon",
+      "Finn McCager Higgins",
+      "Lisa Berry"
+    ],
+    "director": "James Mark",
+    "imdb_id": "tt29218808",
+    "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
+    "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1320660,
+    "title": "Pati Patni Aur Woh Do",
+    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "release_date": "2026-05-15",
+    "rating": 7.5,
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Ayushmann Khurrana",
+      "Wamiqa Gabbi",
+      "Rakul Preet Singh",
+      "Sara Ali Khan",
+      "Vijay Raaz"
+    ],
+    "director": "Mudassar Aziz",
+    "imdb_id": "tt33054858",
+    "poster_path": "/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+    "backdrop_path": "/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1311031,
+    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+    "release_date": "2025-07-18",
+    "rating": 7.73,
+    "genres": [
+      "Animation",
+      "Action",
+      "Fantasy"
+    ],
+    "cast": [
+      "Natsuki Hanae",
+      "Takahiro Sakurai",
+      "Akira Ishida",
+      "Hiro Shimono",
+      "Yoshimasa Hosoya"
+    ],
+    "director": "Haruo Sotozaki",
+    "imdb_id": "tt32820897",
+    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1390300,
+    "title": "Over Your Dead Body",
+    "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+    "release_date": "2026-04-24",
+    "rating": 6.826,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "cast": [
+      "Samara Weaving",
+      "Jason Segel",
+      "Paul Guilfoyle",
+      "Timothy Olyphant",
+      "Keith Jardine"
+    ],
+    "director": "Jorma Taccone",
+    "imdb_id": "tt34685692",
+    "poster_path": "/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg",
+    "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 936075,
+    "title": "Michael",
+    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+    "release_date": "2026-04-22",
+    "rating": 7.6,
+    "genres": [
+      "Music",
+      "Drama"
+    ],
+    "cast": [
+      "Jaafar Jackson",
+      "Colman Domingo",
+      "Nia Long",
+      "Juliano Krue Valdi",
+      "Miles Teller"
+    ],
+    "director": "Antoine Fuqua",
+    "imdb_id": "tt11378946",
+    "poster_path": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
+    "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -444,586 +1052,28 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1510339,
-    "title": "Mark",
-    "overview": "Mark is suspended from his police duties for his unruly yet effective ways of operating, but when 18 children are abducted and found dead, races to catch the criminals. With only 18 hours left, he must confront powerful foes and use unconventional tactics to succeed.",
-    "release_date": "2025-12-25",
-    "rating": 4,
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "cast": [
-      "Sudeepa",
-      "Deepshika Umapathy",
-      "Naveen Chandra",
-      "Shine Tom Chacko",
-      "Yogi Babu"
-    ],
-    "director": "Vijay Kartikeyaa",
-    "imdb_id": "tt28961625",
-    "poster_path": "/6LTDv6XHiHN0N77QIFg2tidVvhh.jpg",
-    "backdrop_path": "/6DfHl4CE88x7Rt9oyARQQm6bHXD.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1122573,
-    "title": "In the Grey",
-    "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
-    "release_date": "2026-05-13",
-    "rating": 6.7,
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "cast": [
-      "Henry Cavill",
-      "Jake Gyllenhaal",
-      "Eiza González",
-      "Carlos Bardem",
-      "Michael Vu"
-    ],
-    "director": "Guy Ritchie",
-    "imdb_id": "tt27681354",
-    "poster_path": "/dQgIcW6Th08kMRf2HBoYWoFE6OD.jpg",
-    "backdrop_path": "/oBft4BZeoDQzTT9ZGijClr76qvK.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 186745,
-    "title": "Rape of Love",
-    "overview": "Nicole, nurse in Grenoble, is raped one night by four men. Deeply scarred, emotionally and physically, she thinks she will never recover from the trauma. Following a friend's advice, she decides to file a lawsuit.",
-    "release_date": "1978-01-10",
-    "rating": 5.6,
-    "genres": [
-      "Drama"
-    ],
-    "cast": [
-      "Nathalie Nell",
-      "Alain Fourès",
-      "Michèle Simonnet",
-      "Pierre Arditi",
-      "Daniel Auteuil"
-    ],
-    "director": "Yannick Bellon",
-    "imdb_id": "tt0074141",
-    "poster_path": "/qVGL9xgGCzXtRwexUTmpz7z1MVg.jpg",
-    "backdrop_path": "/xGJT18qN8lzELAnHRyfoe1vLTiI.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 976912,
-    "title": "Graphic Desires",
-    "overview": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
-    "release_date": "2023-08-31",
-    "rating": 6.855,
-    "genres": [
-      "Thriller",
-      "Crime"
-    ],
-    "cast": [
-      "David Wayman",
-      "Sian Altman",
-      "May Kelly",
-      "Ocean M Harris",
-      "Valis Volkova"
-    ],
-    "director": "Andy Edwards",
-    "imdb_id": "tt13452544",
-    "poster_path": "/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
-    "backdrop_path": "/rHnANzYUmV3WZw3n0yWOLiR3pen.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 44980,
-    "title": "Zero Woman 2",
-    "overview": "When a valuable suitcase is stolen, the mob, petty criminals, and a beautiful agent from the Elite Zero division are pulled into a battle to settle the score.",
-    "release_date": "1995-09-05",
+    "tmdb_id": 1103473,
+    "title": "KD – The Devil",
+    "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+    "release_date": "2026-04-30",
     "rating": 5,
     "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "cast": [
-      "Natsuki Ozawa",
-      "Saori Iwama",
-      "Kane Kosugi",
-      "Hiroyuki Watari",
-      "Tomomi Miyauchi"
-    ],
-    "director": "Daisuke Gotô",
-    "imdb_id": "tt0167508",
-    "poster_path": "/sQHeDjwmBQba8E51Mkp5dvgkzeZ.jpg",
-    "backdrop_path": "/vP7YFt9pP8NPCg4PMBAHO5ILdrQ.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 83533,
-    "title": "Avatar: Fire and Ash",
-    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-    "release_date": "2025-12-17",
-    "rating": 7.5,
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Fantasy"
-    ],
-    "cast": [
-      "Sam Worthington",
-      "Zoe Saldaña",
-      "Sigourney Weaver",
-      "Stephen Lang",
-      "Oona Chaplin"
-    ],
-    "director": "James Cameron",
-    "imdb_id": "tt1757678",
-    "poster_path": "/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg",
-    "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 405818,
-    "title": "Door II: Tokyo Diary",
-    "overview": "Ai is a call girl that makes good money for what she does but there’s always at risk no matter how good the money is.",
-    "release_date": "1991-04-25",
-    "rating": 6.1,
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "cast": [
-      "Chikako Aoyama",
-      "Joe Yamanaka",
-      "Shingo Kazami",
-      "Chiharu Iwamoto",
-      "Yukino Tobita"
-    ],
-    "director": "Banmei Takahashi",
-    "imdb_id": "tt0223151",
-    "poster_path": "/lskJ34j4VKwbMwcvFSQeNYEdt8g.jpg",
-    "backdrop_path": "/gQq1r3H0QgM9h72o2OpOV5kTOpG.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1228710,
-    "title": "The Mandalorian and Grogu",
-    "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-    "release_date": "2026-05-20",
-    "rating": 6.827,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Pedro Pascal",
-      "Jeremy Allen White",
-      "Sigourney Weaver",
-      "Brendan Wayne",
-      "Lateef Crowder"
-    ],
-    "director": "Jon Favreau",
-    "imdb_id": "tt30825738",
-    "poster_path": "/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-    "backdrop_path": "/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 931285,
-    "title": "Mortal Kombat II",
-    "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-    "release_date": "2026-05-06",
-    "rating": 6.738,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Adventure"
-    ],
-    "cast": [
-      "Karl Urban",
-      "Adeline Rudolph",
-      "Jessica McNamee",
-      "Josh Lawson",
-      "Martyn Ford"
-    ],
-    "director": "Simon McQuoid",
-    "imdb_id": "tt17490712",
-    "poster_path": "/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-    "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 249397,
-    "title": "Nymphomaniac: Vol. II",
-    "overview": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
-    "release_date": "2013-12-25",
-    "rating": 6.713,
-    "genres": [
-      "Drama",
-      "Mystery"
-    ],
-    "cast": [
-      "Charlotte Gainsbourg",
-      "Stellan Skarsgård",
-      "Stacy Martin",
-      "Shia LaBeouf",
-      "Willem Dafoe"
-    ],
-    "director": "Lars von Trier",
-    "imdb_id": "tt2382009",
-    "poster_path": "/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
-    "backdrop_path": "/5n417Ff5GXOGCOKj3ZLMRAxEP0o.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1367220,
-    "title": "Karuppu",
-    "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
-    "release_date": "2026-05-14",
-    "rating": 7.364,
-    "genres": [
+      "History",
+      "Crime",
       "Action",
       "Fantasy"
     ],
     "cast": [
-      "Suriya",
-      "Trisha Krishnan",
-      "RJ Balaji",
-      "Indrans",
-      "Anagha Maya Ravi"
+      "Dhruva Sarja",
+      "Shilpa Shetty Kundra",
+      "Sanjay Dutt",
+      "Reeshma Nanaiah",
+      "V. Ravichandran"
     ],
-    "director": "RJ Balaji",
-    "imdb_id": "tt33988385",
-    "poster_path": "/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
-    "backdrop_path": "/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 454639,
-    "title": "Masters of the Universe",
-    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-    "release_date": "2026-06-03",
-    "rating": 7.7,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Nicholas Galitzine",
-      "Jared Leto",
-      "Camila Mendes",
-      "Idris Elba",
-      "Alison Brie"
-    ],
-    "director": "Travis Knight",
-    "imdb_id": "tt0427340",
-    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1327819,
-    "title": "Hoppers",
-    "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-    "release_date": "2026-03-04",
-    "rating": 8.163,
-    "genres": [
-      "Adventure",
-      "Animation",
-      "Comedy",
-      "Family",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Piper Curda",
-      "Bobby Moynihan",
-      "Jon Hamm",
-      "Kathy Najimy",
-      "Dave Franco"
-    ],
-    "director": "Daniel Chong",
-    "imdb_id": "tt26443616",
-    "poster_path": "/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-    "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1320660,
-    "title": "Pati Patni Aur Woh Do",
-    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-    "release_date": "2026-05-15",
-    "rating": 7.5,
-    "genres": [
-      "Comedy"
-    ],
-    "cast": [
-      "Ayushmann Khurrana",
-      "Wamiqa Gabbi",
-      "Rakul Preet Singh",
-      "Sara Ali Khan",
-      "Vijay Raaz"
-    ],
-    "director": "Mudassar Aziz",
-    "imdb_id": "tt33054858",
-    "poster_path": "/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-    "backdrop_path": "/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 460465,
-    "title": "Mortal Kombat",
-    "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
-    "release_date": "2021-04-07",
-    "rating": 7.037,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Adventure"
-    ],
-    "cast": [
-      "Lewis Tan",
-      "Jessica McNamee",
-      "Mehcad Brooks",
-      "Josh Lawson",
-      "Ludi Lin"
-    ],
-    "director": "Simon McQuoid",
-    "imdb_id": "tt0293429",
-    "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
-    "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1241752,
-    "title": "Rita",
-    "overview": "Rita, who finds herself alone when husband Ariel works abroad. They both find solace and sexual satisfaction in other people. When Ariel comes back, they both act like nothing happened. But will this keep their marriage from falling apart?",
-    "release_date": "2024-03-22",
-    "rating": 6.2,
-    "genres": [
-      "Drama"
-    ],
-    "cast": [
-      "Christine Bermas",
-      "Gold Aceron",
-      "VR Relosa",
-      "Josh Ivan Morales",
-      "Sahil Khan"
-    ],
-    "director": "Jerry Lopez Sineneng",
-    "imdb_id": "tt31589922",
-    "poster_path": "/pXENxAzOBrTSDJGxDcUnlNTNmWr.jpg",
-    "backdrop_path": "/5AsIFZ2AJC7JcGpq40aRPuRuaRc.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 11012,
-    "title": "Damage",
-    "overview": "The life of a respected British politician at the height of his career crumbles when he becomes obsessed with his son's lover.",
-    "release_date": "1992-12-02",
-    "rating": 6.56,
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "cast": [
-      "Jeremy Irons",
-      "Juliette Binoche",
-      "Miranda Richardson",
-      "Rupert Graves",
-      "Peter Stormare"
-    ],
-    "director": "Louis Malle",
-    "imdb_id": "tt0104237",
-    "poster_path": "/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg",
-    "backdrop_path": "/krhj4Fhb0G3QCmyBtEADxgFFmRX.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 350,
-    "title": "The Devil Wears Prada",
-    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
-    "release_date": "2006-06-29",
-    "rating": 7.429,
-    "genres": [
-      "Drama",
-      "Comedy"
-    ],
-    "cast": [
-      "Meryl Streep",
-      "Anne Hathaway",
-      "Emily Blunt",
-      "Stanley Tucci",
-      "Simon Baker"
-    ],
-    "director": "David Frankel",
-    "imdb_id": "tt0458352",
-    "poster_path": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
-    "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1273221,
-    "title": "Scary Movie",
-    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-    "release_date": "2026-06-03",
-    "rating": 5.8,
-    "genres": [
-      "Comedy",
-      "Horror"
-    ],
-    "cast": [
-      "Marlon Wayans",
-      "Shawn Wayans",
-      "Anna Faris",
-      "Regina Hall",
-      "Damon Wayans Jr."
-    ],
-    "director": "Michael Tiddes",
-    "imdb_id": "tt32093575",
-    "poster_path": "/bqOKJrZFR9KpqWE607dw6KOdKCj.jpg",
-    "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1390300,
-    "title": "Over Your Dead Body",
-    "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-    "release_date": "2026-04-24",
-    "rating": 6.835,
-    "genres": [
-      "Action",
-      "Comedy",
-      "Thriller"
-    ],
-    "cast": [
-      "Samara Weaving",
-      "Jason Segel",
-      "Paul Guilfoyle",
-      "Timothy Olyphant",
-      "Keith Jardine"
-    ],
-    "director": "Jorma Taccone",
-    "imdb_id": "tt34685692",
-    "poster_path": "/6yPvopLmtoyxzJt6Cr0BRyFxtrd.jpg",
-    "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1472951,
-    "title": "Infiltrate",
-    "overview": "In a city overrun by crime, government Agent Lily Chen is forced to choose between her duty and her family when her husband is kidnapped, and she’s blackmailed into assassinating high-level criminals to save him. As she delves deeper into the criminal underworld, Lily’s relentless pursuit of justice unravels a web of corruption, leading to a final, life-altering decision that will change her world forever.",
-    "release_date": "2026-04-10",
-    "rating": 5.469,
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "cast": [
-      "Orphée Ladouceur-Nguyen",
-      "Alain Moussi",
-      "Tim Rozon",
-      "Finn McCager Higgins",
-      "Lisa Berry"
-    ],
-    "director": "James Mark",
-    "imdb_id": "tt29218808",
-    "poster_path": "/8Cw8GF9wG63kF8pRRXwOx2kXGt.jpg",
-    "backdrop_path": "/cfDHxkco8RrslL0Vk2XPTwTVFCe.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1311031,
-    "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-    "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-    "release_date": "2025-07-18",
-    "rating": 7.73,
-    "genres": [
-      "Animation",
-      "Action",
-      "Fantasy"
-    ],
-    "cast": [
-      "Natsuki Hanae",
-      "Takahiro Sakurai",
-      "Akira Ishida",
-      "Hiro Shimono",
-      "Yoshimasa Hosoya"
-    ],
-    "director": "Haruo Sotozaki",
-    "imdb_id": "tt32820897",
-    "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-    "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 936075,
-    "title": "Michael",
-    "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-    "release_date": "2026-04-22",
-    "rating": 7.585,
-    "genres": [
-      "Music",
-      "Drama"
-    ],
-    "cast": [
-      "Jaafar Jackson",
-      "Colman Domingo",
-      "Nia Long",
-      "Juliano Krue Valdi",
-      "Miles Teller"
-    ],
-    "director": "Antoine Fuqua",
-    "imdb_id": "tt11378946",
-    "poster_path": "/zm0KAbOjlt9eR5y7vDiL2dEOwMl.jpg",
-    "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1297842,
-    "title": "GOAT",
-    "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-    "release_date": "2026-02-11",
-    "rating": 8.111,
-    "genres": [
-      "Animation",
-      "Comedy",
-      "Family"
-    ],
-    "cast": [
-      "Caleb McLaughlin",
-      "Gabrielle Union",
-      "Stephen Curry",
-      "Aaron Pierre",
-      "Nicola Coughlan"
-    ],
-    "director": "Tyree Dillihay",
-    "imdb_id": "tt27613895",
-    "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-    "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+    "director": "Prem",
+    "imdb_id": "tt15295368",
+    "poster_path": "/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+    "backdrop_path": "/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1032,7 +1082,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.747,
+    "rating": 6.753,
     "genres": [
       "Action",
       "Thriller"
@@ -1052,51 +1102,27 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1239134,
-    "title": "Bhooth Bangla",
-    "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
-    "release_date": "2026-04-16",
-    "rating": 6.5,
+    "tmdb_id": 1297842,
+    "title": "GOAT",
+    "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+    "release_date": "2026-02-11",
+    "rating": 8.117,
     "genres": [
-      "Horror",
-      "Comedy"
+      "Animation",
+      "Comedy",
+      "Family"
     ],
     "cast": [
-      "Akshay Kumar",
-      "Wamiqa Gabbi",
-      "Paresh Rawal",
-      "Tabu",
-      "Jisshu Sengupta"
+      "Caleb McLaughlin",
+      "Gabrielle Union",
+      "Stephen Curry",
+      "Aaron Pierre",
+      "Nicola Coughlan"
     ],
-    "director": "Priyadarshan",
-    "imdb_id": "tt29540862",
-    "poster_path": "/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
-    "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1291608,
-    "title": "Dhurandhar",
-    "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
-    "release_date": "2025-12-05",
-    "rating": 7.186,
-    "genres": [
-      "Action",
-      "Crime",
-      "Thriller"
-    ],
-    "cast": [
-      "Ranveer Singh",
-      "Akshaye Khanna",
-      "R. Madhavan",
-      "Arjun Rampal",
-      "Sanjay Dutt"
-    ],
-    "director": "Aditya Dhar",
-    "imdb_id": "tt33014583",
-    "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
-    "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+    "director": "Tyree Dillihay",
+    "imdb_id": "tt27613895",
+    "poster_path": "/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+    "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1125,26 +1151,51 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1571594,
-    "title": "The Photographer",
-    "overview": "Inna, a young post-mortem photographer, arrives at a remote orphanage in northern Spain to capture the final image of Alejandra, a girl found dead under mysterious circumstances. But as her lens lingers on the tragedy, Inna begins to sense a dark presence within the orphanage's walls-an evil that refuses to remain hidden and threatens to make her its next subject.",
-    "release_date": "2025-10-30",
-    "rating": 7,
+    "tmdb_id": 1291608,
+    "title": "Dhurandhar",
+    "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
+    "release_date": "2025-12-05",
+    "rating": 7.2,
     "genres": [
-      "Horror",
+      "Action",
+      "Crime",
       "Thriller"
     ],
     "cast": [
-      "Daniela Casas",
-      "Noah Casas",
-      "Samantha Jaramillo",
-      "Leyre Azpiri",
-      "Chema Coloma"
+      "Ranveer Singh",
+      "Akshaye Khanna",
+      "R. Madhavan",
+      "Arjun Rampal",
+      "Sanjay Dutt"
     ],
-    "director": "Carlos Marbán",
-    "imdb_id": "tt34437490",
-    "poster_path": "/95pZ9yB5SABddzaINITvZd7SvER.jpg",
-    "backdrop_path": "/9qYPmrdpGT58hd3wSam82pmPIoW.jpg",
+    "director": "Aditya Dhar",
+    "imdb_id": "tt33014583",
+    "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+    "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1239134,
+    "title": "Bhooth Bangla",
+    "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+    "release_date": "2026-04-16",
+    "rating": 6.5,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "cast": [
+      "Akshay Kumar",
+      "Wamiqa Gabbi",
+      "Paresh Rawal",
+      "Tabu",
+      "Jisshu Sengupta"
+    ],
+    "director": "Priyadarshan",
+    "imdb_id": "tt29540862",
+    "poster_path": "/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+    "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1153,7 +1204,7 @@
     "title": "Zootopia 2",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
     "release_date": "2025-11-26",
-    "rating": 7.7,
+    "rating": 7.651,
     "genres": [
       "Adventure",
       "Animation",
@@ -1176,51 +1227,26 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1292415,
-    "title": "Beast",
-    "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
-    "release_date": "2026-04-10",
-    "rating": 6.223,
+    "tmdb_id": 1571594,
+    "title": "The Photographer",
+    "overview": "Inna, a young post-mortem photographer, arrives at a remote orphanage in northern Spain to capture the final image of Alejandra, a girl found dead under mysterious circumstances. But as her lens lingers on the tragedy, Inna begins to sense a dark presence within the orphanage's walls-an evil that refuses to remain hidden and threatens to make her its next subject.",
+    "release_date": "2025-10-30",
+    "rating": 7,
     "genres": [
-      "Action",
-      "Drama"
+      "Horror",
+      "Thriller"
     ],
     "cast": [
-      "Daniel MacPherson",
-      "Luke Hemsworth",
-      "Russell Crowe",
-      "Mojean Aria",
-      "Kelly Gale"
+      "Daniela Casas",
+      "Noah Casas",
+      "Samantha Jaramillo",
+      "Leyre Azpiri",
+      "Chema Coloma"
     ],
-    "director": "Tyler Atkins",
-    "imdb_id": "tt7708226",
-    "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
-    "backdrop_path": "/hlZGaey4lR9hc4rGxZRAmIEsZOc.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 28322,
-    "title": "Madness",
-    "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
-    "release_date": "1980-03-20",
-    "rating": 4.969,
-    "genres": [
-      "Thriller",
-      "Action",
-      "Crime"
-    ],
-    "cast": [
-      "Joe Dallesandro",
-      "Patrizia Behn",
-      "Gianni Macchia",
-      "Lorraine De Selle",
-      "Omero Capanna"
-    ],
-    "director": "Fernando Di Leo",
-    "imdb_id": "tt0080075",
-    "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
-    "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+    "director": "Carlos Marbán",
+    "imdb_id": "tt34437490",
+    "poster_path": "/95pZ9yB5SABddzaINITvZd7SvER.jpg",
+    "backdrop_path": "/9qYPmrdpGT58hd3wSam82pmPIoW.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1250,28 +1276,26 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1103473,
-    "title": "KD – The Devil",
-    "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
-    "release_date": "2026-04-30",
-    "rating": 5,
+    "tmdb_id": 1699574,
+    "title": "Deool Band 2",
+    "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
+    "release_date": "2026-05-21",
+    "rating": 0,
     "genres": [
-      "History",
-      "Crime",
-      "Action",
-      "Fantasy"
+      "Comedy",
+      "Drama"
     ],
     "cast": [
-      "Dhruva Sarja",
-      "Shilpa Shetty Kundra",
-      "Sanjay Dutt",
-      "Reeshma Nanaiah",
-      "V. Ravichandran"
+      "Mohan Joshi",
+      "Snehal Tarde",
+      "Mahesh Manjrekar",
+      "Pravin Tarde",
+      "Prasad Oak"
     ],
-    "director": "Prem",
-    "imdb_id": "tt15295368",
-    "poster_path": "/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
-    "backdrop_path": "/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
+    "director": "Pravin Tarde",
+    "imdb_id": "tt41389703",
+    "poster_path": "/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
+    "backdrop_path": null,
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1300,76 +1324,51 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1699574,
-    "title": "Deool Band 2",
-    "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
-    "release_date": "2026-05-21",
-    "rating": 0,
+    "tmdb_id": 1292415,
+    "title": "Beast",
+    "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
+    "release_date": "2026-04-10",
+    "rating": 6.219,
     "genres": [
-      "Comedy",
+      "Action",
       "Drama"
     ],
     "cast": [
-      "Mohan Joshi",
-      "Snehal Tarde",
-      "Mahesh Manjrekar",
-      "Pravin Tarde",
-      "Prasad Oak"
+      "Daniel MacPherson",
+      "Luke Hemsworth",
+      "Russell Crowe",
+      "Mojean Aria",
+      "Kelly Gale"
     ],
-    "director": "Pravin Tarde",
-    "imdb_id": "tt41389703",
-    "poster_path": "/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
-    "backdrop_path": null,
+    "director": "Tyler Atkins",
+    "imdb_id": "tt7708226",
+    "poster_path": "/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+    "backdrop_path": "/hlZGaey4lR9hc4rGxZRAmIEsZOc.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 848116,
-    "title": "Rocky Aur Rani Kii Prem Kahaani",
-    "overview": "Gym-freak brat Rocky falls in love with Rani, who comes from a well-educated Bengali family. Being from polar opposite worlds, the two decide to switch their families to adjust to each other's cultures and backgrounds and to know if their marriage will survive. Rocky and Rani are trapped in a world where they are united by love but divided by families and the ultimate question is will they fit in?",
-    "release_date": "2023-07-28",
-    "rating": 6.142,
+    "tmdb_id": 157336,
+    "title": "Interstellar",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "release_date": "2014-11-05",
+    "rating": 8.476,
     "genres": [
-      "Comedy",
+      "Adventure",
       "Drama",
-      "Family",
-      "Romance"
+      "Science Fiction"
     ],
     "cast": [
-      "Alia Bhatt",
-      "Ranveer Singh",
-      "Jaya Bachchan",
-      "Shabana Azmi",
-      "Dharmendra"
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Michael Caine",
+      "Jessica Chastain",
+      "Casey Affleck"
     ],
-    "director": "Karan Johar",
-    "imdb_id": "tt14993250",
-    "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
-    "backdrop_path": "/61RYedFgX1K07xgVIvdJzukSR4g.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1252051,
-    "title": "Disforia",
-    "overview": "Set in the near future against the backdrop of widespread looting and societal collapse, the couple formed by Esther and Tomás and their daughter Say move to their summer house so they can promptly sell it and then flee from their country to France, drawing attention from a ring of voyeurs of real-life torture streamed on the dark web.",
-    "release_date": "2025-09-20",
-    "rating": 4.833,
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "cast": [
-      "Claudia Salas",
-      "Fariba Sheikhan",
-      "Eloy Azorín",
-      "Noah Casas",
-      "Ferran Vilajosana"
-    ],
-    "director": "Christopher Cartagena",
-    "imdb_id": "tt32601650",
-    "poster_path": "/49pzxbf1Eftz7wQZdVDVl8OM9bg.jpg",
-    "backdrop_path": "/gYumbUCWyUI6Mutgd7oILOCunk8.jpg",
+    "director": "Christopher Nolan",
+    "imdb_id": "tt0816692",
+    "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1400,27 +1399,26 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 157336,
-    "title": "Interstellar",
-    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-    "release_date": "2014-11-05",
-    "rating": 8.476,
+    "tmdb_id": 278,
+    "title": "The Shawshank Redemption",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "release_date": "1994-09-23",
+    "rating": 8.722,
     "genres": [
-      "Adventure",
       "Drama",
-      "Science Fiction"
+      "Crime"
     ],
     "cast": [
-      "Matthew McConaughey",
-      "Anne Hathaway",
-      "Michael Caine",
-      "Jessica Chastain",
-      "Casey Affleck"
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown"
     ],
-    "director": "Christopher Nolan",
-    "imdb_id": "tt0816692",
-    "poster_path": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-    "backdrop_path": "/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+    "director": "Frank Darabont",
+    "imdb_id": "tt0111161",
+    "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1450,26 +1448,26 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 278,
-    "title": "The Shawshank Redemption",
-    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
-    "release_date": "1994-09-23",
-    "rating": 8.722,
+    "tmdb_id": 1252051,
+    "title": "Disforia",
+    "overview": "Set in the near future against the backdrop of widespread looting and societal collapse, the couple formed by Esther and Tomás and their daughter Say move to their summer house so they can promptly sell it and then flee from their country to France, drawing attention from a ring of voyeurs of real-life torture streamed on the dark web.",
+    "release_date": "2025-09-20",
+    "rating": 4.833,
     "genres": [
-      "Drama",
-      "Crime"
+      "Horror",
+      "Thriller"
     ],
     "cast": [
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton",
-      "William Sadler",
-      "Clancy Brown"
+      "Claudia Salas",
+      "Fariba Sheikhan",
+      "Eloy Azorín",
+      "Noah Casas",
+      "Ferran Vilajosana"
     ],
-    "director": "Frank Darabont",
-    "imdb_id": "tt0111161",
-    "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
-    "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "director": "Christopher Cartagena",
+    "imdb_id": "tt32601650",
+    "poster_path": "/49pzxbf1Eftz7wQZdVDVl8OM9bg.jpg",
+    "backdrop_path": "/gYumbUCWyUI6Mutgd7oILOCunk8.jpg",
     "facts": [],
     "link_confidence": "NONE"
   }
