@@ -6,7 +6,8 @@
     "release_date": "2026-05-13",
     "rating": 7.9,
     "genres": [
-      "Horror"
+      "Horror",
+      "Thriller"
     ],
     "cast": [
       "Michael Johnston",
@@ -17,7 +18,7 @@
     ],
     "director": "Curry Barker",
     "imdb_id": "tt37287335",
-    "poster_path": "/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+    "poster_path": "/cUnADM9fsYV69Fk0TkMp7xVLnKj.jpg",
     "backdrop_path": "/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
     "facts": [],
     "link_confidence": "NONE"
@@ -52,7 +53,7 @@
     "title": "Lee Cronin's The Mummy",
     "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
     "release_date": "2026-04-15",
-    "rating": 8,
+    "rating": 8.062,
     "genres": [
       "Horror",
       "Mystery"
@@ -76,7 +77,7 @@
     "title": "Peddi",
     "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "release_date": "2026-06-03",
-    "rating": 6.333,
+    "rating": 5.063,
     "genres": [
       "Action",
       "Drama"
@@ -100,7 +101,7 @@
     "title": "Backrooms",
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "release_date": "2026-05-27",
-    "rating": 6.8,
+    "rating": 6.821,
     "genres": [
       "Horror",
       "Mystery",
@@ -149,7 +150,7 @@
     "title": "Tom Clancy's Jack Ryan: Ghost War",
     "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
     "release_date": "2026-05-20",
-    "rating": 7.086,
+    "rating": 7.088,
     "genres": [
       "Action",
       "Thriller"
@@ -173,7 +174,7 @@
     "title": "The Punisher: One Last Kill",
     "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
     "release_date": "2026-05-12",
-    "rating": 8.358,
+    "rating": 8.366,
     "genres": [
       "Action",
       "Drama",
@@ -198,7 +199,7 @@
     "title": "The Mandalorian and Grogu",
     "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
     "release_date": "2026-05-20",
-    "rating": 6.818,
+    "rating": 6.8,
     "genres": [
       "Action",
       "Adventure",
@@ -272,7 +273,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 8.131,
+    "rating": 8.138,
     "genres": [
       "Family",
       "Comedy",
@@ -291,6 +292,31 @@
     "imdb_id": "tt28650488",
     "poster_path": "/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
     "backdrop_path": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 454639,
+    "title": "Masters of the Universe",
+    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+    "release_date": "2026-06-03",
+    "rating": 7.467,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Science Fiction"
+    ],
+    "cast": [
+      "Nicholas Galitzine",
+      "Camila Mendes",
+      "Idris Elba",
+      "Jared Leto",
+      "Alison Brie"
+    ],
+    "director": "Travis Knight",
+    "imdb_id": "tt0427340",
+    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -323,7 +349,7 @@
     "title": "In the Grey",
     "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
     "release_date": "2026-05-13",
-    "rating": 6.6,
+    "rating": 6.584,
     "genres": [
       "Action",
       "Thriller"
@@ -347,7 +373,7 @@
     "title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "release_date": "2026-05-01",
-    "rating": 8.973,
+    "rating": 8.978,
     "genres": [
       "Adventure",
       "Animation",
@@ -396,7 +422,7 @@
     "title": "Hokum",
     "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
     "release_date": "2026-04-29",
-    "rating": 6.959,
+    "rating": 6.9,
     "genres": [
       "Horror"
     ],
@@ -415,36 +441,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 454639,
-    "title": "Masters of the Universe",
-    "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-    "release_date": "2026-06-03",
-    "rating": 7.506,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Science Fiction"
-    ],
-    "cast": [
-      "Nicholas Galitzine",
-      "Jared Leto",
-      "Camila Mendes",
-      "Idris Elba",
-      "Alison Brie"
-    ],
-    "director": "Travis Knight",
-    "imdb_id": "tt0427340",
-    "poster_path": "/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-    "backdrop_path": "/eQySd26OW7UmCuaeBOL7qy6foMn.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1419406,
     "title": "The Shadow's Edge",
     "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
     "release_date": "2025-08-16",
-    "rating": 7.648,
+    "rating": 7.654,
     "genres": [
       "Action",
       "Crime",
@@ -491,13 +492,39 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 28322,
+    "title": "Madness",
+    "overview": "An escaped convicted murderer invades the cottage of a man, his wife and the wife's sister, whereupon he proceeds to torment this already dysfunctional trio with rape and violence.",
+    "release_date": "1980-03-20",
+    "rating": 4.969,
+    "genres": [
+      "Thriller",
+      "Action",
+      "Crime"
+    ],
+    "cast": [
+      "Joe Dallesandro",
+      "Patrizia Behn",
+      "Gianni Macchia",
+      "Lorraine De Selle",
+      "Omero Capanna"
+    ],
+    "director": "Fernando Di Leo",
+    "imdb_id": "tt0080075",
+    "poster_path": "/gV0J0Fqw2mYMtQbzb0ruxv9MAeZ.jpg",
+    "backdrop_path": "/7TJjD2X9GTEqyLVIJKLS85J2V47.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1273221,
     "title": "Scary Movie",
     "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
     "release_date": "2026-06-03",
-    "rating": 5.797,
+    "rating": 5.808,
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Horror"
     ],
     "cast": [
       "Marlon Wayans",
@@ -591,7 +618,7 @@
     "title": "Avatar: Fire and Ash",
     "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
     "release_date": "2025-12-17",
-    "rating": 7.554,
+    "rating": 7.6,
     "genres": [
       "Science Fiction",
       "Adventure",
@@ -689,7 +716,7 @@
     "title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "release_date": "2026-03-04",
-    "rating": 8.163,
+    "rating": 8.171,
     "genres": [
       "Adventure",
       "Animation",
@@ -787,7 +814,7 @@
     "title": "Damage",
     "overview": "The life of a respected British politician at the height of his career crumbles when he becomes obsessed with his son's lover.",
     "release_date": "1992-12-02",
-    "rating": 6.561,
+    "rating": 6.566,
     "genres": [
       "Drama",
       "Romance"
@@ -933,7 +960,7 @@
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
     "release_date": "2025-07-18",
-    "rating": 7.733,
+    "rating": 7.7,
     "genres": [
       "Animation",
       "Action",
@@ -954,36 +981,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 460465,
-    "title": "Mortal Kombat",
-    "overview": "Washed-up MMA fighter Cole Young, unaware of his heritage, and hunted by Emperor Shang Tsung's best warrior, Sub-Zero, seeks out and trains with Earth's greatest champions as he prepares to stand against the enemies of Outworld in a high stakes battle for the universe.",
-    "release_date": "2021-04-07",
-    "rating": 7,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Adventure"
-    ],
-    "cast": [
-      "Lewis Tan",
-      "Jessica McNamee",
-      "Mehcad Brooks",
-      "Josh Lawson",
-      "Ludi Lin"
-    ],
-    "director": "Simon McQuoid",
-    "imdb_id": "tt0293429",
-    "poster_path": "/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
-    "backdrop_path": "/6ELCZlTA5lGUops70hKdB83WJxH.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 350,
     "title": "The Devil Wears Prada",
     "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
     "release_date": "2006-06-29",
-    "rating": 7.429,
+    "rating": 7.43,
     "genres": [
       "Drama",
       "Comedy"
@@ -1007,7 +1009,7 @@
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.768,
+    "rating": 6.779,
     "genres": [
       "Action",
       "Thriller"
@@ -1046,7 +1048,7 @@
     ],
     "director": "Suresh Triveni",
     "imdb_id": "tt33538438",
-    "poster_path": "/rfooTavEjaWh6krAcPpHp1CPj7E.jpg",
+    "poster_path": "/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
     "backdrop_path": "/3QEwa9vZFC8PyZgFOKYPZx55nv8.jpg",
     "facts": [],
     "link_confidence": "NONE"
@@ -1056,7 +1058,7 @@
     "title": "Mortal Kombat II",
     "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
     "release_date": "2026-05-06",
-    "rating": 6.7,
+    "rating": 6.739,
     "genres": [
       "Action",
       "Fantasy",
@@ -1099,31 +1101,6 @@
     "imdb_id": "tt0405250",
     "poster_path": "/lEvNC9J2UzWc3PkptXMGcGVxSNq.jpg",
     "backdrop_path": "/g8jcF5MhO5o5W7XYli4Zuc7LGGW.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1390300,
-    "title": "Over Your Dead Body",
-    "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
-    "release_date": "2026-04-24",
-    "rating": 6.838,
-    "genres": [
-      "Action",
-      "Comedy",
-      "Thriller"
-    ],
-    "cast": [
-      "Samara Weaving",
-      "Jason Segel",
-      "Paul Guilfoyle",
-      "Timothy Olyphant",
-      "Keith Jardine"
-    ],
-    "director": "Jorma Taccone",
-    "imdb_id": "tt34685692",
-    "poster_path": "/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
-    "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1251,7 +1228,7 @@
     "title": "Dhurandhar",
     "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
     "release_date": "2025-12-05",
-    "rating": 7.191,
+    "rating": 7.2,
     "genres": [
       "Action",
       "Crime",
@@ -1266,8 +1243,33 @@
     ],
     "director": "Aditya Dhar",
     "imdb_id": "tt33014583",
-    "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+    "poster_path": "/aWpNev9nNZcqheAkNVTivo8sF1T.jpg",
     "backdrop_path": "/4DfxcN4w0FuYZHQ3JAHzpHWia1U.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1390300,
+    "title": "Over Your Dead Body",
+    "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
+    "release_date": "2026-04-24",
+    "rating": 6.838,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "cast": [
+      "Samara Weaving",
+      "Jason Segel",
+      "Paul Guilfoyle",
+      "Timothy Olyphant",
+      "Keith Jardine"
+    ],
+    "director": "Jorma Taccone",
+    "imdb_id": "tt34685692",
+    "poster_path": "/kZCauMzAt9eMAhLMopCqnFw1Q5k.jpg",
+    "backdrop_path": "/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1376,7 +1378,7 @@
     "title": "The Shawshank Redemption",
     "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
     "release_date": "1994-09-23",
-    "rating": 8.7,
+    "rating": 8.722,
     "genres": [
       "Drama",
       "Crime"
@@ -1400,7 +1402,7 @@
     "title": "Beast",
     "overview": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in one championship against the brutal champion Xavier Grau.",
     "release_date": "2026-04-10",
-    "rating": 6.296,
+    "rating": 6.3,
     "genres": [
       "Action",
       "Drama"
