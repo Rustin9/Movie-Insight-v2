@@ -1,6 +1,6 @@
 {
-  "run_at": "2026-06-13T04:15:04.651Z",
-  "elapsed_seconds": 3.8,
+  "run_at": "2026-06-13T14:10:11.740Z",
+  "elapsed_seconds": 2.6,
   "movie_count": 60,
   "pages_fetched": 3,
   "source": "TMDB /movie/popular"
