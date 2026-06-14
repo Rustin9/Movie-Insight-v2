@@ -4,7 +4,7 @@
     "title": "Obsession",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
     "release_date": "2026-05-13",
-    "rating": 7.886,
+    "rating": 7.898,
     "genres": [
       "Horror",
       "Thriller"
@@ -28,7 +28,7 @@
     "title": "Peddi",
     "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "release_date": "2026-06-03",
-    "rating": 6.757,
+    "rating": 6.833,
     "genres": [
       "Action",
       "Drama"
@@ -98,7 +98,7 @@
     "title": "Michael",
     "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
     "release_date": "2026-04-22",
-    "rating": 8.556,
+    "rating": 8.575,
     "genres": [
       "Music",
       "Drama"
@@ -122,7 +122,7 @@
     "title": "Mortal Kombat II",
     "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
     "release_date": "2026-05-06",
-    "rating": 8.002,
+    "rating": 8.001,
     "genres": [
       "Action",
       "Fantasy",
@@ -147,7 +147,7 @@
     "title": "Karuppu",
     "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
     "release_date": "2026-05-14",
-    "rating": 7.429,
+    "rating": 7.267,
     "genres": [
       "Action",
       "Fantasy"
@@ -196,7 +196,7 @@
     "title": "The Super Mario Galaxy Movie",
     "overview": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
     "release_date": "2026-04-01",
-    "rating": 8.165,
+    "rating": 8.169,
     "genres": [
       "Family",
       "Comedy",
@@ -233,8 +233,8 @@
       "Emily Blunt",
       "Josh O'Connor",
       "Colin Firth",
-      "Eve Hewson",
-      "Colman Domingo"
+      "Colman Domingo",
+      "Eve Hewson"
     ],
     "director": "Steven Spielberg",
     "imdb_id": "tt15047880",
@@ -248,7 +248,7 @@
     "title": "Masters of the Universe",
     "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
     "release_date": "2026-06-03",
-    "rating": 7.384,
+    "rating": 7.358,
     "genres": [
       "Action",
       "Fantasy",
@@ -273,7 +273,7 @@
     "title": "Lee Cronin's The Mummy",
     "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
     "release_date": "2026-04-15",
-    "rating": 8.057,
+    "rating": 8.047,
     "genres": [
       "Horror",
       "Mystery"
@@ -343,30 +343,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1358005,
-    "title": "Office Romance",
-    "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
-    "release_date": "2026-06-04",
-    "rating": 6.523,
-    "genres": [
-      "Romance",
-      "Comedy"
-    ],
-    "cast": [
-      "Jennifer Lopez",
-      "Brett Goldstein",
-      "Betty Gilpin",
-      "Edward James Olmos",
-      "Bradley Whitford"
-    ],
-    "director": "Ol Parker",
-    "imdb_id": "tt33397980",
-    "poster_path": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
-    "backdrop_path": "/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1293550,
     "title": "Bandar",
     "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
@@ -394,7 +370,7 @@
     "title": "In the Grey",
     "overview": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
     "release_date": "2026-05-13",
-    "rating": 6.654,
+    "rating": 6.651,
     "genres": [
       "Action",
       "Thriller"
@@ -414,27 +390,26 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1628448,
-    "title": "Maa Behen",
-    "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
+    "tmdb_id": 1358005,
+    "title": "Office Romance",
+    "overview": "Jackie, President and CEO of Air Cruz, runs a tight ship in her business, including a rigid anti-fraternization policy for all her employees. When a new sexy lawyer begins working for her, that policy becomes very tested.",
     "release_date": "2026-06-04",
-    "rating": 7.25,
+    "rating": 6.512,
     "genres": [
-      "Comedy",
-      "Thriller",
-      "Drama"
+      "Romance",
+      "Comedy"
     ],
     "cast": [
-      "Madhuri Dixit",
-      "Triptii Dimri",
-      "Dharna Durga",
-      "Ravi Kishan",
-      "Jatin Sarna"
+      "Jennifer Lopez",
+      "Brett Goldstein",
+      "Betty Gilpin",
+      "Edward James Olmos",
+      "Bradley Whitford"
     ],
-    "director": "Suresh Triveni",
-    "imdb_id": "tt33538438",
-    "poster_path": "/rfooTavEjaWh6krAcPpHp1CPj7E.jpg",
-    "backdrop_path": "/aV5YOTVTnO2wYcN2AlNbdgnBYpb.jpg",
+    "director": "Ol Parker",
+    "imdb_id": "tt33397980",
+    "poster_path": "/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg",
+    "backdrop_path": "/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -443,7 +418,7 @@
     "title": "The Punisher: One Last Kill",
     "overview": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
     "release_date": "2026-05-12",
-    "rating": 8.4,
+    "rating": 8.361,
     "genres": [
       "Action",
       "Drama",
@@ -468,7 +443,7 @@
     "title": "Swapped",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
     "release_date": "2026-05-01",
-    "rating": 8.961,
+    "rating": 8.965,
     "genres": [
       "Adventure",
       "Animation",
@@ -494,7 +469,7 @@
     "title": "Project Hail Mary",
     "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
     "release_date": "2026-03-15",
-    "rating": 8.673,
+    "rating": 8.676,
     "genres": [
       "Science Fiction",
       "Adventure"
@@ -510,6 +485,31 @@
     "imdb_id": "tt12042730",
     "poster_path": "/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
     "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1628448,
+    "title": "Maa Behen",
+    "overview": "In this dark comedy, a woman calls her estranged daughters in the middle of the night with chilling news — there's a dead body in her kitchen.",
+    "release_date": "2026-06-04",
+    "rating": 7.2,
+    "genres": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ],
+    "cast": [
+      "Madhuri Dixit",
+      "Triptii Dimri",
+      "Dharna Durga",
+      "Ravi Kishan",
+      "Jatin Sarna"
+    ],
+    "director": "Suresh Triveni",
+    "imdb_id": "tt33538438",
+    "poster_path": "/dpQIeEunpgj0C4rngb6OFb4zSd1.jpg",
+    "backdrop_path": "/aV5YOTVTnO2wYcN2AlNbdgnBYpb.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -568,7 +568,7 @@
     "title": "The Shadow's Edge",
     "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
     "release_date": "2025-08-16",
-    "rating": 7.752,
+    "rating": 7.764,
     "genres": [
       "Action",
       "Crime",
@@ -594,7 +594,7 @@
     "title": "Tom Clancy's Jack Ryan: Ghost War",
     "overview": "Jack Ryan is reluctantly pulled back into espionage when an international covert mission unravels a deadly conspiracy. Racing against time, he joins CIA allies Mike November & James Greer and sharp MI6 officer Emma Marlowe to battle a rogue black-ops unit in a high-stakes, deeply personal fight.",
     "release_date": "2026-05-20",
-    "rating": 7.08,
+    "rating": 7.088,
     "genres": [
       "Action",
       "Thriller"
@@ -663,11 +663,35 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1280738,
+    "title": "The Furious",
+    "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+    "release_date": "2026-06-10",
+    "rating": 7.8,
+    "genres": [
+      "Action",
+      "Crime"
+    ],
+    "cast": [
+      "Xie Miao",
+      "Joe Taslim",
+      "Yang Enyou",
+      "Yayan Ruhian",
+      "JeeJa Yanin"
+    ],
+    "director": "Kenji Tanigaki",
+    "imdb_id": "tt33311069",
+    "poster_path": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+    "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1083381,
     "title": "Backrooms",
     "overview": "A strange doorway appears in the basement of a furniture showroom.",
     "release_date": "2026-05-27",
-    "rating": 6.885,
+    "rating": 6.881,
     "genres": [
       "Horror",
       "Mystery",
@@ -715,7 +739,7 @@
     "title": "Graphic Desires",
     "overview": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
     "release_date": "2023-08-31",
-    "rating": 6.989,
+    "rating": 6.933,
     "genres": [
       "Thriller",
       "Crime"
@@ -735,11 +759,35 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1239134,
+    "title": "Bhooth Bangla",
+    "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+    "release_date": "2026-04-16",
+    "rating": 6,
+    "genres": [
+      "Horror",
+      "Comedy"
+    ],
+    "cast": [
+      "Akshay Kumar",
+      "Wamiqa Gabbi",
+      "Paresh Rawal",
+      "Tabu",
+      "Jisshu Sengupta"
+    ],
+    "director": "Priyadarshan",
+    "imdb_id": "tt29540862",
+    "poster_path": "/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+    "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1327819,
     "title": "Hoppers",
     "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
     "release_date": "2026-03-04",
-    "rating": 8.181,
+    "rating": 8.182,
     "genres": [
       "Adventure",
       "Animation",
@@ -762,36 +810,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 83533,
-    "title": "Avatar: Fire and Ash",
-    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-    "release_date": "2025-12-17",
-    "rating": 7.579,
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Fantasy"
-    ],
-    "cast": [
-      "Sam Worthington",
-      "Zoe Saldaña",
-      "Sigourney Weaver",
-      "Stephen Lang",
-      "Oona Chaplin"
-    ],
-    "director": "James Cameron",
-    "imdb_id": "tt1757678",
-    "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
-    "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1288341,
     "title": "Seven Snipers",
     "overview": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
     "release_date": "2026-04-30",
-    "rating": 5.85,
+    "rating": 5.8,
     "genres": [
       "Action",
       "Thriller"
@@ -807,30 +830,6 @@
     "imdb_id": "tt36926359",
     "poster_path": "/xIZ8huVdXCL7OMtsjd3XvmFP5sK.jpg",
     "backdrop_path": "/g2aOpyCO1vEyUZURh3V5uaHu187.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
-    "tmdb_id": 1280738,
-    "title": "The Furious",
-    "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-    "release_date": "2026-06-10",
-    "rating": 7.842,
-    "genres": [
-      "Action",
-      "Crime"
-    ],
-    "cast": [
-      "Xie Miao",
-      "Joe Taslim",
-      "Yang Enyou",
-      "Yayan Ruhian",
-      "JeeJa Yanin"
-    ],
-    "director": "Kenji Tanigaki",
-    "imdb_id": "tt33311069",
-    "poster_path": "/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-    "backdrop_path": "/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -859,26 +858,27 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1273221,
-    "title": "Scary Movie",
-    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
-    "release_date": "2026-06-03",
-    "rating": 5.627,
+    "tmdb_id": 83533,
+    "title": "Avatar: Fire and Ash",
+    "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+    "release_date": "2025-12-17",
+    "rating": 7.581,
     "genres": [
-      "Comedy",
-      "Horror"
+      "Science Fiction",
+      "Adventure",
+      "Fantasy"
     ],
     "cast": [
-      "Marlon Wayans",
-      "Shawn Wayans",
-      "Anna Faris",
-      "Regina Hall",
-      "Damon Wayans Jr."
+      "Sam Worthington",
+      "Zoe Saldaña",
+      "Sigourney Weaver",
+      "Stephen Lang",
+      "Oona Chaplin"
     ],
-    "director": "Michael Tiddes",
-    "imdb_id": "tt32093575",
-    "poster_path": "/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
-    "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+    "director": "James Cameron",
+    "imdb_id": "tt1757678",
+    "poster_path": "/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg",
+    "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -930,6 +930,30 @@
     "link_confidence": "NONE"
   },
   {
+    "tmdb_id": 1273221,
+    "title": "Scary Movie",
+    "overview": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+    "release_date": "2026-06-03",
+    "rating": 5.609,
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "cast": [
+      "Marlon Wayans",
+      "Shawn Wayans",
+      "Anna Faris",
+      "Regina Hall",
+      "Damon Wayans Jr."
+    ],
+    "director": "Michael Tiddes",
+    "imdb_id": "tt32093575",
+    "poster_path": "/reZ8NInXjMkkaOpUHcI3Pn7iaRN.jpg",
+    "backdrop_path": "/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
     "tmdb_id": 1694978,
     "title": "Chum",
     "overview": "A newlywed couple joins friends on a Mediterranean yacht excursion, only to find themselves caught between a predatory shark and a psychopathic killer in their midst-transforming a sun-drenched escape into a fight for survival.",
@@ -957,7 +981,7 @@
     "title": "Over Your Dead Body",
     "overview": "A dysfunctional couple head to a remote cabin to \"reconnect\", but each has secret intentions to kill the other.",
     "release_date": "2026-03-14",
-    "rating": 6.689,
+    "rating": 6.7,
     "genres": [
       "Action",
       "Comedy",
@@ -982,7 +1006,7 @@
     "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
     "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
     "release_date": "2025-07-18",
-    "rating": 7.735,
+    "rating": 7.726,
     "genres": [
       "Animation",
       "Action",
@@ -999,6 +1023,31 @@
     "imdb_id": "tt32820897",
     "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
     "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "facts": [],
+    "link_confidence": "NONE"
+  },
+  {
+    "tmdb_id": 1560681,
+    "title": "Colors of Evil: Black",
+    "overview": "Investigating the disappearance of children in a remote Polish town, prosecutor Leopold Bilski must unravel a sinister local legend before it's too late.",
+    "release_date": "2026-06-10",
+    "rating": 6.58,
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Crime"
+    ],
+    "cast": [
+      "Jakub Gierszał",
+      "Marianna Zydek",
+      "Andrzej Chyra",
+      "Beata Ścibakówna",
+      "Adam Bobik"
+    ],
+    "director": "Adrian Panek",
+    "imdb_id": "tt38681832",
+    "poster_path": "/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg",
+    "backdrop_path": "/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
     "facts": [],
     "link_confidence": "NONE"
   },
@@ -1078,7 +1127,7 @@
     "title": "1000 Men and Me: The Bonnie Blue Story",
     "overview": "Adult content creator Bonnie Blue announced that she’d slept with 1057 men in 12 hours. Exploring the polarising debate around Bonnie and the pornification of our society, the film follows her over the most eye-opening six months of her life.",
     "release_date": "2025-07-29",
-    "rating": 5.7,
+    "rating": 5.816,
     "genres": [
       "Documentary",
       "TV Movie"
@@ -1098,36 +1147,11 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1560681,
-    "title": "Colors of Evil: Black",
-    "overview": "Investigating the disappearance of children in a remote Polish town, prosecutor Leopold Bilski must unravel a sinister local legend before it's too late.",
-    "release_date": "2026-06-10",
-    "rating": 6.646,
-    "genres": [
-      "Thriller",
-      "Mystery",
-      "Crime"
-    ],
-    "cast": [
-      "Jakub Gierszał",
-      "Marianna Zydek",
-      "Andrzej Chyra",
-      "Beata Ścibakówna",
-      "Adam Bobik"
-    ],
-    "director": "Adrian Panek",
-    "imdb_id": "tt38681832",
-    "poster_path": "/reeKdj7BSznr7wSGzAtIMrPFgKo.jpg",
-    "backdrop_path": "/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1318447,
     "title": "Apex",
     "overview": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
     "release_date": "2026-04-24",
-    "rating": 6.799,
+    "rating": 6.802,
     "genres": [
       "Action",
       "Thriller"
@@ -1151,7 +1175,7 @@
     "title": "GOAT",
     "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
     "release_date": "2026-02-11",
-    "rating": 8.143,
+    "rating": 8.145,
     "genres": [
       "Animation",
       "Comedy",
@@ -1269,30 +1293,6 @@
     "link_confidence": "NONE"
   },
   {
-    "tmdb_id": 1239134,
-    "title": "Bhooth Bangla",
-    "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
-    "release_date": "2026-04-16",
-    "rating": 6,
-    "genres": [
-      "Horror",
-      "Comedy"
-    ],
-    "cast": [
-      "Akshay Kumar",
-      "Wamiqa Gabbi",
-      "Paresh Rawal",
-      "Tabu",
-      "Jisshu Sengupta"
-    ],
-    "director": "Priyadarshan",
-    "imdb_id": "tt29540862",
-    "poster_path": "/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-    "backdrop_path": "/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-    "facts": [],
-    "link_confidence": "NONE"
-  },
-  {
     "tmdb_id": 1220522,
     "title": "Dacoit",
     "overview": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
@@ -1345,7 +1345,7 @@
     "title": "Toy Story 5",
     "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
     "release_date": "2026-06-17",
-    "rating": 6,
+    "rating": 5.4,
     "genres": [
       "Animation",
       "Family",
@@ -1371,7 +1371,7 @@
     "title": "Real Steel",
     "overview": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
     "release_date": "2011-09-28",
-    "rating": 7.1,
+    "rating": 7.105,
     "genres": [
       "Action",
       "Science Fiction",
@@ -1396,7 +1396,7 @@
     "title": "Dhurandhar",
     "overview": "A mysterious traveler slips into the heart of Karachi's underbelly and rises through its ranks with lethal precision, only to tear the notorious ISI-Underworld nexus apart from within.",
     "release_date": "2025-12-05",
-    "rating": 7.2,
+    "rating": 7.206,
     "genres": [
       "Action",
       "Crime",
@@ -1421,7 +1421,7 @@
     "title": "Interstellar",
     "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
     "release_date": "2014-11-05",
-    "rating": 8.478,
+    "rating": 8.5,
     "genres": [
       "Adventure",
       "Drama",
